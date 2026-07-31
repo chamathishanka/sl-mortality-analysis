@@ -1,0 +1,4357 @@
+country_code,country,year,indicator,value
+LKA,Sri Lanka,2025,life_exp_total,
+LKA,Sri Lanka,2024,life_exp_total,77.672
+LKA,Sri Lanka,2023,life_exp_total,77.483
+LKA,Sri Lanka,2022,life_exp_total,77.3
+LKA,Sri Lanka,2021,life_exp_total,76.278
+LKA,Sri Lanka,2020,life_exp_total,76.928
+LKA,Sri Lanka,2019,life_exp_total,76.698
+LKA,Sri Lanka,2018,life_exp_total,76.485
+LKA,Sri Lanka,2017,life_exp_total,76.239
+LKA,Sri Lanka,2016,life_exp_total,76.136
+LKA,Sri Lanka,2015,life_exp_total,75.99
+LKA,Sri Lanka,2014,life_exp_total,75.757
+LKA,Sri Lanka,2013,life_exp_total,75.546
+LKA,Sri Lanka,2012,life_exp_total,75.187
+LKA,Sri Lanka,2011,life_exp_total,74.74
+LKA,Sri Lanka,2010,life_exp_total,74.463
+LKA,Sri Lanka,2009,life_exp_total,70.298
+LKA,Sri Lanka,2008,life_exp_total,72.556
+LKA,Sri Lanka,2007,life_exp_total,72.983
+LKA,Sri Lanka,2006,life_exp_total,72.825
+LKA,Sri Lanka,2005,life_exp_total,73.073
+LKA,Sri Lanka,2004,life_exp_total,68.022
+LKA,Sri Lanka,2003,life_exp_total,72.442
+LKA,Sri Lanka,2002,life_exp_total,72.271
+LKA,Sri Lanka,2001,life_exp_total,71.804
+LKA,Sri Lanka,2000,life_exp_total,71.179
+LKA,Sri Lanka,1999,life_exp_total,70.427
+LKA,Sri Lanka,1998,life_exp_total,70.134
+LKA,Sri Lanka,1997,life_exp_total,69.934
+LKA,Sri Lanka,1996,life_exp_total,69.841
+LKA,Sri Lanka,1995,life_exp_total,69.746
+LKA,Sri Lanka,1994,life_exp_total,70.211
+LKA,Sri Lanka,1993,life_exp_total,70.049
+LKA,Sri Lanka,1992,life_exp_total,69.619
+LKA,Sri Lanka,1991,life_exp_total,69.131
+LKA,Sri Lanka,1990,life_exp_total,69.239
+LKA,Sri Lanka,1989,life_exp_total,67.284
+LKA,Sri Lanka,1988,life_exp_total,68.995
+LKA,Sri Lanka,1987,life_exp_total,69.009
+LKA,Sri Lanka,1986,life_exp_total,68.962
+LKA,Sri Lanka,1985,life_exp_total,68.881
+LKA,Sri Lanka,1984,life_exp_total,68.761
+LKA,Sri Lanka,1983,life_exp_total,68.726
+LKA,Sri Lanka,1982,life_exp_total,68.665
+LKA,Sri Lanka,1981,life_exp_total,68.38
+LKA,Sri Lanka,1980,life_exp_total,68.006
+LKA,Sri Lanka,1979,life_exp_total,67.514
+LKA,Sri Lanka,1978,life_exp_total,66.844
+LKA,Sri Lanka,1977,life_exp_total,66.391
+LKA,Sri Lanka,1976,life_exp_total,65.84
+LKA,Sri Lanka,1975,life_exp_total,65.355
+LKA,Sri Lanka,1974,life_exp_total,64.966
+LKA,Sri Lanka,1973,life_exp_total,64.785
+LKA,Sri Lanka,1972,life_exp_total,64.625
+LKA,Sri Lanka,1971,life_exp_total,64.24
+LKA,Sri Lanka,1970,life_exp_total,64.352
+LKA,Sri Lanka,1969,life_exp_total,64.138
+LKA,Sri Lanka,1968,life_exp_total,63.869
+LKA,Sri Lanka,1967,life_exp_total,63.556
+LKA,Sri Lanka,1966,life_exp_total,63.156
+LKA,Sri Lanka,1965,life_exp_total,62.793
+LKA,Sri Lanka,1964,life_exp_total,62.376
+LKA,Sri Lanka,1963,life_exp_total,62.031
+LKA,Sri Lanka,1962,life_exp_total,61.627
+LKA,Sri Lanka,1961,life_exp_total,61.158
+LKA,Sri Lanka,1960,life_exp_total,60.602
+LKA,Sri Lanka,2025,life_exp_male,
+LKA,Sri Lanka,2024,life_exp_male,74.447
+LKA,Sri Lanka,2023,life_exp_male,74.244
+LKA,Sri Lanka,2022,life_exp_male,74.033
+LKA,Sri Lanka,2021,life_exp_male,72.97
+LKA,Sri Lanka,2020,life_exp_male,73.691
+LKA,Sri Lanka,2019,life_exp_male,73.424
+LKA,Sri Lanka,2018,life_exp_male,73.107
+LKA,Sri Lanka,2017,life_exp_male,72.847
+LKA,Sri Lanka,2016,life_exp_male,72.738
+LKA,Sri Lanka,2015,life_exp_male,72.572
+LKA,Sri Lanka,2014,life_exp_male,72.325
+LKA,Sri Lanka,2013,life_exp_male,72.164
+LKA,Sri Lanka,2012,life_exp_male,71.778
+LKA,Sri Lanka,2011,life_exp_male,71.224
+LKA,Sri Lanka,2010,life_exp_male,70.862
+LKA,Sri Lanka,2009,life_exp_male,65.696
+LKA,Sri Lanka,2008,life_exp_male,67.879
+LKA,Sri Lanka,2007,life_exp_male,68.954
+LKA,Sri Lanka,2006,life_exp_male,68.823
+LKA,Sri Lanka,2005,life_exp_male,69.391
+LKA,Sri Lanka,2004,life_exp_male,65.22
+LKA,Sri Lanka,2003,life_exp_male,68.659
+LKA,Sri Lanka,2002,life_exp_male,68.314
+LKA,Sri Lanka,2001,life_exp_male,67.71
+LKA,Sri Lanka,2000,life_exp_male,66.774
+LKA,Sri Lanka,1999,life_exp_male,65.926
+LKA,Sri Lanka,1998,life_exp_male,65.633
+LKA,Sri Lanka,1997,life_exp_male,65.477
+LKA,Sri Lanka,1996,life_exp_male,65.481
+LKA,Sri Lanka,1995,life_exp_male,65.316
+LKA,Sri Lanka,1994,life_exp_male,66.207
+LKA,Sri Lanka,1993,life_exp_male,66.079
+LKA,Sri Lanka,1992,life_exp_male,65.502
+LKA,Sri Lanka,1991,life_exp_male,64.844
+LKA,Sri Lanka,1990,life_exp_male,65.198
+LKA,Sri Lanka,1989,life_exp_male,62.808
+LKA,Sri Lanka,1988,life_exp_male,65.2
+LKA,Sri Lanka,1987,life_exp_male,65.438
+LKA,Sri Lanka,1986,life_exp_male,65.559
+LKA,Sri Lanka,1985,life_exp_male,65.638
+LKA,Sri Lanka,1984,life_exp_male,65.694
+LKA,Sri Lanka,1983,life_exp_male,65.946
+LKA,Sri Lanka,1982,life_exp_male,66.083
+LKA,Sri Lanka,1981,life_exp_male,65.929
+LKA,Sri Lanka,1980,life_exp_male,65.67
+LKA,Sri Lanka,1979,life_exp_male,65.249
+LKA,Sri Lanka,1978,life_exp_male,64.68
+LKA,Sri Lanka,1977,life_exp_male,64.256
+LKA,Sri Lanka,1976,life_exp_male,63.772
+LKA,Sri Lanka,1975,life_exp_male,63.318
+LKA,Sri Lanka,1974,life_exp_male,62.979
+LKA,Sri Lanka,1973,life_exp_male,62.849
+LKA,Sri Lanka,1972,life_exp_male,62.726
+LKA,Sri Lanka,1971,life_exp_male,62.184
+LKA,Sri Lanka,1970,life_exp_male,62.49
+LKA,Sri Lanka,1969,life_exp_male,62.276
+LKA,Sri Lanka,1968,life_exp_male,62.007
+LKA,Sri Lanka,1967,life_exp_male,61.703
+LKA,Sri Lanka,1966,life_exp_male,61.355
+LKA,Sri Lanka,1965,life_exp_male,61.036
+LKA,Sri Lanka,1964,life_exp_male,60.688
+LKA,Sri Lanka,1963,life_exp_male,60.392
+LKA,Sri Lanka,1962,life_exp_male,60.048
+LKA,Sri Lanka,1961,life_exp_male,59.611
+LKA,Sri Lanka,1960,life_exp_male,59.065
+LKA,Sri Lanka,2025,life_exp_female,
+LKA,Sri Lanka,2024,life_exp_female,80.746
+LKA,Sri Lanka,2023,life_exp_female,80.593
+LKA,Sri Lanka,2022,life_exp_female,80.451
+LKA,Sri Lanka,2021,life_exp_female,79.522
+LKA,Sri Lanka,2020,life_exp_female,80.066
+LKA,Sri Lanka,2019,life_exp_female,79.888
+LKA,Sri Lanka,2018,life_exp_female,79.812
+LKA,Sri Lanka,2017,life_exp_female,79.592
+LKA,Sri Lanka,2016,life_exp_female,79.507
+LKA,Sri Lanka,2015,life_exp_female,79.395
+LKA,Sri Lanka,2014,life_exp_female,79.194
+LKA,Sri Lanka,2013,life_exp_female,78.934
+LKA,Sri Lanka,2012,life_exp_female,78.624
+LKA,Sri Lanka,2011,life_exp_female,78.342
+LKA,Sri Lanka,2010,life_exp_female,78.2
+LKA,Sri Lanka,2009,life_exp_female,75.335
+LKA,Sri Lanka,2008,life_exp_female,77.69
+LKA,Sri Lanka,2007,life_exp_female,77.34
+LKA,Sri Lanka,2006,life_exp_female,77.173
+LKA,Sri Lanka,2005,life_exp_female,77.061
+LKA,Sri Lanka,2004,life_exp_female,71.037
+LKA,Sri Lanka,2003,life_exp_female,76.624
+LKA,Sri Lanka,2002,life_exp_female,76.734
+LKA,Sri Lanka,2001,life_exp_female,76.481
+LKA,Sri Lanka,2000,life_exp_female,76.292
+LKA,Sri Lanka,1999,life_exp_female,75.762
+LKA,Sri Lanka,1998,life_exp_female,75.49
+LKA,Sri Lanka,1997,life_exp_female,75.251
+LKA,Sri Lanka,1996,life_exp_female,75.041
+LKA,Sri Lanka,1995,life_exp_female,75.041
+LKA,Sri Lanka,1994,life_exp_female,74.963
+LKA,Sri Lanka,1993,life_exp_female,74.777
+LKA,Sri Lanka,1992,life_exp_female,74.574
+LKA,Sri Lanka,1991,life_exp_female,74.359
+LKA,Sri Lanka,1990,life_exp_female,74.187
+LKA,Sri Lanka,1989,life_exp_female,72.86
+LKA,Sri Lanka,1988,life_exp_female,73.689
+LKA,Sri Lanka,1987,life_exp_female,73.421
+LKA,Sri Lanka,1986,life_exp_female,73.158
+LKA,Sri Lanka,1985,life_exp_female,72.863
+LKA,Sri Lanka,1984,life_exp_female,72.503
+LKA,Sri Lanka,1983,life_exp_female,72.101
+LKA,Sri Lanka,1982,life_exp_female,71.784
+LKA,Sri Lanka,1981,life_exp_female,71.33
+LKA,Sri Lanka,1980,life_exp_female,70.808
+LKA,Sri Lanka,1979,life_exp_female,70.232
+LKA,Sri Lanka,1978,life_exp_female,69.439
+LKA,Sri Lanka,1977,life_exp_female,68.956
+LKA,Sri Lanka,1976,life_exp_female,68.324
+LKA,Sri Lanka,1975,life_exp_female,67.812
+LKA,Sri Lanka,1974,life_exp_female,67.366
+LKA,Sri Lanka,1973,life_exp_female,67.129
+LKA,Sri Lanka,1972,life_exp_female,66.931
+LKA,Sri Lanka,1971,life_exp_female,66.75
+LKA,Sri Lanka,1970,life_exp_female,66.64
+LKA,Sri Lanka,1969,life_exp_female,66.443
+LKA,Sri Lanka,1968,life_exp_female,66.195
+LKA,Sri Lanka,1967,life_exp_female,65.887
+LKA,Sri Lanka,1966,life_exp_female,65.431
+LKA,Sri Lanka,1965,life_exp_female,65.02
+LKA,Sri Lanka,1964,life_exp_female,64.522
+LKA,Sri Lanka,1963,life_exp_female,64.122
+LKA,Sri Lanka,1962,life_exp_female,63.648
+LKA,Sri Lanka,1961,life_exp_female,63.15
+LKA,Sri Lanka,1960,life_exp_female,62.6
+LKA,Sri Lanka,2025,adult_mortality_male,
+LKA,Sri Lanka,2024,adult_mortality_male,133.789
+LKA,Sri Lanka,2023,adult_mortality_male,128.86
+LKA,Sri Lanka,2022,adult_mortality_male,132.356
+LKA,Sri Lanka,2021,adult_mortality_male,151.505
+LKA,Sri Lanka,2020,adult_mortality_male,138.378
+LKA,Sri Lanka,2019,adult_mortality_male,142.664
+LKA,Sri Lanka,2018,adult_mortality_male,147.198
+LKA,Sri Lanka,2017,adult_mortality_male,151.018
+LKA,Sri Lanka,2016,adult_mortality_male,153.107
+LKA,Sri Lanka,2015,adult_mortality_male,155.948
+LKA,Sri Lanka,2014,adult_mortality_male,159.64
+LKA,Sri Lanka,2013,adult_mortality_male,162.232
+LKA,Sri Lanka,2012,adult_mortality_male,167.921
+LKA,Sri Lanka,2011,adult_mortality_male,176.009
+LKA,Sri Lanka,2010,adult_mortality_male,181.58
+LKA,Sri Lanka,2009,adult_mortality_male,268.235
+LKA,Sri Lanka,2008,adult_mortality_male,241.268
+LKA,Sri Lanka,2007,adult_mortality_male,216.034
+LKA,Sri Lanka,2006,adult_mortality_male,217.215
+LKA,Sri Lanka,2005,adult_mortality_male,202.607
+LKA,Sri Lanka,2004,adult_mortality_male,252.386
+LKA,Sri Lanka,2003,adult_mortality_male,212.419
+LKA,Sri Lanka,2002,adult_mortality_male,217.328
+LKA,Sri Lanka,2001,adult_mortality_male,227.599
+LKA,Sri Lanka,2000,adult_mortality_male,245.601
+LKA,Sri Lanka,1999,adult_mortality_male,258.676
+LKA,Sri Lanka,1998,adult_mortality_male,263.21
+LKA,Sri Lanka,1997,adult_mortality_male,264.887
+LKA,Sri Lanka,1996,adult_mortality_male,262.746
+LKA,Sri Lanka,1995,adult_mortality_male,266.679
+LKA,Sri Lanka,1994,adult_mortality_male,246.641
+LKA,Sri Lanka,1993,adult_mortality_male,248.508
+LKA,Sri Lanka,1992,adult_mortality_male,259.949
+LKA,Sri Lanka,1991,adult_mortality_male,272.711
+LKA,Sri Lanka,1990,adult_mortality_male,263.379
+LKA,Sri Lanka,1989,adult_mortality_male,305.57
+LKA,Sri Lanka,1988,adult_mortality_male,259.319
+LKA,Sri Lanka,1987,adult_mortality_male,251.839
+LKA,Sri Lanka,1986,adult_mortality_male,246.601
+LKA,Sri Lanka,1985,adult_mortality_male,242.154
+LKA,Sri Lanka,1984,adult_mortality_male,237.634
+LKA,Sri Lanka,1983,adult_mortality_male,227.275
+LKA,Sri Lanka,1982,adult_mortality_male,220.795
+LKA,Sri Lanka,1981,adult_mortality_male,219.266
+LKA,Sri Lanka,1980,adult_mortality_male,219.281
+LKA,Sri Lanka,1979,adult_mortality_male,221.878
+LKA,Sri Lanka,1978,adult_mortality_male,225.973
+LKA,Sri Lanka,1977,adult_mortality_male,229.854
+LKA,Sri Lanka,1976,adult_mortality_male,234.127
+LKA,Sri Lanka,1975,adult_mortality_male,238.507
+LKA,Sri Lanka,1974,adult_mortality_male,241.528
+LKA,Sri Lanka,1973,adult_mortality_male,241.854
+LKA,Sri Lanka,1972,adult_mortality_male,242.452
+LKA,Sri Lanka,1971,adult_mortality_male,253.201
+LKA,Sri Lanka,1970,adult_mortality_male,244.07
+LKA,Sri Lanka,1969,adult_mortality_male,246.285
+LKA,Sri Lanka,1968,adult_mortality_male,249.472
+LKA,Sri Lanka,1967,adult_mortality_male,252.895
+LKA,Sri Lanka,1966,adult_mortality_male,257.052
+LKA,Sri Lanka,1965,adult_mortality_male,260.664
+LKA,Sri Lanka,1964,adult_mortality_male,264.34
+LKA,Sri Lanka,1963,adult_mortality_male,267.675
+LKA,Sri Lanka,1962,adult_mortality_male,271.17
+LKA,Sri Lanka,1961,adult_mortality_male,275.635
+LKA,Sri Lanka,1960,adult_mortality_male,281.395
+LKA,Sri Lanka,2025,adult_mortality_female,
+LKA,Sri Lanka,2024,adult_mortality_female,55.984
+LKA,Sri Lanka,2023,adult_mortality_female,55.072
+LKA,Sri Lanka,2022,adult_mortality_female,56.17
+LKA,Sri Lanka,2021,adult_mortality_female,65.488
+LKA,Sri Lanka,2020,adult_mortality_female,59.023
+LKA,Sri Lanka,2019,adult_mortality_female,60.443
+LKA,Sri Lanka,2018,adult_mortality_female,61.088
+LKA,Sri Lanka,2017,adult_mortality_female,62.897
+LKA,Sri Lanka,2016,adult_mortality_female,63.475
+LKA,Sri Lanka,2015,adult_mortality_female,64.47
+LKA,Sri Lanka,2014,adult_mortality_female,66.179
+LKA,Sri Lanka,2013,adult_mortality_female,67.996
+LKA,Sri Lanka,2012,adult_mortality_female,70.402
+LKA,Sri Lanka,2011,adult_mortality_female,72.729
+LKA,Sri Lanka,2010,adult_mortality_female,73.798
+LKA,Sri Lanka,2009,adult_mortality_female,99.972
+LKA,Sri Lanka,2008,adult_mortality_female,80.51
+LKA,Sri Lanka,2007,adult_mortality_female,82.031
+LKA,Sri Lanka,2006,adult_mortality_female,83.41
+LKA,Sri Lanka,2005,adult_mortality_female,83.528
+LKA,Sri Lanka,2004,adult_mortality_female,156.949
+LKA,Sri Lanka,2003,adult_mortality_female,87.118
+LKA,Sri Lanka,2002,adult_mortality_female,86.295
+LKA,Sri Lanka,2001,adult_mortality_female,88.73
+LKA,Sri Lanka,2000,adult_mortality_female,91.015
+LKA,Sri Lanka,1999,adult_mortality_female,95.637
+LKA,Sri Lanka,1998,adult_mortality_female,98.234
+LKA,Sri Lanka,1997,adult_mortality_female,100.406
+LKA,Sri Lanka,1996,adult_mortality_female,102.167
+LKA,Sri Lanka,1995,adult_mortality_female,102.632
+LKA,Sri Lanka,1994,adult_mortality_female,102.711
+LKA,Sri Lanka,1993,adult_mortality_female,104.807
+LKA,Sri Lanka,1992,adult_mortality_female,107.407
+LKA,Sri Lanka,1991,adult_mortality_female,110.184
+LKA,Sri Lanka,1990,adult_mortality_female,111.657
+LKA,Sri Lanka,1989,adult_mortality_female,125.007
+LKA,Sri Lanka,1988,adult_mortality_female,116.449
+LKA,Sri Lanka,1987,adult_mortality_female,118.583
+LKA,Sri Lanka,1986,adult_mortality_female,120.46
+LKA,Sri Lanka,1985,adult_mortality_female,122.572
+LKA,Sri Lanka,1984,adult_mortality_female,125.068
+LKA,Sri Lanka,1983,adult_mortality_female,127.376
+LKA,Sri Lanka,1982,adult_mortality_female,129.251
+LKA,Sri Lanka,1981,adult_mortality_female,132.602
+LKA,Sri Lanka,1980,adult_mortality_female,136.722
+LKA,Sri Lanka,1979,adult_mortality_female,141.481
+LKA,Sri Lanka,1978,adult_mortality_female,148.897
+LKA,Sri Lanka,1977,adult_mortality_female,153.06
+LKA,Sri Lanka,1976,adult_mortality_female,159.318
+LKA,Sri Lanka,1975,adult_mortality_female,164.527
+LKA,Sri Lanka,1974,adult_mortality_female,169.358
+LKA,Sri Lanka,1973,adult_mortality_female,171.881
+LKA,Sri Lanka,1972,adult_mortality_female,174.198
+LKA,Sri Lanka,1971,adult_mortality_female,176.811
+LKA,Sri Lanka,1970,adult_mortality_female,177.767
+LKA,Sri Lanka,1969,adult_mortality_female,179.961
+LKA,Sri Lanka,1968,adult_mortality_female,182.896
+LKA,Sri Lanka,1967,adult_mortality_female,186.322
+LKA,Sri Lanka,1966,adult_mortality_female,191.877
+LKA,Sri Lanka,1965,adult_mortality_female,196.766
+LKA,Sri Lanka,1964,adult_mortality_female,202.708
+LKA,Sri Lanka,1963,adult_mortality_female,207.328
+LKA,Sri Lanka,1962,adult_mortality_female,212.59
+LKA,Sri Lanka,1961,adult_mortality_female,217.641
+LKA,Sri Lanka,1960,adult_mortality_female,222.855
+LKA,Sri Lanka,2025,infant_mortality,
+LKA,Sri Lanka,2024,infant_mortality,5.2
+LKA,Sri Lanka,2023,infant_mortality,5.3
+LKA,Sri Lanka,2022,infant_mortality,5.5
+LKA,Sri Lanka,2021,infant_mortality,5.8
+LKA,Sri Lanka,2020,infant_mortality,6.0
+LKA,Sri Lanka,2019,infant_mortality,6.2
+LKA,Sri Lanka,2018,infant_mortality,6.5
+LKA,Sri Lanka,2017,infant_mortality,6.7
+LKA,Sri Lanka,2016,infant_mortality,7.0
+LKA,Sri Lanka,2015,infant_mortality,7.4
+LKA,Sri Lanka,2014,infant_mortality,7.7
+LKA,Sri Lanka,2013,infant_mortality,8.1
+LKA,Sri Lanka,2012,infant_mortality,8.5
+LKA,Sri Lanka,2011,infant_mortality,8.9
+LKA,Sri Lanka,2010,infant_mortality,9.1
+LKA,Sri Lanka,2009,infant_mortality,13.3
+LKA,Sri Lanka,2008,infant_mortality,9.7
+LKA,Sri Lanka,2007,infant_mortality,10.1
+LKA,Sri Lanka,2006,infant_mortality,10.7
+LKA,Sri Lanka,2005,infant_mortality,11.2
+LKA,Sri Lanka,2004,infant_mortality,16.8
+LKA,Sri Lanka,2003,infant_mortality,12.1
+LKA,Sri Lanka,2002,infant_mortality,12.4
+LKA,Sri Lanka,2001,infant_mortality,12.7
+LKA,Sri Lanka,2000,infant_mortality,13.0
+LKA,Sri Lanka,1999,infant_mortality,13.5
+LKA,Sri Lanka,1998,infant_mortality,14.1
+LKA,Sri Lanka,1997,infant_mortality,14.9
+LKA,Sri Lanka,1996,infant_mortality,15.6
+LKA,Sri Lanka,1995,infant_mortality,16.3
+LKA,Sri Lanka,1994,infant_mortality,17.0
+LKA,Sri Lanka,1993,infant_mortality,17.5
+LKA,Sri Lanka,1992,infant_mortality,17.9
+LKA,Sri Lanka,1991,infant_mortality,18.0
+LKA,Sri Lanka,1990,infant_mortality,17.9
+LKA,Sri Lanka,1989,infant_mortality,19.5
+LKA,Sri Lanka,1988,infant_mortality,18.1
+LKA,Sri Lanka,1987,infant_mortality,18.8
+LKA,Sri Lanka,1986,infant_mortality,20.2
+LKA,Sri Lanka,1985,infant_mortality,22.1
+LKA,Sri Lanka,1984,infant_mortality,24.3
+LKA,Sri Lanka,1983,infant_mortality,26.6
+LKA,Sri Lanka,1982,infant_mortality,28.7
+LKA,Sri Lanka,1981,infant_mortality,30.8
+LKA,Sri Lanka,1980,infant_mortality,33.2
+LKA,Sri Lanka,1979,infant_mortality,35.7
+LKA,Sri Lanka,1978,infant_mortality,38.3
+LKA,Sri Lanka,1977,infant_mortality,41.0
+LKA,Sri Lanka,1976,infant_mortality,43.4
+LKA,Sri Lanka,1975,infant_mortality,45.2
+LKA,Sri Lanka,1974,infant_mortality,46.5
+LKA,Sri Lanka,1973,infant_mortality,47.3
+LKA,Sri Lanka,1972,infant_mortality,47.7
+LKA,Sri Lanka,1971,infant_mortality,48.0
+LKA,Sri Lanka,1970,infant_mortality,48.3
+LKA,Sri Lanka,1969,infant_mortality,48.8
+LKA,Sri Lanka,1968,infant_mortality,49.6
+LKA,Sri Lanka,1967,infant_mortality,50.7
+LKA,Sri Lanka,1966,infant_mortality,51.8
+LKA,Sri Lanka,1965,infant_mortality,52.9
+LKA,Sri Lanka,1964,infant_mortality,53.6
+LKA,Sri Lanka,1963,infant_mortality,54.0
+LKA,Sri Lanka,1962,infant_mortality,54.3
+LKA,Sri Lanka,1961,infant_mortality,55.2
+LKA,Sri Lanka,1960,infant_mortality,57.1
+LKA,Sri Lanka,2025,under5_mortality,
+LKA,Sri Lanka,2024,under5_mortality,5.9
+LKA,Sri Lanka,2023,under5_mortality,6.1
+LKA,Sri Lanka,2022,under5_mortality,6.3
+LKA,Sri Lanka,2021,under5_mortality,6.6
+LKA,Sri Lanka,2020,under5_mortality,6.9
+LKA,Sri Lanka,2019,under5_mortality,7.2
+LKA,Sri Lanka,2018,under5_mortality,7.6
+LKA,Sri Lanka,2017,under5_mortality,7.9
+LKA,Sri Lanka,2016,under5_mortality,8.3
+LKA,Sri Lanka,2015,under5_mortality,8.7
+LKA,Sri Lanka,2014,under5_mortality,9.2
+LKA,Sri Lanka,2013,under5_mortality,9.8
+LKA,Sri Lanka,2012,under5_mortality,10.3
+LKA,Sri Lanka,2011,under5_mortality,10.8
+LKA,Sri Lanka,2010,under5_mortality,11.2
+LKA,Sri Lanka,2009,under5_mortality,21.5
+LKA,Sri Lanka,2008,under5_mortality,12.0
+LKA,Sri Lanka,2007,under5_mortality,12.6
+LKA,Sri Lanka,2006,under5_mortality,13.3
+LKA,Sri Lanka,2005,under5_mortality,14.0
+LKA,Sri Lanka,2004,under5_mortality,29.0
+LKA,Sri Lanka,2003,under5_mortality,15.2
+LKA,Sri Lanka,2002,under5_mortality,15.5
+LKA,Sri Lanka,2001,under5_mortality,15.8
+LKA,Sri Lanka,2000,under5_mortality,16.3
+LKA,Sri Lanka,1999,under5_mortality,16.9
+LKA,Sri Lanka,1998,under5_mortality,17.6
+LKA,Sri Lanka,1997,under5_mortality,18.6
+LKA,Sri Lanka,1996,under5_mortality,19.5
+LKA,Sri Lanka,1995,under5_mortality,20.5
+LKA,Sri Lanka,1994,under5_mortality,21.4
+LKA,Sri Lanka,1993,under5_mortality,22.2
+LKA,Sri Lanka,1992,under5_mortality,22.9
+LKA,Sri Lanka,1991,under5_mortality,23.2
+LKA,Sri Lanka,1990,under5_mortality,23.3
+LKA,Sri Lanka,1989,under5_mortality,27.9
+LKA,Sri Lanka,1988,under5_mortality,24.1
+LKA,Sri Lanka,1987,under5_mortality,25.3
+LKA,Sri Lanka,1986,under5_mortality,27.4
+LKA,Sri Lanka,1985,under5_mortality,30.2
+LKA,Sri Lanka,1984,under5_mortality,33.5
+LKA,Sri Lanka,1983,under5_mortality,36.7
+LKA,Sri Lanka,1982,under5_mortality,39.8
+LKA,Sri Lanka,1981,under5_mortality,42.9
+LKA,Sri Lanka,1980,under5_mortality,46.3
+LKA,Sri Lanka,1979,under5_mortality,49.9
+LKA,Sri Lanka,1978,under5_mortality,53.7
+LKA,Sri Lanka,1977,under5_mortality,57.6
+LKA,Sri Lanka,1976,under5_mortality,61.1
+LKA,Sri Lanka,1975,under5_mortality,63.8
+LKA,Sri Lanka,1974,under5_mortality,65.9
+LKA,Sri Lanka,1973,under5_mortality,67.3
+LKA,Sri Lanka,1972,under5_mortality,68.3
+LKA,Sri Lanka,1971,under5_mortality,69.1
+LKA,Sri Lanka,1970,under5_mortality,70.1
+LKA,Sri Lanka,1969,under5_mortality,71.3
+LKA,Sri Lanka,1968,under5_mortality,73.1
+LKA,Sri Lanka,1967,under5_mortality,75.5
+LKA,Sri Lanka,1966,under5_mortality,78.1
+LKA,Sri Lanka,1965,under5_mortality,80.7
+LKA,Sri Lanka,1964,under5_mortality,83.0
+LKA,Sri Lanka,1963,under5_mortality,84.8
+LKA,Sri Lanka,1962,under5_mortality,86.7
+LKA,Sri Lanka,1961,under5_mortality,89.6
+LKA,Sri Lanka,1960,under5_mortality,94.1
+LKA,Sri Lanka,2025,crude_death_rate,
+LKA,Sri Lanka,2024,crude_death_rate,7.8
+LKA,Sri Lanka,2023,crude_death_rate,8.2
+LKA,Sri Lanka,2022,crude_death_rate,8.1
+LKA,Sri Lanka,2021,crude_death_rate,7.4
+LKA,Sri Lanka,2020,crude_death_rate,6.0
+LKA,Sri Lanka,2019,crude_death_rate,6.7
+LKA,Sri Lanka,2018,crude_death_rate,6.677
+LKA,Sri Lanka,2017,crude_death_rate,6.608
+LKA,Sri Lanka,2016,crude_death_rate,6.493
+LKA,Sri Lanka,2015,crude_death_rate,6.398
+LKA,Sri Lanka,2014,crude_death_rate,6.341
+LKA,Sri Lanka,2013,crude_death_rate,6.291
+LKA,Sri Lanka,2012,crude_death_rate,6.324
+LKA,Sri Lanka,2011,crude_death_rate,6.407
+LKA,Sri Lanka,2010,crude_death_rate,6.403
+LKA,Sri Lanka,2009,crude_death_rate,7.984
+LKA,Sri Lanka,2008,crude_death_rate,6.947
+LKA,Sri Lanka,2007,crude_death_rate,6.694
+LKA,Sri Lanka,2006,crude_death_rate,6.632
+LKA,Sri Lanka,2005,crude_death_rate,6.415
+LKA,Sri Lanka,2004,crude_death_rate,8.246
+LKA,Sri Lanka,2003,crude_death_rate,6.462
+LKA,Sri Lanka,2002,crude_death_rate,6.406
+LKA,Sri Lanka,2001,crude_death_rate,6.482
+LKA,Sri Lanka,2000,crude_death_rate,6.633
+LKA,Sri Lanka,1999,crude_death_rate,6.944
+LKA,Sri Lanka,1998,crude_death_rate,7.005
+LKA,Sri Lanka,1997,crude_death_rate,7.043
+LKA,Sri Lanka,1996,crude_death_rate,7.019
+LKA,Sri Lanka,1995,crude_death_rate,6.988
+LKA,Sri Lanka,1994,crude_death_rate,6.715
+LKA,Sri Lanka,1993,crude_death_rate,6.689
+LKA,Sri Lanka,1992,crude_death_rate,6.781
+LKA,Sri Lanka,1991,crude_death_rate,6.917
+LKA,Sri Lanka,1990,crude_death_rate,6.809
+LKA,Sri Lanka,1989,crude_death_rate,7.504
+LKA,Sri Lanka,1988,crude_death_rate,6.708
+LKA,Sri Lanka,1987,crude_death_rate,6.608
+LKA,Sri Lanka,1986,crude_death_rate,6.528
+LKA,Sri Lanka,1985,crude_death_rate,6.479
+LKA,Sri Lanka,1984,crude_death_rate,6.448
+LKA,Sri Lanka,1983,crude_death_rate,6.368
+LKA,Sri Lanka,1982,crude_death_rate,6.326
+LKA,Sri Lanka,1981,crude_death_rate,6.407
+LKA,Sri Lanka,1980,crude_death_rate,6.503
+LKA,Sri Lanka,1979,crude_death_rate,6.662
+LKA,Sri Lanka,1978,crude_death_rate,6.87
+LKA,Sri Lanka,1977,crude_death_rate,6.988
+LKA,Sri Lanka,1976,crude_death_rate,7.175
+LKA,Sri Lanka,1975,crude_death_rate,7.34
+LKA,Sri Lanka,1974,crude_death_rate,7.481
+LKA,Sri Lanka,1973,crude_death_rate,7.567
+LKA,Sri Lanka,1972,crude_death_rate,7.652
+LKA,Sri Lanka,1971,crude_death_rate,7.828
+LKA,Sri Lanka,1970,crude_death_rate,7.827
+LKA,Sri Lanka,1969,crude_death_rate,7.961
+LKA,Sri Lanka,1968,crude_death_rate,8.139
+LKA,Sri Lanka,1967,crude_death_rate,8.341
+LKA,Sri Lanka,1966,crude_death_rate,8.585
+LKA,Sri Lanka,1965,crude_death_rate,8.853
+LKA,Sri Lanka,1964,crude_death_rate,9.165
+LKA,Sri Lanka,1963,crude_death_rate,9.451
+LKA,Sri Lanka,1962,crude_death_rate,9.794
+LKA,Sri Lanka,1961,crude_death_rate,10.204
+LKA,Sri Lanka,1960,crude_death_rate,10.699
+LKA,Sri Lanka,2025,pop_65plus_pct,12.4747139630238
+LKA,Sri Lanka,2024,pop_65plus_pct,12.1039396323455
+LKA,Sri Lanka,2023,pop_65plus_pct,11.7387099915518
+LKA,Sri Lanka,2022,pop_65plus_pct,11.3824347880542
+LKA,Sri Lanka,2021,pop_65plus_pct,11.0456449788576
+LKA,Sri Lanka,2020,pop_65plus_pct,10.7157108470966
+LKA,Sri Lanka,2019,pop_65plus_pct,10.3754608627101
+LKA,Sri Lanka,2018,pop_65plus_pct,10.0359733858419
+LKA,Sri Lanka,2017,pop_65plus_pct,9.69368587386127
+LKA,Sri Lanka,2016,pop_65plus_pct,9.34550801437968
+LKA,Sri Lanka,2015,pop_65plus_pct,8.99054561576392
+LKA,Sri Lanka,2014,pop_65plus_pct,8.63567606310462
+LKA,Sri Lanka,2013,pop_65plus_pct,8.29233506128403
+LKA,Sri Lanka,2012,pop_65plus_pct,7.97040481622156
+LKA,Sri Lanka,2011,pop_65plus_pct,7.68004813925886
+LKA,Sri Lanka,2010,pop_65plus_pct,7.42722778757253
+LKA,Sri Lanka,2009,pop_65plus_pct,7.21487095447749
+LKA,Sri Lanka,2008,pop_65plus_pct,7.03175830119551
+LKA,Sri Lanka,2007,pop_65plus_pct,6.87105969512328
+LKA,Sri Lanka,2006,pop_65plus_pct,6.73593659247546
+LKA,Sri Lanka,2005,pop_65plus_pct,6.62129388263546
+LKA,Sri Lanka,2004,pop_65plus_pct,6.52675617625894
+LKA,Sri Lanka,2003,pop_65plus_pct,6.44049627994537
+LKA,Sri Lanka,2002,pop_65plus_pct,6.35100853529823
+LKA,Sri Lanka,2001,pop_65plus_pct,6.26889936346841
+LKA,Sri Lanka,2000,pop_65plus_pct,6.20541999740995
+LKA,Sri Lanka,1999,pop_65plus_pct,6.1607632792665
+LKA,Sri Lanka,1998,pop_65plus_pct,6.13115087150717
+LKA,Sri Lanka,1997,pop_65plus_pct,6.11075612937166
+LKA,Sri Lanka,1996,pop_65plus_pct,6.09409607965767
+LKA,Sri Lanka,1995,pop_65plus_pct,6.07533818689777
+LKA,Sri Lanka,1994,pop_65plus_pct,6.0214264791096
+LKA,Sri Lanka,1993,pop_65plus_pct,5.93343906820651
+LKA,Sri Lanka,1992,pop_65plus_pct,5.84838950842788
+LKA,Sri Lanka,1991,pop_65plus_pct,5.75518455491714
+LKA,Sri Lanka,1990,pop_65plus_pct,5.62486708802026
+LKA,Sri Lanka,1989,pop_65plus_pct,5.49572802064823
+LKA,Sri Lanka,1988,pop_65plus_pct,5.38333480215747
+LKA,Sri Lanka,1987,pop_65plus_pct,5.26332736387525
+LKA,Sri Lanka,1986,pop_65plus_pct,5.14941384370664
+LKA,Sri Lanka,1985,pop_65plus_pct,5.03640484507567
+LKA,Sri Lanka,1984,pop_65plus_pct,4.90374556250819
+LKA,Sri Lanka,1983,pop_65plus_pct,4.76189346735379
+LKA,Sri Lanka,1982,pop_65plus_pct,4.63348949985011
+LKA,Sri Lanka,1981,pop_65plus_pct,4.52484447409681
+LKA,Sri Lanka,1980,pop_65plus_pct,4.43099846484106
+LKA,Sri Lanka,1979,pop_65plus_pct,4.34361979679297
+LKA,Sri Lanka,1978,pop_65plus_pct,4.26110094892233
+LKA,Sri Lanka,1977,pop_65plus_pct,4.18194507846846
+LKA,Sri Lanka,1976,pop_65plus_pct,4.10880242653905
+LKA,Sri Lanka,1975,pop_65plus_pct,4.04381996627275
+LKA,Sri Lanka,1974,pop_65plus_pct,3.98580893156035
+LKA,Sri Lanka,1973,pop_65plus_pct,3.93524466430992
+LKA,Sri Lanka,1972,pop_65plus_pct,3.89257569068494
+LKA,Sri Lanka,1971,pop_65plus_pct,3.85574785032716
+LKA,Sri Lanka,1970,pop_65plus_pct,3.82445912830601
+LKA,Sri Lanka,1969,pop_65plus_pct,3.80011998644066
+LKA,Sri Lanka,1968,pop_65plus_pct,3.78366709588408
+LKA,Sri Lanka,1967,pop_65plus_pct,3.77719378474659
+LKA,Sri Lanka,1966,pop_65plus_pct,3.78454225632791
+LKA,Sri Lanka,1965,pop_65plus_pct,3.80921821262678
+LKA,Sri Lanka,1964,pop_65plus_pct,3.85298716705043
+LKA,Sri Lanka,1963,pop_65plus_pct,3.91720012223138
+LKA,Sri Lanka,1962,pop_65plus_pct,4.00151679553333
+LKA,Sri Lanka,1961,pop_65plus_pct,4.10339645265394
+LKA,Sri Lanka,1960,pop_65plus_pct,4.223616293682
+LKA,Sri Lanka,2025,old_age_dependency,18.9514852970217
+LKA,Sri Lanka,2024,old_age_dependency,18.3766728185512
+LKA,Sri Lanka,2023,old_age_dependency,17.8129118856287
+LKA,Sri Lanka,2022,old_age_dependency,17.2651420066817
+LKA,Sri Lanka,2021,old_age_dependency,16.7514687900259
+LKA,Sri Lanka,2020,old_age_dependency,16.2490166820398
+LKA,Sri Lanka,2019,old_age_dependency,15.7275340756216
+LKA,Sri Lanka,2018,old_age_dependency,15.2034840861841
+LKA,Sri Lanka,2017,old_age_dependency,14.6702335599301
+LKA,Sri Lanka,2016,old_age_dependency,14.1221715333603
+LKA,Sri Lanka,2015,old_age_dependency,13.5570091435101
+LKA,Sri Lanka,2014,old_age_dependency,12.9875250140655
+LKA,Sri Lanka,2013,old_age_dependency,12.4358854804892
+LKA,Sri Lanka,2012,old_age_dependency,11.9226129505643
+LKA,Sri Lanka,2011,old_age_dependency,11.4616649872615
+LKA,Sri Lanka,2010,old_age_dependency,11.0601161131142
+LKA,Sri Lanka,2009,old_age_dependency,10.7241606664097
+LKA,Sri Lanka,2008,old_age_dependency,10.4358133037109
+LKA,Sri Lanka,2007,old_age_dependency,10.184830085623
+LKA,Sri Lanka,2006,old_age_dependency,9.97638794074128
+LKA,Sri Lanka,2005,old_age_dependency,9.80333711646204
+LKA,Sri Lanka,2004,old_age_dependency,9.6666208798197
+LKA,Sri Lanka,2003,old_age_dependency,9.54912888091718
+LKA,Sri Lanka,2002,old_age_dependency,9.43409457697345
+LKA,Sri Lanka,2001,old_age_dependency,9.34190475632929
+LKA,Sri Lanka,2000,old_age_dependency,9.2904878453819
+LKA,Sri Lanka,1999,old_age_dependency,9.27296075545146
+LKA,Sri Lanka,1998,old_age_dependency,9.27761707717741
+LKA,Sri Lanka,1997,old_age_dependency,9.29864738441536
+LKA,Sri Lanka,1996,old_age_dependency,9.33777914093209
+LKA,Sri Lanka,1995,old_age_dependency,9.38639321012507
+LKA,Sri Lanka,1994,old_age_dependency,9.39182394672783
+LKA,Sri Lanka,1993,old_age_dependency,9.35128471838778
+LKA,Sri Lanka,1992,old_age_dependency,9.31536852778528
+LKA,Sri Lanka,1991,old_age_dependency,9.25532464213702
+LKA,Sri Lanka,1990,old_age_dependency,9.09730733533728
+LKA,Sri Lanka,1989,old_age_dependency,8.93031367944813
+LKA,Sri Lanka,1988,old_age_dependency,8.80689463677102
+LKA,Sri Lanka,1987,old_age_dependency,8.67141477954419
+LKA,Sri Lanka,1986,old_age_dependency,8.54887377376021
+LKA,Sri Lanka,1985,old_age_dependency,8.42292142553814
+LKA,Sri Lanka,1984,old_age_dependency,8.23427565222677
+LKA,Sri Lanka,1983,old_age_dependency,8.00867054613206
+LKA,Sri Lanka,1982,old_age_dependency,7.80608534354717
+LKA,Sri Lanka,1981,old_age_dependency,7.63634404628939
+LKA,Sri Lanka,1980,old_age_dependency,7.49364123742528
+LKA,Sri Lanka,1979,old_age_dependency,7.36499073449292
+LKA,Sri Lanka,1978,old_age_dependency,7.2469238524457
+LKA,Sri Lanka,1977,old_age_dependency,7.14024775281691
+LKA,Sri Lanka,1976,old_age_dependency,7.04903957050351
+LKA,Sri Lanka,1975,old_age_dependency,6.97657480262323
+LKA,Sri Lanka,1974,old_age_dependency,6.92080084708493
+LKA,Sri Lanka,1973,old_age_dependency,6.8767644170433
+LKA,Sri Lanka,1972,old_age_dependency,6.83925190264222
+LKA,Sri Lanka,1971,old_age_dependency,6.80399784957846
+LKA,Sri Lanka,1970,old_age_dependency,6.7737201866998
+LKA,Sri Lanka,1969,old_age_dependency,6.75407464172593
+LKA,Sri Lanka,1968,old_age_dependency,6.74669320037309
+LKA,Sri Lanka,1967,old_age_dependency,6.75414891699357
+LKA,Sri Lanka,1966,old_age_dependency,6.78513426233106
+LKA,Sri Lanka,1965,old_age_dependency,6.84514648430105
+LKA,Sri Lanka,1964,old_age_dependency,6.93705956176639
+LKA,Sri Lanka,1963,old_age_dependency,7.07257467806537
+LKA,Sri Lanka,1962,old_age_dependency,7.2540695393738
+LKA,Sri Lanka,1961,old_age_dependency,7.4670448013497
+LKA,Sri Lanka,1960,old_age_dependency,7.70542125084407
+LKA,Sri Lanka,2025,population_total,21756000.0
+LKA,Sri Lanka,2024,population_total,21916000.0
+LKA,Sri Lanka,2023,population_total,22037000.0
+LKA,Sri Lanka,2022,population_total,22181000.0
+LKA,Sri Lanka,2021,population_total,22156000.0
+LKA,Sri Lanka,2020,population_total,21919000.0
+LKA,Sri Lanka,2019,population_total,21803000.0
+LKA,Sri Lanka,2018,population_total,21670000.0
+LKA,Sri Lanka,2017,population_total,21453000.0
+LKA,Sri Lanka,2016,population_total,21209000.0
+LKA,Sri Lanka,2015,population_total,20970000.0
+LKA,Sri Lanka,2014,population_total,20778000.0
+LKA,Sri Lanka,2013,population_total,20585000.0
+LKA,Sri Lanka,2012,population_total,21169458.0
+LKA,Sri Lanka,2011,population_total,21009048.0
+LKA,Sri Lanka,2010,population_total,20879089.0
+LKA,Sri Lanka,2009,population_total,20756435.0
+LKA,Sri Lanka,2008,population_total,20629378.0
+LKA,Sri Lanka,2007,population_total,20492545.0
+LKA,Sri Lanka,2006,population_total,20352411.0
+LKA,Sri Lanka,2005,population_total,20216524.0
+LKA,Sri Lanka,2004,population_total,20087605.0
+LKA,Sri Lanka,2003,population_total,19951521.0
+LKA,Sri Lanka,2002,population_total,19805752.0
+LKA,Sri Lanka,2001,population_total,19600362.0
+LKA,Sri Lanka,2000,population_total,19293054.0
+LKA,Sri Lanka,1999,population_total,18944731.0
+LKA,Sri Lanka,1998,population_total,18596003.0
+LKA,Sri Lanka,1997,population_total,18248200.0
+LKA,Sri Lanka,1996,population_total,17905018.0
+LKA,Sri Lanka,1995,population_total,17564068.0
+LKA,Sri Lanka,1994,population_total,17275773.0
+LKA,Sri Lanka,1993,population_total,17025918.0
+LKA,Sri Lanka,1992,population_total,16739284.0
+LKA,Sri Lanka,1991,population_total,16475354.0
+LKA,Sri Lanka,1990,population_total,16352458.0
+LKA,Sri Lanka,1989,population_total,16248557.0
+LKA,Sri Lanka,1988,population_total,16078621.0
+LKA,Sri Lanka,1987,population_total,15916576.0
+LKA,Sri Lanka,1986,population_total,15731256.0
+LKA,Sri Lanka,1985,population_total,15544154.0
+LKA,Sri Lanka,1984,population_total,15441860.0
+LKA,Sri Lanka,1983,population_total,15388794.0
+LKA,Sri Lanka,1982,population_total,15286567.0
+LKA,Sri Lanka,1981,population_total,15099414.0
+LKA,Sri Lanka,1980,population_total,14847974.0
+LKA,Sri Lanka,1979,population_total,14579614.0
+LKA,Sri Lanka,1978,population_total,14310128.0
+LKA,Sri Lanka,1977,population_total,14049371.0
+LKA,Sri Lanka,1976,population_total,13796770.0
+LKA,Sri Lanka,1975,population_total,13548984.0
+LKA,Sri Lanka,1974,population_total,13305693.0
+LKA,Sri Lanka,1973,population_total,13060916.0
+LKA,Sri Lanka,1972,population_total,12809205.0
+LKA,Sri Lanka,1971,population_total,12551910.0
+LKA,Sri Lanka,1970,population_total,12287110.0
+LKA,Sri Lanka,1969,population_total,12013858.0
+LKA,Sri Lanka,1968,population_total,11736088.0
+LKA,Sri Lanka,1967,population_total,11457328.0
+LKA,Sri Lanka,1966,population_total,11183928.0
+LKA,Sri Lanka,1965,population_total,10916965.0
+LKA,Sri Lanka,1964,population_total,10653397.0
+LKA,Sri Lanka,1963,population_total,10395040.0
+LKA,Sri Lanka,1962,population_total,10143754.0
+LKA,Sri Lanka,1961,population_total,9899372.0
+LKA,Sri Lanka,1960,population_total,9661389.0
+IND,India,2025,life_exp_total,
+IND,India,2024,life_exp_total,72.235
+IND,India,2023,life_exp_total,72.003
+IND,India,2022,life_exp_total,71.698
+IND,India,2021,life_exp_total,67.282
+IND,India,2020,life_exp_total,70.156
+IND,India,2019,life_exp_total,70.746
+IND,India,2018,life_exp_total,70.415
+IND,India,2017,life_exp_total,70.068
+IND,India,2016,life_exp_total,69.709
+IND,India,2015,life_exp_total,69.326
+IND,India,2014,life_exp_total,68.932
+IND,India,2013,life_exp_total,68.499
+IND,India,2012,life_exp_total,68.076
+IND,India,2011,life_exp_total,67.623
+IND,India,2010,life_exp_total,67.162
+IND,India,2009,life_exp_total,66.7
+IND,India,2008,life_exp_total,66.247
+IND,India,2007,life_exp_total,65.803
+IND,India,2006,life_exp_total,65.373
+IND,India,2005,life_exp_total,64.939
+IND,India,2004,life_exp_total,64.484
+IND,India,2003,life_exp_total,64.086
+IND,India,2002,life_exp_total,63.649
+IND,India,2001,life_exp_total,63.158
+IND,India,2000,life_exp_total,62.749
+IND,India,1999,life_exp_total,62.284
+IND,India,1998,life_exp_total,61.852
+IND,India,1997,life_exp_total,61.439
+IND,India,1996,life_exp_total,61.027
+IND,India,1995,life_exp_total,60.63
+IND,India,1994,life_exp_total,60.237
+IND,India,1993,life_exp_total,59.823
+IND,India,1992,life_exp_total,59.445
+IND,India,1991,life_exp_total,59.032
+IND,India,1990,life_exp_total,58.618
+IND,India,1989,life_exp_total,58.196
+IND,India,1988,life_exp_total,57.744
+IND,India,1987,life_exp_total,57.291
+IND,India,1986,life_exp_total,56.819
+IND,India,1985,life_exp_total,56.324
+IND,India,1984,life_exp_total,55.813
+IND,India,1983,life_exp_total,55.283
+IND,India,1982,life_exp_total,54.735
+IND,India,1981,life_exp_total,54.173
+IND,India,1980,life_exp_total,53.593
+IND,India,1979,life_exp_total,53.014
+IND,India,1978,life_exp_total,52.42
+IND,India,1977,life_exp_total,51.822
+IND,India,1976,life_exp_total,51.302
+IND,India,1975,life_exp_total,50.761
+IND,India,1974,life_exp_total,50.259
+IND,India,1973,life_exp_total,49.642
+IND,India,1972,life_exp_total,49.213
+IND,India,1971,life_exp_total,48.902
+IND,India,1970,life_exp_total,48.585
+IND,India,1969,life_exp_total,48.26
+IND,India,1968,life_exp_total,47.925
+IND,India,1967,life_exp_total,46.184
+IND,India,1966,life_exp_total,45.884
+IND,India,1965,life_exp_total,45.558
+IND,India,1964,life_exp_total,46.742
+IND,India,1963,life_exp_total,46.458
+IND,India,1962,life_exp_total,46.133
+IND,India,1961,life_exp_total,45.824
+IND,India,1960,life_exp_total,45.61
+IND,India,2025,life_exp_male,
+IND,India,2024,life_exp_male,70.729
+IND,India,2023,life_exp_male,70.522
+IND,India,2022,life_exp_male,70.237
+IND,India,2021,life_exp_male,65.87
+IND,India,2020,life_exp_male,68.529
+IND,India,2019,life_exp_male,69.312
+IND,India,2018,life_exp_male,68.973
+IND,India,2017,life_exp_male,68.61
+IND,India,2016,life_exp_male,68.231
+IND,India,2015,life_exp_male,67.827
+IND,India,2014,life_exp_male,67.416
+IND,India,2013,life_exp_male,66.97
+IND,India,2012,life_exp_male,66.544
+IND,India,2011,life_exp_male,66.094
+IND,India,2010,life_exp_male,65.644
+IND,India,2009,life_exp_male,65.203
+IND,India,2008,life_exp_male,64.778
+IND,India,2007,life_exp_male,64.373
+IND,India,2006,life_exp_male,63.989
+IND,India,2005,life_exp_male,63.608
+IND,India,2004,life_exp_male,63.221
+IND,India,2003,life_exp_male,62.882
+IND,India,2002,life_exp_male,62.515
+IND,India,2001,life_exp_male,62.102
+IND,India,2000,life_exp_male,61.76
+IND,India,1999,life_exp_male,61.367
+IND,India,1998,life_exp_male,60.99
+IND,India,1997,life_exp_male,60.623
+IND,India,1996,life_exp_male,60.244
+IND,India,1995,life_exp_male,59.868
+IND,India,1994,life_exp_male,59.492
+IND,India,1993,life_exp_male,59.094
+IND,India,1992,life_exp_male,58.728
+IND,India,1991,life_exp_male,58.34
+IND,India,1990,life_exp_male,57.963
+IND,India,1989,life_exp_male,57.588
+IND,India,1988,life_exp_male,57.186
+IND,India,1987,life_exp_male,56.793
+IND,India,1986,life_exp_male,56.391
+IND,India,1985,life_exp_male,55.972
+IND,India,1984,life_exp_male,55.544
+IND,India,1983,life_exp_male,55.106
+IND,India,1982,life_exp_male,54.653
+IND,India,1981,life_exp_male,54.187
+IND,India,1980,life_exp_male,53.701
+IND,India,1979,life_exp_male,53.212
+IND,India,1978,life_exp_male,52.699
+IND,India,1977,life_exp_male,52.178
+IND,India,1976,life_exp_male,51.708
+IND,India,1975,life_exp_male,51.211
+IND,India,1974,life_exp_male,50.738
+IND,India,1973,life_exp_male,50.137
+IND,India,1972,life_exp_male,49.723
+IND,India,1971,life_exp_male,49.434
+IND,India,1970,life_exp_male,49.123
+IND,India,1969,life_exp_male,48.808
+IND,India,1968,life_exp_male,48.479
+IND,India,1967,life_exp_male,46.696
+IND,India,1966,life_exp_male,46.406
+IND,India,1965,life_exp_male,46.093
+IND,India,1964,life_exp_male,47.349
+IND,India,1963,life_exp_male,47.085
+IND,India,1962,life_exp_male,46.782
+IND,India,1961,life_exp_male,46.492
+IND,India,1960,life_exp_male,46.295
+IND,India,2025,life_exp_female,
+IND,India,2024,life_exp_female,73.856
+IND,India,2023,life_exp_female,73.598
+IND,India,2022,life_exp_female,73.271
+IND,India,2021,life_exp_female,68.835
+IND,India,2020,life_exp_female,71.938
+IND,India,2019,life_exp_female,72.287
+IND,India,2018,life_exp_female,71.963
+IND,India,2017,life_exp_female,71.632
+IND,India,2016,life_exp_female,71.297
+IND,India,2015,life_exp_female,70.94
+IND,India,2014,life_exp_female,70.567
+IND,India,2013,life_exp_female,70.151
+IND,India,2012,life_exp_female,69.735
+IND,India,2011,life_exp_female,69.28
+IND,India,2010,life_exp_female,68.809
+IND,India,2009,life_exp_female,68.327
+IND,India,2008,life_exp_female,67.844
+IND,India,2007,life_exp_female,67.358
+IND,India,2006,life_exp_female,66.873
+IND,India,2005,life_exp_female,66.376
+IND,India,2004,life_exp_female,65.844
+IND,India,2003,life_exp_female,65.376
+IND,India,2002,life_exp_female,64.855
+IND,India,2001,life_exp_female,64.277
+IND,India,2000,life_exp_female,63.794
+IND,India,1999,life_exp_female,63.248
+IND,India,1998,life_exp_female,62.759
+IND,India,1997,life_exp_female,62.3
+IND,India,1996,life_exp_female,61.858
+IND,India,1995,life_exp_female,61.442
+IND,India,1994,life_exp_female,61.041
+IND,India,1993,life_exp_female,60.617
+IND,India,1992,life_exp_female,60.236
+IND,India,1991,life_exp_female,59.805
+IND,India,1990,life_exp_female,59.358
+IND,India,1989,life_exp_female,58.887
+IND,India,1988,life_exp_female,58.385
+IND,India,1987,life_exp_female,57.866
+IND,India,1986,life_exp_female,57.318
+IND,India,1985,life_exp_female,56.736
+IND,India,1984,life_exp_female,56.13
+IND,India,1983,life_exp_female,55.496
+IND,India,1982,life_exp_female,54.842
+IND,India,1981,life_exp_female,54.17
+IND,India,1980,life_exp_female,53.485
+IND,India,1979,life_exp_female,52.807
+IND,India,1978,life_exp_female,52.125
+IND,India,1977,life_exp_female,51.441
+IND,India,1976,life_exp_female,50.867
+IND,India,1975,life_exp_female,50.281
+IND,India,1974,life_exp_female,49.746
+IND,India,1973,life_exp_female,49.112
+IND,India,1972,life_exp_female,48.667
+IND,India,1971,life_exp_female,48.334
+IND,India,1970,life_exp_female,48.011
+IND,India,1969,life_exp_female,47.675
+IND,India,1968,life_exp_female,47.333
+IND,India,1967,life_exp_female,45.635
+IND,India,1966,life_exp_female,45.325
+IND,India,1965,life_exp_female,44.985
+IND,India,1964,life_exp_female,46.093
+IND,India,1963,life_exp_female,45.789
+IND,India,1962,life_exp_female,45.442
+IND,India,1961,life_exp_female,45.114
+IND,India,1960,life_exp_female,44.882
+IND,India,2025,adult_mortality_male,
+IND,India,2024,adult_mortality_male,175.63
+IND,India,2023,adult_mortality_male,177.914
+IND,India,2022,adult_mortality_male,181.136
+IND,India,2021,adult_mortality_male,251.736
+IND,India,2020,adult_mortality_male,199.714
+IND,India,2019,adult_mortality_male,191.12
+IND,India,2018,adult_mortality_male,194.523
+IND,India,2017,adult_mortality_male,197.986
+IND,India,2016,adult_mortality_male,201.451
+IND,India,2015,adult_mortality_male,205.008
+IND,India,2014,adult_mortality_male,208.354
+IND,India,2013,adult_mortality_male,211.869
+IND,India,2012,adult_mortality_male,214.964
+IND,India,2011,adult_mortality_male,218.148
+IND,India,2010,adult_mortality_male,221.264
+IND,India,2009,adult_mortality_male,224.264
+IND,India,2008,adult_mortality_male,227.173
+IND,India,2007,adult_mortality_male,229.992
+IND,India,2006,adult_mortality_male,232.664
+IND,India,2005,adult_mortality_male,235.388
+IND,India,2004,adult_mortality_male,238.181
+IND,India,2003,adult_mortality_male,240.403
+IND,India,2002,adult_mortality_male,242.829
+IND,India,2001,adult_mortality_male,245.842
+IND,India,2000,adult_mortality_male,247.673
+IND,India,1999,adult_mortality_male,249.978
+IND,India,1998,adult_mortality_male,252.153
+IND,India,1997,adult_mortality_male,253.994
+IND,India,1996,adult_mortality_male,255.857
+IND,India,1995,adult_mortality_male,257.649
+IND,India,1994,adult_mortality_male,259.458
+IND,India,1993,adult_mortality_male,261.706
+IND,India,1992,adult_mortality_male,263.735
+IND,India,1991,adult_mortality_male,266.221
+IND,India,1990,adult_mortality_male,268.69
+IND,India,1989,adult_mortality_male,271.243
+IND,India,1988,adult_mortality_male,274.574
+IND,India,1987,adult_mortality_male,277.877
+IND,India,1986,adult_mortality_male,281.535
+IND,India,1985,adult_mortality_male,285.551
+IND,India,1984,adult_mortality_male,289.836
+IND,India,1983,adult_mortality_male,294.176
+IND,India,1982,adult_mortality_male,298.637
+IND,India,1981,adult_mortality_male,303.119
+IND,India,1980,adult_mortality_male,307.647
+IND,India,1979,adult_mortality_male,312.072
+IND,India,1978,adult_mortality_male,316.664
+IND,India,1977,adult_mortality_male,321.213
+IND,India,1976,adult_mortality_male,325.527
+IND,India,1975,adult_mortality_male,330.196
+IND,India,1974,adult_mortality_male,334.772
+IND,India,1973,adult_mortality_male,340.896
+IND,India,1972,adult_mortality_male,345.306
+IND,India,1971,adult_mortality_male,348.906
+IND,India,1970,adult_mortality_male,352.662
+IND,India,1969,adult_mortality_male,356.603
+IND,India,1968,adult_mortality_male,360.982
+IND,India,1967,adult_mortality_male,379.869
+IND,India,1966,adult_mortality_male,383.786
+IND,India,1965,adult_mortality_male,388.037
+IND,India,1964,adult_mortality_male,376.319
+IND,India,1963,adult_mortality_male,379.674
+IND,India,1962,adult_mortality_male,383.62
+IND,India,1961,adult_mortality_male,387.023
+IND,India,1960,adult_mortality_male,388.536
+IND,India,2025,adult_mortality_female,
+IND,India,2024,adult_mortality_female,120.858
+IND,India,2023,adult_mortality_female,122.021
+IND,India,2022,adult_mortality_female,125.543
+IND,India,2021,adult_mortality_female,184.498
+IND,India,2020,adult_mortality_female,139.425
+IND,India,2019,adult_mortality_female,134.926
+IND,India,2018,adult_mortality_female,137.206
+IND,India,2017,adult_mortality_female,138.988
+IND,India,2016,adult_mortality_female,140.3
+IND,India,2015,adult_mortality_female,141.371
+IND,India,2014,adult_mortality_female,142.189
+IND,India,2013,adult_mortality_female,143.043
+IND,India,2012,adult_mortality_female,143.788
+IND,India,2011,adult_mortality_female,144.819
+IND,India,2010,adult_mortality_female,146.196
+IND,India,2009,adult_mortality_female,148.054
+IND,India,2008,adult_mortality_female,150.504
+IND,India,2007,adult_mortality_female,153.725
+IND,India,2006,adult_mortality_female,157.633
+IND,India,2005,adult_mortality_female,162.162
+IND,India,2004,adult_mortality_female,167.506
+IND,India,2003,adult_mortality_female,172.067
+IND,India,2002,adult_mortality_female,177.225
+IND,India,2001,adult_mortality_female,182.968
+IND,India,2000,adult_mortality_female,187.191
+IND,India,1999,adult_mortality_female,192.109
+IND,India,1998,adult_mortality_female,196.102
+IND,India,1997,adult_mortality_female,199.546
+IND,India,1996,adult_mortality_female,202.602
+IND,India,1995,adult_mortality_female,205.131
+IND,India,1994,adult_mortality_female,207.353
+IND,India,1993,adult_mortality_female,209.839
+IND,India,1992,adult_mortality_female,211.659
+IND,India,1991,adult_mortality_female,214.164
+IND,India,1990,adult_mortality_female,216.952
+IND,India,1989,adult_mortality_female,220.147
+IND,India,1988,adult_mortality_female,224.042
+IND,India,1987,adult_mortality_female,228.494
+IND,India,1986,adult_mortality_female,233.784
+IND,India,1985,adult_mortality_female,239.932
+IND,India,1984,adult_mortality_female,246.842
+IND,India,1983,adult_mortality_female,254.451
+IND,India,1982,adult_mortality_female,262.643
+IND,India,1981,adult_mortality_female,271.345
+IND,India,1980,adult_mortality_female,280.449
+IND,India,1979,adult_mortality_female,289.718
+IND,India,1978,adult_mortality_female,299.032
+IND,India,1977,adult_mortality_female,308.528
+IND,India,1976,adult_mortality_female,316.318
+IND,India,1975,adult_mortality_female,324.019
+IND,India,1974,adult_mortality_female,330.783
+IND,India,1973,adult_mortality_female,338.058
+IND,India,1972,adult_mortality_female,343.389
+IND,India,1971,adult_mortality_female,348.007
+IND,India,1970,adult_mortality_female,351.705
+IND,India,1969,adult_mortality_female,355.741
+IND,India,1968,adult_mortality_female,359.796
+IND,India,1967,adult_mortality_female,375.234
+IND,India,1966,adult_mortality_female,378.864
+IND,India,1965,adult_mortality_female,382.913
+IND,India,1964,adult_mortality_female,374.518
+IND,India,1963,adult_mortality_female,377.729
+IND,India,1962,adult_mortality_female,381.468
+IND,India,1961,adult_mortality_female,384.688
+IND,India,1960,adult_mortality_female,386.35
+IND,India,2025,infant_mortality,
+IND,India,2024,infant_mortality,23.3
+IND,India,2023,infant_mortality,24.5
+IND,India,2022,infant_mortality,25.7
+IND,India,2021,infant_mortality,27.0
+IND,India,2020,infant_mortality,28.3
+IND,India,2019,infant_mortality,29.8
+IND,India,2018,infant_mortality,31.3
+IND,India,2017,infant_mortality,32.9
+IND,India,2016,infant_mortality,34.6
+IND,India,2015,infant_mortality,36.3
+IND,India,2014,infant_mortality,38.2
+IND,India,2013,infant_mortality,40.1
+IND,India,2012,infant_mortality,42.2
+IND,India,2011,infant_mortality,44.2
+IND,India,2010,infant_mortality,46.3
+IND,India,2009,infant_mortality,48.4
+IND,India,2008,infant_mortality,50.5
+IND,India,2007,infant_mortality,52.5
+IND,India,2006,infant_mortality,54.5
+IND,India,2005,infant_mortality,56.5
+IND,India,2004,infant_mortality,58.5
+IND,India,2003,infant_mortality,60.4
+IND,India,2002,infant_mortality,62.4
+IND,India,2001,infant_mortality,64.3
+IND,India,2000,infant_mortality,66.3
+IND,India,1999,infant_mortality,68.3
+IND,India,1998,infant_mortality,70.2
+IND,India,1997,infant_mortality,72.1
+IND,India,1996,infant_mortality,73.9
+IND,India,1995,infant_mortality,75.6
+IND,India,1994,infant_mortality,77.3
+IND,India,1993,infant_mortality,79.0
+IND,India,1992,infant_mortality,80.7
+IND,India,1991,infant_mortality,82.5
+IND,India,1990,infant_mortality,84.4
+IND,India,1989,infant_mortality,86.4
+IND,India,1988,infant_mortality,88.6
+IND,India,1987,infant_mortality,90.8
+IND,India,1986,infant_mortality,93.0
+IND,India,1985,infant_mortality,95.2
+IND,India,1984,infant_mortality,97.5
+IND,India,1983,infant_mortality,99.8
+IND,India,1982,infant_mortality,102.4
+IND,India,1981,infant_mortality,105.2
+IND,India,1980,infant_mortality,108.2
+IND,India,1979,infant_mortality,111.4
+IND,India,1978,infant_mortality,114.7
+IND,India,1977,infant_mortality,117.9
+IND,India,1976,infant_mortality,121.1
+IND,India,1975,infant_mortality,124.0
+IND,India,1974,infant_mortality,126.7
+IND,India,1973,infant_mortality,129.0
+IND,India,1972,infant_mortality,131.2
+IND,India,1971,infant_mortality,133.1
+IND,India,1970,infant_mortality,134.8
+IND,India,1969,infant_mortality,136.4
+IND,India,1968,infant_mortality,137.9
+IND,India,1967,infant_mortality,139.2
+IND,India,1966,infant_mortality,140.5
+IND,India,1965,infant_mortality,142.0
+IND,India,1964,infant_mortality,143.5
+IND,India,1963,infant_mortality,145.0
+IND,India,1962,infant_mortality,146.6
+IND,India,1961,infant_mortality,148.4
+IND,India,1960,infant_mortality,150.4
+IND,India,2025,under5_mortality,
+IND,India,2024,under5_mortality,26.6
+IND,India,2023,under5_mortality,28.0
+IND,India,2022,under5_mortality,29.5
+IND,India,2021,under5_mortality,31.2
+IND,India,2020,under5_mortality,33.0
+IND,India,2019,under5_mortality,34.9
+IND,India,2018,under5_mortality,36.9
+IND,India,2017,under5_mortality,39.0
+IND,India,2016,under5_mortality,41.3
+IND,India,2015,under5_mortality,43.7
+IND,India,2014,under5_mortality,46.4
+IND,India,2013,under5_mortality,49.1
+IND,India,2012,under5_mortality,52.0
+IND,India,2011,under5_mortality,55.0
+IND,India,2010,under5_mortality,58.1
+IND,India,2009,under5_mortality,61.2
+IND,India,2008,under5_mortality,64.5
+IND,India,2007,under5_mortality,67.8
+IND,India,2006,under5_mortality,71.0
+IND,India,2005,under5_mortality,74.3
+IND,India,2004,under5_mortality,77.7
+IND,India,2003,under5_mortality,81.1
+IND,India,2002,under5_mortality,84.6
+IND,India,2001,under5_mortality,88.1
+IND,India,2000,under5_mortality,91.8
+IND,India,1999,under5_mortality,95.4
+IND,India,1998,under5_mortality,99.1
+IND,India,1997,under5_mortality,102.7
+IND,India,1996,under5_mortality,106.2
+IND,India,1995,under5_mortality,109.7
+IND,India,1994,under5_mortality,113.1
+IND,India,1993,under5_mortality,116.5
+IND,India,1992,under5_mortality,119.9
+IND,India,1991,under5_mortality,123.4
+IND,India,1990,under5_mortality,127.0
+IND,India,1989,under5_mortality,130.9
+IND,India,1988,under5_mortality,134.8
+IND,India,1987,under5_mortality,138.8
+IND,India,1986,under5_mortality,142.8
+IND,India,1985,under5_mortality,146.8
+IND,India,1984,under5_mortality,151.0
+IND,India,1983,under5_mortality,155.2
+IND,India,1982,under5_mortality,159.8
+IND,India,1981,under5_mortality,164.6
+IND,India,1980,under5_mortality,169.8
+IND,India,1979,under5_mortality,175.2
+IND,India,1978,under5_mortality,180.7
+IND,India,1977,under5_mortality,186.1
+IND,India,1976,under5_mortality,191.3
+IND,India,1975,under5_mortality,196.1
+IND,India,1974,under5_mortality,200.6
+IND,India,1973,under5_mortality,204.5
+IND,India,1972,under5_mortality,208.2
+IND,India,1971,under5_mortality,211.4
+IND,India,1970,under5_mortality,214.4
+IND,India,1969,under5_mortality,217.1
+IND,India,1968,under5_mortality,219.7
+IND,India,1967,under5_mortality,222.1
+IND,India,1966,under5_mortality,224.5
+IND,India,1965,under5_mortality,227.0
+IND,India,1964,under5_mortality,229.6
+IND,India,1963,under5_mortality,232.2
+IND,India,1962,under5_mortality,235.0
+IND,India,1961,under5_mortality,238.1
+IND,India,1960,under5_mortality,241.3
+IND,India,2025,crude_death_rate,
+IND,India,2024,crude_death_rate,6.587
+IND,India,2023,crude_death_rate,6.611
+IND,India,2022,crude_death_rate,6.576
+IND,India,2021,crude_death_rate,9.259
+IND,India,2020,crude_death_rate,7.214
+IND,India,2019,crude_death_rate,6.67
+IND,India,2018,crude_death_rate,6.67
+IND,India,2017,crude_death_rate,6.673
+IND,India,2016,crude_death_rate,6.7
+IND,India,2015,crude_death_rate,6.729
+IND,India,2014,crude_death_rate,6.77
+IND,India,2013,crude_death_rate,6.859
+IND,India,2012,crude_death_rate,6.945
+IND,India,2011,crude_death_rate,7.048
+IND,India,2010,crude_death_rate,7.164
+IND,India,2009,crude_death_rate,7.29
+IND,India,2008,crude_death_rate,7.41
+IND,India,2007,crude_death_rate,7.536
+IND,India,2006,crude_death_rate,7.67
+IND,India,2005,crude_death_rate,7.819
+IND,India,2004,crude_death_rate,7.982
+IND,India,2003,crude_death_rate,8.125
+IND,India,2002,crude_death_rate,8.294
+IND,India,2001,crude_death_rate,8.482
+IND,India,2000,crude_death_rate,8.628
+IND,India,1999,crude_death_rate,8.805
+IND,India,1998,crude_death_rate,8.988
+IND,India,1997,crude_death_rate,9.174
+IND,India,1996,crude_death_rate,9.371
+IND,India,1995,crude_death_rate,9.572
+IND,India,1994,crude_death_rate,9.777
+IND,India,1993,crude_death_rate,10.001
+IND,India,1992,crude_death_rate,10.225
+IND,India,1991,crude_death_rate,10.472
+IND,India,1990,crude_death_rate,10.726
+IND,India,1989,crude_death_rate,11.0
+IND,India,1988,crude_death_rate,11.286
+IND,India,1987,crude_death_rate,11.577
+IND,India,1986,crude_death_rate,11.879
+IND,India,1985,crude_death_rate,12.164
+IND,India,1984,crude_death_rate,12.471
+IND,India,1983,crude_death_rate,12.773
+IND,India,1982,crude_death_rate,13.093
+IND,India,1981,crude_death_rate,13.424
+IND,India,1980,crude_death_rate,13.752
+IND,India,1979,crude_death_rate,14.066
+IND,India,1978,crude_death_rate,14.429
+IND,India,1977,crude_death_rate,14.817
+IND,India,1976,crude_death_rate,15.179
+IND,India,1975,crude_death_rate,15.528
+IND,India,1974,crude_death_rate,15.893
+IND,India,1973,crude_death_rate,16.311
+IND,India,1972,crude_death_rate,16.597
+IND,India,1971,crude_death_rate,16.812
+IND,India,1970,crude_death_rate,17.014
+IND,India,1969,crude_death_rate,17.267
+IND,India,1968,crude_death_rate,17.515
+IND,India,1967,crude_death_rate,18.783
+IND,India,1966,crude_death_rate,19.058
+IND,India,1965,crude_death_rate,19.359
+IND,India,1964,crude_death_rate,18.512
+IND,India,1963,crude_death_rate,18.728
+IND,India,1962,crude_death_rate,18.981
+IND,India,1961,crude_death_rate,19.227
+IND,India,1960,crude_death_rate,19.421
+IND,India,2025,pop_65plus_pct,7.37657146047502
+IND,India,2024,pop_65plus_pct,7.14651714039908
+IND,India,2023,pop_65plus_pct,6.92184330138637
+IND,India,2022,pop_65plus_pct,6.69899975408181
+IND,India,2021,pop_65plus_pct,6.54579069268807
+IND,India,2020,pop_65plus_pct,6.41685302336898
+IND,India,2019,pop_65plus_pct,6.22347304109804
+IND,India,2018,pop_65plus_pct,6.01925951437221
+IND,India,2017,pop_65plus_pct,5.8247052897296
+IND,India,2016,pop_65plus_pct,5.64173085340436
+IND,India,2015,pop_65plus_pct,5.46921307827757
+IND,India,2014,pop_65plus_pct,5.30715461269221
+IND,India,2013,pop_65plus_pct,5.18262772655076
+IND,India,2012,pop_65plus_pct,5.09338826047327
+IND,India,2011,pop_65plus_pct,5.0124057389161
+IND,India,2010,pop_65plus_pct,4.94044719106105
+IND,India,2009,pop_65plus_pct,4.87809420851412
+IND,India,2008,pop_65plus_pct,4.82207897305879
+IND,India,2007,pop_65plus_pct,4.7700034284851
+IND,India,2006,pop_65plus_pct,4.72189908061262
+IND,India,2005,pop_65plus_pct,4.67467509912271
+IND,India,2004,pop_65plus_pct,4.62602267494844
+IND,India,2003,pop_65plus_pct,4.57336676437993
+IND,India,2002,pop_65plus_pct,4.51627622226394
+IND,India,2001,pop_65plus_pct,4.46128426322486
+IND,India,2000,pop_65plus_pct,4.41058746962383
+IND,India,1999,pop_65plus_pct,4.36123081288453
+IND,India,1998,pop_65plus_pct,4.31287577856306
+IND,India,1997,pop_65plus_pct,4.26698407588542
+IND,India,1996,pop_65plus_pct,4.22377976579751
+IND,India,1995,pop_65plus_pct,4.18355923613031
+IND,India,1994,pop_65plus_pct,4.14618925499594
+IND,India,1993,pop_65plus_pct,4.11248290182939
+IND,India,1992,pop_65plus_pct,4.08340620224614
+IND,India,1991,pop_65plus_pct,4.05841411442611
+IND,India,1990,pop_65plus_pct,4.03787048090769
+IND,India,1989,pop_65plus_pct,4.02208086426184
+IND,India,1988,pop_65plus_pct,4.01039265468364
+IND,India,1987,pop_65plus_pct,4.00186755050278
+IND,India,1986,pop_65plus_pct,3.99560135818491
+IND,India,1985,pop_65plus_pct,3.99021478858997
+IND,India,1984,pop_65plus_pct,3.98469867311846
+IND,India,1983,pop_65plus_pct,3.97826496366921
+IND,India,1982,pop_65plus_pct,3.96962039053794
+IND,India,1981,pop_65plus_pct,3.95909783799409
+IND,India,1980,pop_65plus_pct,3.94737747847816
+IND,India,1979,pop_65plus_pct,3.93443029247757
+IND,India,1978,pop_65plus_pct,3.9177323567688
+IND,India,1977,pop_65plus_pct,3.8979287618361
+IND,India,1976,pop_65plus_pct,3.87536062808925
+IND,India,1975,pop_65plus_pct,3.847431563455
+IND,India,1974,pop_65plus_pct,3.81539736497097
+IND,India,1973,pop_65plus_pct,3.77739254798137
+IND,India,1972,pop_65plus_pct,3.73548652092206
+IND,India,1971,pop_65plus_pct,3.69483317968977
+IND,India,1970,pop_65plus_pct,3.66092858087571
+IND,India,1969,pop_65plus_pct,3.63294125177274
+IND,India,1968,pop_65plus_pct,3.60919073308266
+IND,India,1967,pop_65plus_pct,3.59440871427849
+IND,India,1966,pop_65plus_pct,3.57875227872386
+IND,India,1965,pop_65plus_pct,3.5519870473944
+IND,India,1964,pop_65plus_pct,3.51254807095617
+IND,India,1963,pop_65plus_pct,3.45820198645241
+IND,India,1962,pop_65plus_pct,3.39509788498313
+IND,India,1961,pop_65plus_pct,3.33852609678285
+IND,India,1960,pop_65plus_pct,3.29905246661682
+IND,India,2025,old_age_dependency,10.780022881367
+IND,India,2024,old_age_dependency,10.4742211819038
+IND,India,2023,old_age_dependency,10.1760245971185
+IND,India,2022,old_age_dependency,9.87859325809253
+IND,India,2021,old_age_dependency,9.69042628572764
+IND,India,2020,old_age_dependency,9.54352404153678
+IND,India,2019,old_age_dependency,9.2965077293909
+IND,India,2018,old_age_dependency,9.03074254846896
+IND,India,2017,old_age_dependency,8.78174521944322
+IND,India,2016,old_age_dependency,8.5515603801864
+IND,India,2015,old_age_dependency,8.33495531190129
+IND,India,2014,old_age_dependency,8.13279560233489
+IND,India,2013,old_age_dependency,7.98839036172002
+IND,India,2012,old_age_dependency,7.89781181625837
+IND,India,2011,old_age_dependency,7.8187352403354
+IND,India,2010,old_age_dependency,7.7537122163073
+IND,India,2009,old_age_dependency,7.70331417311134
+IND,India,2008,old_age_dependency,7.66169656295134
+IND,India,2007,old_age_dependency,7.626189156999
+IND,India,2006,old_age_dependency,7.59765244485906
+IND,India,2005,old_age_dependency,7.56868087880033
+IND,India,2004,old_age_dependency,7.53499082137635
+IND,India,2003,old_age_dependency,7.49282370529032
+IND,India,2002,old_age_dependency,7.43989763750713
+IND,India,2001,old_age_dependency,7.38964284086494
+IND,India,2000,old_age_dependency,7.34653079538106
+IND,India,1999,old_age_dependency,7.30518025880582
+IND,India,1998,old_age_dependency,7.26470724610156
+IND,India,1997,old_age_dependency,7.22585103450818
+IND,India,1996,old_age_dependency,7.18924839258131
+IND,India,1995,old_age_dependency,7.15528029406372
+IND,India,1994,old_age_dependency,7.12179466659357
+IND,India,1993,old_age_dependency,7.09074538359737
+IND,India,1992,old_age_dependency,7.06598462895876
+IND,India,1991,old_age_dependency,7.04700873664111
+IND,India,1990,old_age_dependency,7.03438410238117
+IND,India,1989,old_age_dependency,7.02843707248025
+IND,India,1988,old_age_dependency,7.02756211021025
+IND,India,1987,old_age_dependency,7.02919279075356
+IND,India,1986,old_age_dependency,7.03144604297949
+IND,India,1985,old_age_dependency,7.03335114603597
+IND,India,1984,old_age_dependency,7.0344962794722
+IND,India,1983,old_age_dependency,7.0348233388435
+IND,India,1982,old_age_dependency,7.03204089817693
+IND,India,1981,old_age_dependency,7.02519342729497
+IND,India,1980,old_age_dependency,7.01692563703238
+IND,India,1979,old_age_dependency,7.01144827950541
+IND,India,1978,old_age_dependency,7.00130954205567
+IND,India,1977,old_age_dependency,6.98587535023706
+IND,India,1976,old_age_dependency,6.96545373847543
+IND,India,1975,old_age_dependency,6.93362087767935
+IND,India,1974,old_age_dependency,6.89319068022303
+IND,India,1973,old_age_dependency,6.83702936937455
+IND,India,1972,old_age_dependency,6.77269192047468
+IND,India,1971,old_age_dependency,6.70878849363388
+IND,India,1970,old_age_dependency,6.6586133025737
+IND,India,1969,old_age_dependency,6.61964391582099
+IND,India,1968,old_age_dependency,6.58109356088875
+IND,India,1967,old_age_dependency,6.55990479424957
+IND,India,1966,old_age_dependency,6.53562931904358
+IND,India,1965,old_age_dependency,6.48418587694977
+IND,India,1964,old_age_dependency,6.40286142367976
+IND,India,1963,old_age_dependency,6.27725205825901
+IND,India,1962,old_age_dependency,6.12345020224113
+IND,India,1961,old_age_dependency,5.98419514811402
+IND,India,1960,old_age_dependency,5.8787900417636
+IND,India,2025,population_total,1463865525.0
+IND,India,2024,population_total,1450935791.0
+IND,India,2023,population_total,1438069596.0
+IND,India,2022,population_total,1425423212.0
+IND,India,2021,population_total,1414203896.0
+IND,India,2020,population_total,1402617695.0
+IND,India,2019,population_total,1389030312.0
+IND,India,2018,population_total,1374659064.0
+IND,India,2017,population_total,1359657400.0
+IND,India,2016,population_total,1343944296.0
+IND,India,2015,population_total,1328024498.0
+IND,India,2014,population_total,1312277191.0
+IND,India,2013,population_total,1295829511.0
+IND,India,2012,population_total,1278674502.0
+IND,India,2011,population_total,1261224954.0
+IND,India,2010,population_total,1243481564.0
+IND,India,2009,population_total,1225524753.0
+IND,India,2008,population_total,1207930964.0
+IND,India,2007,population_total,1190676021.0
+IND,India,2006,population_total,1172878890.0
+IND,India,2005,population_total,1154676322.0
+IND,India,2004,population_total,1135991513.0
+IND,India,2003,population_total,1116803006.0
+IND,India,2002,population_total,1097600380.0
+IND,India,2001,population_total,1077898575.0
+IND,India,2000,population_total,1057922733.0
+IND,India,1999,population_total,1038225823.0
+IND,India,1998,population_total,1018665080.0
+IND,India,1997,population_total,999133762.0
+IND,India,1996,population_total,979678458.0
+IND,India,1995,population_total,960301044.0
+IND,India,1994,population_total,941163767.0
+IND,India,1993,population_total,922118387.0
+IND,India,1992,population_total,902957070.0
+IND,India,1991,population_total,883927600.0
+IND,India,1990,population_total,864972221.0
+IND,India,1989,population_total,846039529.0
+IND,India,1988,population_total,827342990.0
+IND,India,1987,population_total,808931270.0
+IND,India,1986,population_total,790689978.0
+IND,India,1985,population_total,772647793.0
+IND,India,1984,population_total,754875449.0
+IND,India,1983,population_total,737372681.0
+IND,India,1982,population_total,720313473.0
+IND,India,1981,population_total,703696250.0
+IND,India,1980,population_total,687354025.0
+IND,India,1979,population_total,671155747.0
+IND,India,1978,population_total,655728229.0
+IND,India,1977,population_total,640801103.0
+IND,India,1976,population_total,625861883.0
+IND,India,1975,population_total,611309535.0
+IND,India,1974,population_total,597041391.0
+IND,India,1973,population_total,583465598.0
+IND,India,1972,population_total,570482142.0
+IND,India,1971,population_total,558096387.0
+IND,India,1970,population_total,545864268.0
+IND,India,1969,population_total,533880544.0
+IND,India,1968,population_total,522716889.0
+IND,India,1967,population_total,511606372.0
+IND,India,1966,population_total,500740247.0
+IND,India,1965,population_total,490140146.0
+IND,India,1964,population_total,479229598.0
+IND,India,1963,population_total,468138575.0
+IND,India,1962,population_total,457283090.0
+IND,India,1961,population_total,446564729.0
+IND,India,1960,population_total,435990338.0
+BGD,Bangladesh,2025,life_exp_total,
+BGD,Bangladesh,2024,life_exp_total,74.93
+BGD,Bangladesh,2023,life_exp_total,74.672
+BGD,Bangladesh,2022,life_exp_total,74.265
+BGD,Bangladesh,2021,life_exp_total,71.103
+BGD,Bangladesh,2020,life_exp_total,71.421
+BGD,Bangladesh,2019,life_exp_total,72.625
+BGD,Bangladesh,2018,life_exp_total,72.122
+BGD,Bangladesh,2017,life_exp_total,71.606
+BGD,Bangladesh,2016,life_exp_total,71.075
+BGD,Bangladesh,2015,life_exp_total,70.543
+BGD,Bangladesh,2014,life_exp_total,70.016
+BGD,Bangladesh,2013,life_exp_total,69.487
+BGD,Bangladesh,2012,life_exp_total,68.989
+BGD,Bangladesh,2011,life_exp_total,68.499
+BGD,Bangladesh,2010,life_exp_total,68.009
+BGD,Bangladesh,2009,life_exp_total,67.527
+BGD,Bangladesh,2008,life_exp_total,67.047
+BGD,Bangladesh,2007,life_exp_total,66.458
+BGD,Bangladesh,2006,life_exp_total,66.048
+BGD,Bangladesh,2005,life_exp_total,65.509
+BGD,Bangladesh,2004,life_exp_total,64.912
+BGD,Bangladesh,2003,life_exp_total,64.288
+BGD,Bangladesh,2002,life_exp_total,63.591
+BGD,Bangladesh,2001,life_exp_total,62.836
+BGD,Bangladesh,2000,life_exp_total,62.049
+BGD,Bangladesh,1999,life_exp_total,61.244
+BGD,Bangladesh,1998,life_exp_total,60.429
+BGD,Bangladesh,1997,life_exp_total,59.671
+BGD,Bangladesh,1996,life_exp_total,58.94
+BGD,Bangladesh,1995,life_exp_total,58.244
+BGD,Bangladesh,1994,life_exp_total,57.64
+BGD,Bangladesh,1993,life_exp_total,57.073
+BGD,Bangladesh,1992,life_exp_total,56.592
+BGD,Bangladesh,1991,life_exp_total,53.781
+BGD,Bangladesh,1990,life_exp_total,55.822
+BGD,Bangladesh,1989,life_exp_total,55.514
+BGD,Bangladesh,1988,life_exp_total,55.174
+BGD,Bangladesh,1987,life_exp_total,54.899
+BGD,Bangladesh,1986,life_exp_total,54.592
+BGD,Bangladesh,1985,life_exp_total,53.937
+BGD,Bangladesh,1984,life_exp_total,53.826
+BGD,Bangladesh,1983,life_exp_total,53.441
+BGD,Bangladesh,1982,life_exp_total,53.012
+BGD,Bangladesh,1981,life_exp_total,52.638
+BGD,Bangladesh,1980,life_exp_total,52.278
+BGD,Bangladesh,1979,life_exp_total,51.959
+BGD,Bangladesh,1978,life_exp_total,51.596
+BGD,Bangladesh,1977,life_exp_total,51.265
+BGD,Bangladesh,1976,life_exp_total,50.951
+BGD,Bangladesh,1975,life_exp_total,50.627
+BGD,Bangladesh,1974,life_exp_total,49.589
+BGD,Bangladesh,1973,life_exp_total,49.914
+BGD,Bangladesh,1972,life_exp_total,49.647
+BGD,Bangladesh,1971,life_exp_total,26.522
+BGD,Bangladesh,1970,life_exp_total,42.667
+BGD,Bangladesh,1969,life_exp_total,48.686
+BGD,Bangladesh,1968,life_exp_total,48.4
+BGD,Bangladesh,1967,life_exp_total,48.066
+BGD,Bangladesh,1966,life_exp_total,47.644
+BGD,Bangladesh,1965,life_exp_total,46.046
+BGD,Bangladesh,1964,life_exp_total,46.752
+BGD,Bangladesh,1963,life_exp_total,45.722
+BGD,Bangladesh,1962,life_exp_total,45.765
+BGD,Bangladesh,1961,life_exp_total,44.887
+BGD,Bangladesh,1960,life_exp_total,43.98
+BGD,Bangladesh,2025,life_exp_male,
+BGD,Bangladesh,2024,life_exp_male,73.304
+BGD,Bangladesh,2023,life_exp_male,73.032
+BGD,Bangladesh,2022,life_exp_male,72.566
+BGD,Bangladesh,2021,life_exp_male,69.484
+BGD,Bangladesh,2020,life_exp_male,69.584
+BGD,Bangladesh,2019,life_exp_male,70.933
+BGD,Bangladesh,2018,life_exp_male,70.379
+BGD,Bangladesh,2017,life_exp_male,69.803
+BGD,Bangladesh,2016,life_exp_male,69.233
+BGD,Bangladesh,2015,life_exp_male,68.682
+BGD,Bangladesh,2014,life_exp_male,68.167
+BGD,Bangladesh,2013,life_exp_male,67.684
+BGD,Bangladesh,2012,life_exp_male,67.275
+BGD,Bangladesh,2011,life_exp_male,66.891
+BGD,Bangladesh,2010,life_exp_male,66.521
+BGD,Bangladesh,2009,life_exp_male,66.161
+BGD,Bangladesh,2008,life_exp_male,65.789
+BGD,Bangladesh,2007,life_exp_male,65.305
+BGD,Bangladesh,2006,life_exp_male,64.951
+BGD,Bangladesh,2005,life_exp_male,64.476
+BGD,Bangladesh,2004,life_exp_male,63.94
+BGD,Bangladesh,2003,life_exp_male,63.378
+BGD,Bangladesh,2002,life_exp_male,62.753
+BGD,Bangladesh,2001,life_exp_male,62.077
+BGD,Bangladesh,2000,life_exp_male,61.377
+BGD,Bangladesh,1999,life_exp_male,60.67
+BGD,Bangladesh,1998,life_exp_male,59.963
+BGD,Bangladesh,1997,life_exp_male,59.326
+BGD,Bangladesh,1996,life_exp_male,58.719
+BGD,Bangladesh,1995,life_exp_male,58.146
+BGD,Bangladesh,1994,life_exp_male,57.655
+BGD,Bangladesh,1993,life_exp_male,57.185
+BGD,Bangladesh,1992,life_exp_male,56.77
+BGD,Bangladesh,1991,life_exp_male,54.431
+BGD,Bangladesh,1990,life_exp_male,56.05
+BGD,Bangladesh,1989,life_exp_male,55.743
+BGD,Bangladesh,1988,life_exp_male,55.406
+BGD,Bangladesh,1987,life_exp_male,55.152
+BGD,Bangladesh,1986,life_exp_male,54.898
+BGD,Bangladesh,1985,life_exp_male,54.381
+BGD,Bangladesh,1984,life_exp_male,54.328
+BGD,Bangladesh,1983,life_exp_male,54.058
+BGD,Bangladesh,1982,life_exp_male,53.727
+BGD,Bangladesh,1981,life_exp_male,53.437
+BGD,Bangladesh,1980,life_exp_male,53.134
+BGD,Bangladesh,1979,life_exp_male,52.867
+BGD,Bangladesh,1978,life_exp_male,52.539
+BGD,Bangladesh,1977,life_exp_male,52.228
+BGD,Bangladesh,1976,life_exp_male,51.926
+BGD,Bangladesh,1975,life_exp_male,51.609
+BGD,Bangladesh,1974,life_exp_male,50.517
+BGD,Bangladesh,1973,life_exp_male,50.924
+BGD,Bangladesh,1972,life_exp_male,50.656
+BGD,Bangladesh,1971,life_exp_male,22.803
+BGD,Bangladesh,1970,life_exp_male,44.6
+BGD,Bangladesh,1969,life_exp_male,49.645
+BGD,Bangladesh,1968,life_exp_male,49.323
+BGD,Bangladesh,1967,life_exp_male,48.955
+BGD,Bangladesh,1966,life_exp_male,48.504
+BGD,Bangladesh,1965,life_exp_male,47.077
+BGD,Bangladesh,1964,life_exp_male,47.562
+BGD,Bangladesh,1963,life_exp_male,46.608
+BGD,Bangladesh,1962,life_exp_male,46.539
+BGD,Bangladesh,1961,life_exp_male,45.693
+BGD,Bangladesh,1960,life_exp_male,44.718
+BGD,Bangladesh,2025,life_exp_female,
+BGD,Bangladesh,2024,life_exp_female,76.667
+BGD,Bangladesh,2023,life_exp_female,76.373
+BGD,Bangladesh,2022,life_exp_female,76.051
+BGD,Bangladesh,2021,life_exp_female,72.847
+BGD,Bangladesh,2020,life_exp_female,73.428
+BGD,Bangladesh,2019,life_exp_female,74.399
+BGD,Bangladesh,2018,life_exp_female,73.953
+BGD,Bangladesh,2017,life_exp_female,73.51
+BGD,Bangladesh,2016,life_exp_female,73.066
+BGD,Bangladesh,2015,life_exp_female,72.597
+BGD,Bangladesh,2014,life_exp_female,72.095
+BGD,Bangladesh,2013,life_exp_female,71.538
+BGD,Bangladesh,2012,life_exp_female,70.944
+BGD,Bangladesh,2011,life_exp_female,70.323
+BGD,Bangladesh,2010,life_exp_female,69.687
+BGD,Bangladesh,2009,life_exp_female,69.058
+BGD,Bangladesh,2008,life_exp_female,68.451
+BGD,Bangladesh,2007,life_exp_female,67.743
+BGD,Bangladesh,2006,life_exp_female,67.273
+BGD,Bangladesh,2005,life_exp_female,66.668
+BGD,Bangladesh,2004,life_exp_female,66.01
+BGD,Bangladesh,2003,life_exp_female,65.321
+BGD,Bangladesh,2002,life_exp_female,64.548
+BGD,Bangladesh,2001,life_exp_female,63.703
+BGD,Bangladesh,2000,life_exp_female,62.813
+BGD,Bangladesh,1999,life_exp_female,61.893
+BGD,Bangladesh,1998,life_exp_female,60.954
+BGD,Bangladesh,1997,life_exp_female,60.064
+BGD,Bangladesh,1996,life_exp_female,59.194
+BGD,Bangladesh,1995,life_exp_female,58.362
+BGD,Bangladesh,1994,life_exp_female,57.633
+BGD,Bangladesh,1993,life_exp_female,56.959
+BGD,Bangladesh,1992,life_exp_female,56.404
+BGD,Bangladesh,1991,life_exp_female,53.102
+BGD,Bangladesh,1990,life_exp_female,55.574
+BGD,Bangladesh,1989,life_exp_female,55.259
+BGD,Bangladesh,1988,life_exp_female,54.913
+BGD,Bangladesh,1987,life_exp_female,54.608
+BGD,Bangladesh,1986,life_exp_female,54.238
+BGD,Bangladesh,1985,life_exp_female,53.437
+BGD,Bangladesh,1984,life_exp_female,53.263
+BGD,Bangladesh,1983,life_exp_female,52.762
+BGD,Bangladesh,1982,life_exp_female,52.236
+BGD,Bangladesh,1981,life_exp_female,51.782
+BGD,Bangladesh,1980,life_exp_female,51.365
+BGD,Bangladesh,1979,life_exp_female,50.992
+BGD,Bangladesh,1978,life_exp_female,50.594
+BGD,Bangladesh,1977,life_exp_female,50.241
+BGD,Bangladesh,1976,life_exp_female,49.913
+BGD,Bangladesh,1975,life_exp_female,49.581
+BGD,Bangladesh,1974,life_exp_female,48.6
+BGD,Bangladesh,1973,life_exp_female,48.844
+BGD,Bangladesh,1972,life_exp_female,48.58
+BGD,Bangladesh,1971,life_exp_female,32.715
+BGD,Bangladesh,1970,life_exp_female,40.709
+BGD,Bangladesh,1969,life_exp_female,47.654
+BGD,Bangladesh,1968,life_exp_female,47.405
+BGD,Bangladesh,1967,life_exp_female,47.106
+BGD,Bangladesh,1966,life_exp_female,46.715
+BGD,Bangladesh,1965,life_exp_female,44.945
+BGD,Bangladesh,1964,life_exp_female,45.876
+BGD,Bangladesh,1963,life_exp_female,44.767
+BGD,Bangladesh,1962,life_exp_female,44.926
+BGD,Bangladesh,1961,life_exp_female,44.016
+BGD,Bangladesh,1960,life_exp_female,43.178
+BGD,Bangladesh,2025,adult_mortality_male,
+BGD,Bangladesh,2024,adult_mortality_male,141.378
+BGD,Bangladesh,2023,adult_mortality_male,141.409
+BGD,Bangladesh,2022,adult_mortality_male,144.838
+BGD,Bangladesh,2021,adult_mortality_male,181.104
+BGD,Bangladesh,2020,adult_mortality_male,162.579
+BGD,Bangladesh,2019,adult_mortality_male,161.882
+BGD,Bangladesh,2018,adult_mortality_male,167.322
+BGD,Bangladesh,2017,adult_mortality_male,172.886
+BGD,Bangladesh,2016,adult_mortality_male,178.237
+BGD,Bangladesh,2015,adult_mortality_male,183.044
+BGD,Bangladesh,2014,adult_mortality_male,187.013
+BGD,Bangladesh,2013,adult_mortality_male,190.106
+BGD,Bangladesh,2012,adult_mortality_male,191.543
+BGD,Bangladesh,2011,adult_mortality_male,192.405
+BGD,Bangladesh,2010,adult_mortality_male,192.852
+BGD,Bangladesh,2009,adult_mortality_male,193.232
+BGD,Bangladesh,2008,adult_mortality_male,194.201
+BGD,Bangladesh,2007,adult_mortality_male,196.69
+BGD,Bangladesh,2006,adult_mortality_male,198.922
+BGD,Bangladesh,2005,adult_mortality_male,202.65
+BGD,Bangladesh,2004,adult_mortality_male,207.362
+BGD,Bangladesh,2003,adult_mortality_male,212.621
+BGD,Bangladesh,2002,adult_mortality_male,218.712
+BGD,Bangladesh,2001,adult_mortality_male,225.462
+BGD,Bangladesh,2000,adult_mortality_male,232.533
+BGD,Bangladesh,1999,adult_mortality_male,239.571
+BGD,Bangladesh,1998,adult_mortality_male,246.394
+BGD,Bangladesh,1997,adult_mortality_male,252.076
+BGD,Bangladesh,1996,adult_mortality_male,256.815
+BGD,Bangladesh,1995,adult_mortality_male,260.525
+BGD,Bangladesh,1994,adult_mortality_male,262.713
+BGD,Bangladesh,1993,adult_mortality_male,263.947
+BGD,Bangladesh,1992,adult_mortality_male,264.008
+BGD,Bangladesh,1991,adult_mortality_male,277.389
+BGD,Bangladesh,1990,adult_mortality_male,261.069
+BGD,Bangladesh,1989,adult_mortality_male,258.56
+BGD,Bangladesh,1988,adult_mortality_male,256.343
+BGD,Bangladesh,1987,adult_mortality_male,253.353
+BGD,Bangladesh,1986,adult_mortality_male,250.781
+BGD,Bangladesh,1985,adult_mortality_male,250.38
+BGD,Bangladesh,1984,adult_mortality_male,246.511
+BGD,Bangladesh,1983,adult_mortality_male,244.609
+BGD,Bangladesh,1982,adult_mortality_male,244.165
+BGD,Bangladesh,1981,adult_mortality_male,243.127
+BGD,Bangladesh,1980,adult_mortality_male,242.894
+BGD,Bangladesh,1979,adult_mortality_male,242.313
+BGD,Bangladesh,1978,adult_mortality_male,243.154
+BGD,Bangladesh,1977,adult_mortality_male,244.439
+BGD,Bangladesh,1976,adult_mortality_male,246.071
+BGD,Bangladesh,1975,adult_mortality_male,248.421
+BGD,Bangladesh,1974,adult_mortality_male,260.173
+BGD,Bangladesh,1973,adult_mortality_male,255.276
+BGD,Bangladesh,1972,adult_mortality_male,258.742
+BGD,Bangladesh,1971,adult_mortality_male,869.042
+BGD,Bangladesh,1970,adult_mortality_male,312.141
+BGD,Bangladesh,1969,adult_mortality_male,272.968
+BGD,Bangladesh,1968,adult_mortality_male,277.322
+BGD,Bangladesh,1967,adult_mortality_male,282.071
+BGD,Bangladesh,1966,adult_mortality_male,287.654
+BGD,Bangladesh,1965,adult_mortality_male,300.412
+BGD,Bangladesh,1964,adult_mortality_male,298.151
+BGD,Bangladesh,1963,adult_mortality_male,306.318
+BGD,Bangladesh,1962,adult_mortality_male,307.401
+BGD,Bangladesh,1961,adult_mortality_male,314.746
+BGD,Bangladesh,1960,adult_mortality_male,325.882
+BGD,Bangladesh,2025,adult_mortality_female,
+BGD,Bangladesh,2024,adult_mortality_female,101.496
+BGD,Bangladesh,2023,adult_mortality_female,108.97
+BGD,Bangladesh,2022,adult_mortality_female,113.419
+BGD,Bangladesh,2021,adult_mortality_female,138.106
+BGD,Bangladesh,2020,adult_mortality_female,121.394
+BGD,Bangladesh,2019,adult_mortality_female,118.025
+BGD,Bangladesh,2018,adult_mortality_female,120.44
+BGD,Bangladesh,2017,adult_mortality_female,122.9
+BGD,Bangladesh,2016,adult_mortality_female,125.318
+BGD,Bangladesh,2015,adult_mortality_female,127.822
+BGD,Bangladesh,2014,adult_mortality_female,130.381
+BGD,Bangladesh,2013,adult_mortality_female,133.177
+BGD,Bangladesh,2012,adult_mortality_female,136.09
+BGD,Bangladesh,2011,adult_mortality_female,139.262
+BGD,Bangladesh,2010,adult_mortality_female,142.809
+BGD,Bangladesh,2009,adult_mortality_female,146.754
+BGD,Bangladesh,2008,adult_mortality_female,151.107
+BGD,Bangladesh,2007,adult_mortality_female,157.325
+BGD,Bangladesh,2006,adult_mortality_female,161.645
+BGD,Bangladesh,2005,adult_mortality_female,167.874
+BGD,Bangladesh,2004,adult_mortality_female,174.903
+BGD,Bangladesh,2003,adult_mortality_female,182.501
+BGD,Bangladesh,2002,adult_mortality_female,191.024
+BGD,Bangladesh,2001,adult_mortality_female,200.319
+BGD,Bangladesh,2000,adult_mortality_female,210.166
+BGD,Bangladesh,1999,adult_mortality_female,220.442
+BGD,Bangladesh,1998,adult_mortality_female,230.949
+BGD,Bangladesh,1997,adult_mortality_female,241.12
+BGD,Bangladesh,1996,adult_mortality_female,250.9
+BGD,Bangladesh,1995,adult_mortality_female,259.911
+BGD,Bangladesh,1994,adult_mortality_female,267.307
+BGD,Bangladesh,1993,adult_mortality_female,273.247
+BGD,Bangladesh,1992,adult_mortality_female,276.73
+BGD,Bangladesh,1991,adult_mortality_female,316.566
+BGD,Bangladesh,1990,adult_mortality_female,276.628
+BGD,Bangladesh,1989,adult_mortality_female,274.103
+BGD,Bangladesh,1988,adult_mortality_female,271.406
+BGD,Bangladesh,1987,adult_mortality_female,268.407
+BGD,Bangladesh,1986,adult_mortality_female,266.882
+BGD,Bangladesh,1985,adult_mortality_female,271.669
+BGD,Bangladesh,1984,adult_mortality_female,267.917
+BGD,Bangladesh,1983,adult_mortality_female,269.636
+BGD,Bangladesh,1982,adult_mortality_female,272.352
+BGD,Bangladesh,1981,adult_mortality_female,274.502
+BGD,Bangladesh,1980,adult_mortality_female,276.896
+BGD,Bangladesh,1979,adult_mortality_female,279.679
+BGD,Bangladesh,1978,adult_mortality_female,283.414
+BGD,Bangladesh,1977,adult_mortality_female,286.984
+BGD,Bangladesh,1976,adult_mortality_female,290.299
+BGD,Bangladesh,1975,adult_mortality_female,293.65
+BGD,Bangladesh,1974,adult_mortality_female,301.862
+BGD,Bangladesh,1973,adult_mortality_female,300.838
+BGD,Bangladesh,1972,adult_mortality_female,303.326
+BGD,Bangladesh,1971,adult_mortality_female,551.382
+BGD,Bangladesh,1970,adult_mortality_female,424.748
+BGD,Bangladesh,1969,adult_mortality_female,315.553
+BGD,Bangladesh,1968,adult_mortality_female,319.084
+BGD,Bangladesh,1967,adult_mortality_female,323.235
+BGD,Bangladesh,1966,adult_mortality_female,328.352
+BGD,Bangladesh,1965,adult_mortality_female,354.512
+BGD,Bangladesh,1964,adult_mortality_female,337.674
+BGD,Bangladesh,1963,adult_mortality_female,352.293
+BGD,Bangladesh,1962,adult_mortality_female,346.33
+BGD,Bangladesh,1961,adult_mortality_female,357.007
+BGD,Bangladesh,1960,adult_mortality_female,364.362
+BGD,Bangladesh,2025,infant_mortality,
+BGD,Bangladesh,2024,infant_mortality,24.4
+BGD,Bangladesh,2023,infant_mortality,24.4
+BGD,Bangladesh,2022,infant_mortality,24.4
+BGD,Bangladesh,2021,infant_mortality,24.5
+BGD,Bangladesh,2020,infant_mortality,24.8
+BGD,Bangladesh,2019,infant_mortality,25.4
+BGD,Bangladesh,2018,infant_mortality,26.2
+BGD,Bangladesh,2017,infant_mortality,27.3
+BGD,Bangladesh,2016,infant_mortality,28.5
+BGD,Bangladesh,2015,infant_mortality,29.8
+BGD,Bangladesh,2014,infant_mortality,31.2
+BGD,Bangladesh,2013,infant_mortality,32.6
+BGD,Bangladesh,2012,infant_mortality,33.9
+BGD,Bangladesh,2011,infant_mortality,35.3
+BGD,Bangladesh,2010,infant_mortality,36.8
+BGD,Bangladesh,2009,infant_mortality,38.3
+BGD,Bangladesh,2008,infant_mortality,40.0
+BGD,Bangladesh,2007,infant_mortality,41.8
+BGD,Bangladesh,2006,infant_mortality,43.8
+BGD,Bangladesh,2005,infant_mortality,46.0
+BGD,Bangladesh,2004,infant_mortality,48.3
+BGD,Bangladesh,2003,infant_mortality,50.8
+BGD,Bangladesh,2002,infant_mortality,53.6
+BGD,Bangladesh,2001,infant_mortality,56.6
+BGD,Bangladesh,2000,infant_mortality,59.8
+BGD,Bangladesh,1999,infant_mortality,63.3
+BGD,Bangladesh,1998,infant_mortality,66.9
+BGD,Bangladesh,1997,infant_mortality,70.6
+BGD,Bangladesh,1996,infant_mortality,74.2
+BGD,Bangladesh,1995,infant_mortality,77.9
+BGD,Bangladesh,1994,infant_mortality,81.5
+BGD,Bangladesh,1993,infant_mortality,85.2
+BGD,Bangladesh,1992,infant_mortality,89.0
+BGD,Bangladesh,1991,infant_mortality,92.6
+BGD,Bangladesh,1990,infant_mortality,96.3
+BGD,Bangladesh,1989,infant_mortality,100.1
+BGD,Bangladesh,1988,infant_mortality,104.0
+BGD,Bangladesh,1987,infant_mortality,107.9
+BGD,Bangladesh,1986,infant_mortality,111.8
+BGD,Bangladesh,1985,infant_mortality,115.6
+BGD,Bangladesh,1984,infant_mortality,119.2
+BGD,Bangladesh,1983,infant_mortality,122.8
+BGD,Bangladesh,1982,infant_mortality,126.2
+BGD,Bangladesh,1981,infant_mortality,129.7
+BGD,Bangladesh,1980,infant_mortality,133.2
+BGD,Bangladesh,1979,infant_mortality,136.5
+BGD,Bangladesh,1978,infant_mortality,139.7
+BGD,Bangladesh,1977,infant_mortality,142.5
+BGD,Bangladesh,1976,infant_mortality,144.8
+BGD,Bangladesh,1975,infant_mortality,172.6
+BGD,Bangladesh,1974,infant_mortality,174.4
+BGD,Bangladesh,1973,infant_mortality,148.0
+BGD,Bangladesh,1972,infant_mortality,148.2
+BGD,Bangladesh,1971,infant_mortality,204.9
+BGD,Bangladesh,1970,infant_mortality,164.4
+BGD,Bangladesh,1969,infant_mortality,148.0
+BGD,Bangladesh,1968,infant_mortality,148.6
+BGD,Bangladesh,1967,infant_mortality,150.0
+BGD,Bangladesh,1966,infant_mortality,152.1
+BGD,Bangladesh,1965,infant_mortality,154.9
+BGD,Bangladesh,1964,infant_mortality,158.6
+BGD,Bangladesh,1963,infant_mortality,162.8
+BGD,Bangladesh,1962,infant_mortality,167.6
+BGD,Bangladesh,1961,infant_mortality,172.6
+BGD,Bangladesh,1960,infant_mortality,177.9
+BGD,Bangladesh,2025,under5_mortality,
+BGD,Bangladesh,2024,under5_mortality,30.5
+BGD,Bangladesh,2023,under5_mortality,30.6
+BGD,Bangladesh,2022,under5_mortality,30.7
+BGD,Bangladesh,2021,under5_mortality,30.9
+BGD,Bangladesh,2020,under5_mortality,31.4
+BGD,Bangladesh,2019,under5_mortality,32.3
+BGD,Bangladesh,2018,under5_mortality,33.5
+BGD,Bangladesh,2017,under5_mortality,35.0
+BGD,Bangladesh,2016,under5_mortality,36.7
+BGD,Bangladesh,2015,under5_mortality,38.5
+BGD,Bangladesh,2014,under5_mortality,40.5
+BGD,Bangladesh,2013,under5_mortality,42.4
+BGD,Bangladesh,2012,under5_mortality,44.4
+BGD,Bangladesh,2011,under5_mortality,46.5
+BGD,Bangladesh,2010,under5_mortality,48.7
+BGD,Bangladesh,2009,under5_mortality,51.1
+BGD,Bangladesh,2008,under5_mortality,53.6
+BGD,Bangladesh,2007,under5_mortality,56.5
+BGD,Bangladesh,2006,under5_mortality,59.6
+BGD,Bangladesh,2005,under5_mortality,63.0
+BGD,Bangladesh,2004,under5_mortality,66.8
+BGD,Bangladesh,2003,under5_mortality,70.8
+BGD,Bangladesh,2002,under5_mortality,75.3
+BGD,Bangladesh,2001,under5_mortality,80.2
+BGD,Bangladesh,2000,under5_mortality,85.5
+BGD,Bangladesh,1999,under5_mortality,91.2
+BGD,Bangladesh,1998,under5_mortality,97.1
+BGD,Bangladesh,1997,under5_mortality,103.3
+BGD,Bangladesh,1996,under5_mortality,109.4
+BGD,Bangladesh,1995,under5_mortality,115.5
+BGD,Bangladesh,1994,under5_mortality,121.6
+BGD,Bangladesh,1993,under5_mortality,127.8
+BGD,Bangladesh,1992,under5_mortality,134.1
+BGD,Bangladesh,1991,under5_mortality,140.3
+BGD,Bangladesh,1990,under5_mortality,146.5
+BGD,Bangladesh,1989,under5_mortality,152.8
+BGD,Bangladesh,1988,under5_mortality,159.3
+BGD,Bangladesh,1987,under5_mortality,165.8
+BGD,Bangladesh,1986,under5_mortality,172.3
+BGD,Bangladesh,1985,under5_mortality,178.6
+BGD,Bangladesh,1984,under5_mortality,184.7
+BGD,Bangladesh,1983,under5_mortality,190.6
+BGD,Bangladesh,1982,under5_mortality,196.2
+BGD,Bangladesh,1981,under5_mortality,201.8
+BGD,Bangladesh,1980,under5_mortality,207.2
+BGD,Bangladesh,1979,under5_mortality,212.4
+BGD,Bangladesh,1978,under5_mortality,217.2
+BGD,Bangladesh,1977,under5_mortality,221.5
+BGD,Bangladesh,1976,under5_mortality,224.9
+BGD,Bangladesh,1975,under5_mortality,273.0
+BGD,Bangladesh,1974,under5_mortality,275.7
+BGD,Bangladesh,1973,under5_mortality,229.1
+BGD,Bangladesh,1972,under5_mortality,228.8
+BGD,Bangladesh,1971,under5_mortality,367.0
+BGD,Bangladesh,1970,under5_mortality,271.0
+BGD,Bangladesh,1969,under5_mortality,227.0
+BGD,Bangladesh,1968,under5_mortality,227.2
+BGD,Bangladesh,1967,under5_mortality,228.5
+BGD,Bangladesh,1966,under5_mortality,230.9
+BGD,Bangladesh,1965,under5_mortality,234.2
+BGD,Bangladesh,1964,under5_mortality,238.7
+BGD,Bangladesh,1963,under5_mortality,244.1
+BGD,Bangladesh,1962,under5_mortality,250.2
+BGD,Bangladesh,1961,under5_mortality,256.7
+BGD,Bangladesh,1960,under5_mortality,263.6
+BGD,Bangladesh,2025,crude_death_rate,
+BGD,Bangladesh,2024,crude_death_rate,5.105
+BGD,Bangladesh,2023,crude_death_rate,5.01
+BGD,Bangladesh,2022,crude_death_rate,5.037
+BGD,Bangladesh,2021,crude_death_rate,6.317
+BGD,Bangladesh,2020,crude_death_rate,6.126
+BGD,Bangladesh,2019,crude_death_rate,5.372
+BGD,Bangladesh,2018,crude_death_rate,5.442
+BGD,Bangladesh,2017,crude_death_rate,5.512
+BGD,Bangladesh,2016,crude_death_rate,5.575
+BGD,Bangladesh,2015,crude_death_rate,5.638
+BGD,Bangladesh,2014,crude_death_rate,5.703
+BGD,Bangladesh,2013,crude_death_rate,5.778
+BGD,Bangladesh,2012,crude_death_rate,5.847
+BGD,Bangladesh,2011,crude_death_rate,5.93
+BGD,Bangladesh,2010,crude_death_rate,6.049
+BGD,Bangladesh,2009,crude_death_rate,6.181
+BGD,Bangladesh,2008,crude_death_rate,6.319
+BGD,Bangladesh,2007,crude_death_rate,6.51
+BGD,Bangladesh,2006,crude_death_rate,6.634
+BGD,Bangladesh,2005,crude_death_rate,6.824
+BGD,Bangladesh,2004,crude_death_rate,7.053
+BGD,Bangladesh,2003,crude_death_rate,7.302
+BGD,Bangladesh,2002,crude_death_rate,7.598
+BGD,Bangladesh,2001,crude_death_rate,7.934
+BGD,Bangladesh,2000,crude_death_rate,8.276
+BGD,Bangladesh,1999,crude_death_rate,8.643
+BGD,Bangladesh,1998,crude_death_rate,9.037
+BGD,Bangladesh,1997,crude_death_rate,9.402
+BGD,Bangladesh,1996,crude_death_rate,9.756
+BGD,Bangladesh,1995,crude_death_rate,10.147
+BGD,Bangladesh,1994,crude_death_rate,10.517
+BGD,Bangladesh,1993,crude_death_rate,10.876
+BGD,Bangladesh,1992,crude_death_rate,11.243
+BGD,Bangladesh,1991,crude_death_rate,12.945
+BGD,Bangladesh,1990,crude_death_rate,11.962
+BGD,Bangladesh,1989,crude_death_rate,12.249
+BGD,Bangladesh,1988,crude_death_rate,12.558
+BGD,Bangladesh,1987,crude_death_rate,12.878
+BGD,Bangladesh,1986,crude_death_rate,13.218
+BGD,Bangladesh,1985,crude_death_rate,13.771
+BGD,Bangladesh,1984,crude_death_rate,13.998
+BGD,Bangladesh,1983,crude_death_rate,14.384
+BGD,Bangladesh,1982,crude_death_rate,14.805
+BGD,Bangladesh,1981,crude_death_rate,15.14
+BGD,Bangladesh,1980,crude_death_rate,15.449
+BGD,Bangladesh,1979,crude_death_rate,15.686
+BGD,Bangladesh,1978,crude_death_rate,15.935
+BGD,Bangladesh,1977,crude_death_rate,16.171
+BGD,Bangladesh,1976,crude_death_rate,16.379
+BGD,Bangladesh,1975,crude_death_rate,16.578
+BGD,Bangladesh,1974,crude_death_rate,17.282
+BGD,Bangladesh,1973,crude_death_rate,16.987
+BGD,Bangladesh,1972,crude_death_rate,17.073
+BGD,Bangladesh,1971,crude_death_rate,39.876
+BGD,Bangladesh,1970,crude_death_rate,22.15
+BGD,Bangladesh,1969,crude_death_rate,17.81
+BGD,Bangladesh,1968,crude_death_rate,18.003
+BGD,Bangladesh,1967,crude_death_rate,18.261
+BGD,Bangladesh,1966,crude_death_rate,18.59
+BGD,Bangladesh,1965,crude_death_rate,19.783
+BGD,Bangladesh,1964,crude_death_rate,19.373
+BGD,Bangladesh,1963,crude_death_rate,20.198
+BGD,Bangladesh,1962,crude_death_rate,20.239
+BGD,Bangladesh,1961,crude_death_rate,20.909
+BGD,Bangladesh,1960,crude_death_rate,21.624
+BGD,Bangladesh,2025,pop_65plus_pct,6.66842350416686
+BGD,Bangladesh,2024,pop_65plus_pct,6.49846299627493
+BGD,Bangladesh,2023,pop_65plus_pct,6.32054805417649
+BGD,Bangladesh,2022,pop_65plus_pct,6.13515765182076
+BGD,Bangladesh,2021,pop_65plus_pct,5.97381333056883
+BGD,Bangladesh,2020,pop_65plus_pct,5.835135780086
+BGD,Bangladesh,2019,pop_65plus_pct,5.66255837053046
+BGD,Bangladesh,2018,pop_65plus_pct,5.45814402305543
+BGD,Bangladesh,2017,pop_65plus_pct,5.25888905067487
+BGD,Bangladesh,2016,pop_65plus_pct,5.07223834276104
+BGD,Bangladesh,2015,pop_65plus_pct,4.90260142194805
+BGD,Bangladesh,2014,pop_65plus_pct,4.75656753138087
+BGD,Bangladesh,2013,pop_65plus_pct,4.62684307316426
+BGD,Bangladesh,2012,pop_65plus_pct,4.48905587386876
+BGD,Bangladesh,2011,pop_65plus_pct,4.34377354171206
+BGD,Bangladesh,2010,pop_65plus_pct,4.20925466072201
+BGD,Bangladesh,2009,pop_65plus_pct,4.09030396109955
+BGD,Bangladesh,2008,pop_65plus_pct,3.98311546121115
+BGD,Bangladesh,2007,pop_65plus_pct,3.88738601724917
+BGD,Bangladesh,2006,pop_65plus_pct,3.80177383950799
+BGD,Bangladesh,2005,pop_65plus_pct,3.72492189621939
+BGD,Bangladesh,2004,pop_65plus_pct,3.65582722732927
+BGD,Bangladesh,2003,pop_65plus_pct,3.59350455333156
+BGD,Bangladesh,2002,pop_65plus_pct,3.53929895087049
+BGD,Bangladesh,2001,pop_65plus_pct,3.49633577880817
+BGD,Bangladesh,2000,pop_65plus_pct,3.46140181652951
+BGD,Bangladesh,1999,pop_65plus_pct,3.43512488596031
+BGD,Bangladesh,1998,pop_65plus_pct,3.4200599917461
+BGD,Bangladesh,1997,pop_65plus_pct,3.41304079304443
+BGD,Bangladesh,1996,pop_65plus_pct,3.41280605074175
+BGD,Bangladesh,1995,pop_65plus_pct,3.41881553864805
+BGD,Bangladesh,1994,pop_65plus_pct,3.43124598694538
+BGD,Bangladesh,1993,pop_65plus_pct,3.44699748888875
+BGD,Bangladesh,1992,pop_65plus_pct,3.4642372412599
+BGD,Bangladesh,1991,pop_65plus_pct,3.48431341198764
+BGD,Bangladesh,1990,pop_65plus_pct,3.50089256635609
+BGD,Bangladesh,1989,pop_65plus_pct,3.51008192633429
+BGD,Bangladesh,1988,pop_65plus_pct,3.51394543394092
+BGD,Bangladesh,1987,pop_65plus_pct,3.51269284012218
+BGD,Bangladesh,1986,pop_65plus_pct,3.50793728708405
+BGD,Bangladesh,1985,pop_65plus_pct,3.50087091440152
+BGD,Bangladesh,1984,pop_65plus_pct,3.49135734505086
+BGD,Bangladesh,1983,pop_65plus_pct,3.47853791960866
+BGD,Bangladesh,1982,pop_65plus_pct,3.46310519897016
+BGD,Bangladesh,1981,pop_65plus_pct,3.44259869825406
+BGD,Bangladesh,1980,pop_65plus_pct,3.40778641997091
+BGD,Bangladesh,1979,pop_65plus_pct,3.35870669520534
+BGD,Bangladesh,1978,pop_65plus_pct,3.30230348426156
+BGD,Bangladesh,1977,pop_65plus_pct,3.240405733117
+BGD,Bangladesh,1976,pop_65plus_pct,3.17544912913627
+BGD,Bangladesh,1975,pop_65plus_pct,3.1096958415959
+BGD,Bangladesh,1974,pop_65plus_pct,3.05211222973668
+BGD,Bangladesh,1973,pop_65plus_pct,3.00423302074675
+BGD,Bangladesh,1972,pop_65plus_pct,2.95883452722436
+BGD,Bangladesh,1971,pop_65plus_pct,2.98887576039808
+BGD,Bangladesh,1970,pop_65plus_pct,3.02919560926363
+BGD,Bangladesh,1969,pop_65plus_pct,3.00023185528099
+BGD,Bangladesh,1968,pop_65plus_pct,2.96906006206309
+BGD,Bangladesh,1967,pop_65plus_pct,2.94060730036406
+BGD,Bangladesh,1966,pop_65plus_pct,2.91632264025869
+BGD,Bangladesh,1965,pop_65plus_pct,2.89860097536132
+BGD,Bangladesh,1964,pop_65plus_pct,2.88742345125891
+BGD,Bangladesh,1963,pop_65plus_pct,2.88317625235641
+BGD,Bangladesh,1962,pop_65plus_pct,2.88712174487027
+BGD,Bangladesh,1961,pop_65plus_pct,2.89818688576359
+BGD,Bangladesh,1960,pop_65plus_pct,2.91668352108
+BGD,Bangladesh,2025,old_age_dependency,10.1519960710357
+BGD,Bangladesh,2024,old_age_dependency,9.91940845499206
+BGD,Bangladesh,2023,old_age_dependency,9.67649438187319
+BGD,Bangladesh,2022,old_age_dependency,9.42496463313091
+BGD,Bangladesh,2021,old_age_dependency,9.19731840432484
+BGD,Bangladesh,2020,old_age_dependency,8.99007678263529
+BGD,Bangladesh,2019,old_age_dependency,8.73026000966038
+BGD,Bangladesh,2018,old_age_dependency,8.42340995776793
+BGD,Bangladesh,2017,old_age_dependency,8.13253782885509
+BGD,Bangladesh,2016,old_age_dependency,7.88083150095721
+BGD,Bangladesh,2015,old_age_dependency,7.67049516937057
+BGD,Bangladesh,2014,old_age_dependency,7.49808224678947
+BGD,Bangladesh,2013,old_age_dependency,7.35009257974433
+BGD,Bangladesh,2012,old_age_dependency,7.18427722271008
+BGD,Bangladesh,2011,old_age_dependency,6.9977307992859
+BGD,Bangladesh,2010,old_age_dependency,6.81767435451691
+BGD,Bangladesh,2009,old_age_dependency,6.65505567963701
+BGD,Bangladesh,2008,old_age_dependency,6.50584958273277
+BGD,Bangladesh,2007,old_age_dependency,6.3719037093988
+BGD,Bangladesh,2006,old_age_dependency,6.25483192391766
+BGD,Bangladesh,2005,old_age_dependency,6.15323814564069
+BGD,Bangladesh,2004,old_age_dependency,6.06403552107259
+BGD,Bangladesh,2003,old_age_dependency,5.98364295448218
+BGD,Bangladesh,2002,old_age_dependency,5.91576715658698
+BGD,Bangladesh,2001,old_age_dependency,5.86789252454913
+BGD,Bangladesh,2000,old_age_dependency,5.84539079116541
+BGD,Bangladesh,1999,old_age_dependency,5.85048846946689
+BGD,Bangladesh,1998,old_age_dependency,5.877767091761
+BGD,Bangladesh,1997,old_age_dependency,5.92329582936759
+BGD,Bangladesh,1996,old_age_dependency,5.98604139561545
+BGD,Bangladesh,1995,old_age_dependency,6.06217767281237
+BGD,Bangladesh,1994,old_age_dependency,6.1481436902179
+BGD,Bangladesh,1993,old_age_dependency,6.2379732490545
+BGD,Bangladesh,1992,old_age_dependency,6.32799155116521
+BGD,Bangladesh,1991,old_age_dependency,6.42244417613743
+BGD,Bangladesh,1990,old_age_dependency,6.50902652065697
+BGD,Bangladesh,1989,old_age_dependency,6.57834821707246
+BGD,Bangladesh,1988,old_age_dependency,6.63643468366044
+BGD,Bangladesh,1987,old_age_dependency,6.68275793141332
+BGD,Bangladesh,1986,old_age_dependency,6.71321477181679
+BGD,Bangladesh,1985,old_age_dependency,6.72676608186451
+BGD,Bangladesh,1984,old_age_dependency,6.72782445667134
+BGD,Bangladesh,1983,old_age_dependency,6.71759999774748
+BGD,Bangladesh,1982,old_age_dependency,6.6968726235894
+BGD,Bangladesh,1981,old_age_dependency,6.65779239138689
+BGD,Bangladesh,1980,old_age_dependency,6.5832692655661
+BGD,Bangladesh,1979,old_age_dependency,6.47941488172274
+BGD,Bangladesh,1978,old_age_dependency,6.36414573419595
+BGD,Bangladesh,1977,old_age_dependency,6.24109050260193
+BGD,Bangladesh,1976,old_age_dependency,6.11372023781683
+BGD,Bangladesh,1975,old_age_dependency,5.98499377208465
+BGD,Bangladesh,1974,old_age_dependency,5.86486339734746
+BGD,Bangladesh,1973,old_age_dependency,5.75929112448353
+BGD,Bangladesh,1972,old_age_dependency,5.65442085515595
+BGD,Bangladesh,1971,old_age_dependency,5.69577932552109
+BGD,Bangladesh,1970,old_age_dependency,5.76567686865053
+BGD,Bangladesh,1969,old_age_dependency,5.69458635217797
+BGD,Bangladesh,1968,old_age_dependency,5.61213008520188
+BGD,Bangladesh,1967,old_age_dependency,5.53585322989267
+BGD,Bangladesh,1966,old_age_dependency,5.46534707984148
+BGD,Bangladesh,1965,old_age_dependency,5.40639799727864
+BGD,Bangladesh,1964,old_age_dependency,5.35405547417189
+BGD,Bangladesh,1963,old_age_dependency,5.3101737134468
+BGD,Bangladesh,1962,old_age_dependency,5.28860607233469
+BGD,Bangladesh,1961,old_age_dependency,5.28756951931438
+BGD,Bangladesh,1960,old_age_dependency,5.30405274895297
+BGD,Bangladesh,2025,population_total,175686899.0
+BGD,Bangladesh,2024,population_total,173562364.0
+BGD,Bangladesh,2023,population_total,171466990.0
+BGD,Bangladesh,2022,population_total,169384897.0
+BGD,Bangladesh,2021,population_total,167658854.0
+BGD,Bangladesh,2020,population_total,166298024.0
+BGD,Bangladesh,2019,population_total,164913055.0
+BGD,Bangladesh,2018,population_total,163523103.0
+BGD,Bangladesh,2017,population_total,162186147.0
+BGD,Bangladesh,2016,population_total,160811932.0
+BGD,Bangladesh,2015,population_total,159383179.0
+BGD,Bangladesh,2014,population_total,157964929.0
+BGD,Bangladesh,2013,population_total,156532141.0
+BGD,Bangladesh,2012,population_total,155070101.0
+BGD,Bangladesh,2011,population_total,153591076.0
+BGD,Bangladesh,2010,population_total,152201981.0
+BGD,Bangladesh,2009,population_total,150873714.0
+BGD,Bangladesh,2008,population_total,149474264.0
+BGD,Bangladesh,2007,population_total,147989278.0
+BGD,Bangladesh,2006,population_total,146405973.0
+BGD,Bangladesh,2005,population_total,144715786.0
+BGD,Bangladesh,2004,population_total,142902856.0
+BGD,Bangladesh,2003,population_total,140970351.0
+BGD,Bangladesh,2002,population_total,138933658.0
+BGD,Bangladesh,2001,population_total,136805810.0
+BGD,Bangladesh,2000,population_total,134544304.0
+BGD,Bangladesh,1999,population_total,132108065.0
+BGD,Bangladesh,1998,population_total,129622332.0
+BGD,Bangladesh,1997,population_total,127198069.0
+BGD,Bangladesh,1996,population_total,124862179.0
+BGD,Bangladesh,1995,population_total,122600370.0
+BGD,Bangladesh,1994,population_total,120343179.0
+BGD,Bangladesh,1993,population_total,118132360.0
+BGD,Bangladesh,1992,population_total,115952192.0
+BGD,Bangladesh,1991,population_total,113787109.0
+BGD,Bangladesh,1990,population_total,111633717.0
+BGD,Bangladesh,1989,population_total,109433799.0
+BGD,Bangladesh,1988,population_total,107216008.0
+BGD,Bangladesh,1987,population_total,104959291.0
+BGD,Bangladesh,1986,population_total,102635572.0
+BGD,Bangladesh,1985,population_total,100253825.0
+BGD,Bangladesh,1984,population_total,97814966.0
+BGD,Bangladesh,1983,population_total,95335155.0
+BGD,Bangladesh,1982,population_total,92814507.0
+BGD,Bangladesh,1981,population_total,90303105.0
+BGD,Bangladesh,1980,population_total,88016432.0
+BGD,Bangladesh,1979,population_total,85935072.0
+BGD,Bangladesh,1978,population_total,83889655.0
+BGD,Bangladesh,1977,population_total,81867264.0
+BGD,Bangladesh,1976,population_total,79855318.0
+BGD,Bangladesh,1975,population_total,77854351.0
+BGD,Bangladesh,1974,population_total,75839348.0
+BGD,Bangladesh,1973,population_total,73722294.0
+BGD,Bangladesh,1972,population_total,71641519.0
+BGD,Bangladesh,1971,population_total,70276758.0
+BGD,Bangladesh,1970,population_total,69058894.0
+BGD,Bangladesh,1969,population_total,67294133.0
+BGD,Bangladesh,1968,population_total,65408276.0
+BGD,Bangladesh,1967,population_total,63510929.0
+BGD,Bangladesh,1966,population_total,61669806.0
+BGD,Bangladesh,1965,population_total,59902519.0
+BGD,Bangladesh,1964,population_total,58178374.0
+BGD,Bangladesh,1963,population_total,56504402.0
+BGD,Bangladesh,1962,population_total,54881146.0
+BGD,Bangladesh,1961,population_total,53310348.0
+BGD,Bangladesh,1960,population_total,51828660.0
+MDV,Maldives,2025,life_exp_total,
+MDV,Maldives,2024,life_exp_total,81.285
+MDV,Maldives,2023,life_exp_total,81.041
+MDV,Maldives,2022,life_exp_total,80.76
+MDV,Maldives,2021,life_exp_total,78.052
+MDV,Maldives,2020,life_exp_total,78.713
+MDV,Maldives,2019,life_exp_total,79.707
+MDV,Maldives,2018,life_exp_total,79.433
+MDV,Maldives,2017,life_exp_total,79.228
+MDV,Maldives,2016,life_exp_total,78.913
+MDV,Maldives,2015,life_exp_total,78.607
+MDV,Maldives,2014,life_exp_total,78.187
+MDV,Maldives,2013,life_exp_total,77.847
+MDV,Maldives,2012,life_exp_total,77.512
+MDV,Maldives,2011,life_exp_total,77.141
+MDV,Maldives,2010,life_exp_total,76.756
+MDV,Maldives,2009,life_exp_total,76.371
+MDV,Maldives,2008,life_exp_total,75.999
+MDV,Maldives,2007,life_exp_total,75.711
+MDV,Maldives,2006,life_exp_total,75.256
+MDV,Maldives,2005,life_exp_total,74.785
+MDV,Maldives,2004,life_exp_total,73.008
+MDV,Maldives,2003,life_exp_total,73.263
+MDV,Maldives,2002,life_exp_total,72.36
+MDV,Maldives,2001,life_exp_total,71.659
+MDV,Maldives,2000,life_exp_total,70.892
+MDV,Maldives,1999,life_exp_total,70.157
+MDV,Maldives,1998,life_exp_total,69.303
+MDV,Maldives,1997,life_exp_total,68.517
+MDV,Maldives,1996,life_exp_total,67.734
+MDV,Maldives,1995,life_exp_total,66.962
+MDV,Maldives,1994,life_exp_total,66.197
+MDV,Maldives,1993,life_exp_total,65.434
+MDV,Maldives,1992,life_exp_total,64.664
+MDV,Maldives,1991,life_exp_total,63.911
+MDV,Maldives,1990,life_exp_total,63.148
+MDV,Maldives,1989,life_exp_total,62.375
+MDV,Maldives,1988,life_exp_total,61.59
+MDV,Maldives,1987,life_exp_total,60.789
+MDV,Maldives,1986,life_exp_total,59.993
+MDV,Maldives,1985,life_exp_total,59.18
+MDV,Maldives,1984,life_exp_total,58.341
+MDV,Maldives,1983,life_exp_total,57.484
+MDV,Maldives,1982,life_exp_total,56.614
+MDV,Maldives,1981,life_exp_total,55.729
+MDV,Maldives,1980,life_exp_total,54.819
+MDV,Maldives,1979,life_exp_total,53.871
+MDV,Maldives,1978,life_exp_total,50.448
+MDV,Maldives,1977,life_exp_total,51.835
+MDV,Maldives,1976,life_exp_total,50.753
+MDV,Maldives,1975,life_exp_total,49.645
+MDV,Maldives,1974,life_exp_total,48.535
+MDV,Maldives,1973,life_exp_total,47.459
+MDV,Maldives,1972,life_exp_total,46.431
+MDV,Maldives,1971,life_exp_total,45.454
+MDV,Maldives,1970,life_exp_total,44.522
+MDV,Maldives,1969,life_exp_total,43.654
+MDV,Maldives,1968,life_exp_total,42.852
+MDV,Maldives,1967,life_exp_total,42.106
+MDV,Maldives,1966,life_exp_total,41.406
+MDV,Maldives,1965,life_exp_total,40.759
+MDV,Maldives,1964,life_exp_total,40.152
+MDV,Maldives,1963,life_exp_total,39.593
+MDV,Maldives,1962,life_exp_total,39.09
+MDV,Maldives,1961,life_exp_total,38.645
+MDV,Maldives,1960,life_exp_total,38.244
+MDV,Maldives,2025,life_exp_male,
+MDV,Maldives,2024,life_exp_male,79.948
+MDV,Maldives,2023,life_exp_male,79.691
+MDV,Maldives,2022,life_exp_male,79.421
+MDV,Maldives,2021,life_exp_male,76.825
+MDV,Maldives,2020,life_exp_male,77.514
+MDV,Maldives,2019,life_exp_male,78.392
+MDV,Maldives,2018,life_exp_male,78.185
+MDV,Maldives,2017,life_exp_male,78.082
+MDV,Maldives,2016,life_exp_male,77.82
+MDV,Maldives,2015,life_exp_male,77.485
+MDV,Maldives,2014,life_exp_male,77.02
+MDV,Maldives,2013,life_exp_male,76.636
+MDV,Maldives,2012,life_exp_male,76.317
+MDV,Maldives,2011,life_exp_male,75.929
+MDV,Maldives,2010,life_exp_male,75.531
+MDV,Maldives,2009,life_exp_male,75.151
+MDV,Maldives,2008,life_exp_male,74.755
+MDV,Maldives,2007,life_exp_male,74.491
+MDV,Maldives,2006,life_exp_male,74.066
+MDV,Maldives,2005,life_exp_male,73.65
+MDV,Maldives,2004,life_exp_male,72.047
+MDV,Maldives,2003,life_exp_male,72.135
+MDV,Maldives,2002,life_exp_male,71.301
+MDV,Maldives,2001,life_exp_male,70.632
+MDV,Maldives,2000,life_exp_male,69.944
+MDV,Maldives,1999,life_exp_male,69.188
+MDV,Maldives,1998,life_exp_male,68.322
+MDV,Maldives,1997,life_exp_male,67.522
+MDV,Maldives,1996,life_exp_male,66.73
+MDV,Maldives,1995,life_exp_male,65.984
+MDV,Maldives,1994,life_exp_male,65.245
+MDV,Maldives,1993,life_exp_male,64.525
+MDV,Maldives,1992,life_exp_male,63.789
+MDV,Maldives,1991,life_exp_male,63.084
+MDV,Maldives,1990,life_exp_male,62.361
+MDV,Maldives,1989,life_exp_male,61.602
+MDV,Maldives,1988,life_exp_male,60.825
+MDV,Maldives,1987,life_exp_male,60.041
+MDV,Maldives,1986,life_exp_male,59.271
+MDV,Maldives,1985,life_exp_male,58.487
+MDV,Maldives,1984,life_exp_male,57.685
+MDV,Maldives,1983,life_exp_male,56.869
+MDV,Maldives,1982,life_exp_male,56.034
+MDV,Maldives,1981,life_exp_male,55.174
+MDV,Maldives,1980,life_exp_male,54.282
+MDV,Maldives,1979,life_exp_male,53.345
+MDV,Maldives,1978,life_exp_male,49.965
+MDV,Maldives,1977,life_exp_male,51.354
+MDV,Maldives,1976,life_exp_male,50.31
+MDV,Maldives,1975,life_exp_male,49.244
+MDV,Maldives,1974,life_exp_male,48.173
+MDV,Maldives,1973,life_exp_male,47.149
+MDV,Maldives,1972,life_exp_male,46.163
+MDV,Maldives,1971,life_exp_male,45.213
+MDV,Maldives,1970,life_exp_male,44.264
+MDV,Maldives,1969,life_exp_male,43.38
+MDV,Maldives,1968,life_exp_male,42.551
+MDV,Maldives,1967,life_exp_male,41.769
+MDV,Maldives,1966,life_exp_male,41.01
+MDV,Maldives,1965,life_exp_male,40.3
+MDV,Maldives,1964,life_exp_male,39.621
+MDV,Maldives,1963,life_exp_male,39.007
+MDV,Maldives,1962,life_exp_male,38.449
+MDV,Maldives,1961,life_exp_male,37.961
+MDV,Maldives,1960,life_exp_male,37.523
+MDV,Maldives,2025,life_exp_female,
+MDV,Maldives,2024,life_exp_female,83.0
+MDV,Maldives,2023,life_exp_female,82.819
+MDV,Maldives,2022,life_exp_female,82.546
+MDV,Maldives,2021,life_exp_female,79.699
+MDV,Maldives,2020,life_exp_female,80.386
+MDV,Maldives,2019,life_exp_female,81.514
+MDV,Maldives,2018,life_exp_female,81.136
+MDV,Maldives,2017,life_exp_female,80.788
+MDV,Maldives,2016,life_exp_female,80.403
+MDV,Maldives,2015,life_exp_female,80.146
+MDV,Maldives,2014,life_exp_female,79.788
+MDV,Maldives,2013,life_exp_female,79.507
+MDV,Maldives,2012,life_exp_female,79.152
+MDV,Maldives,2011,life_exp_female,78.806
+MDV,Maldives,2010,life_exp_female,78.443
+MDV,Maldives,2009,life_exp_female,78.05
+MDV,Maldives,2008,life_exp_female,77.7
+MDV,Maldives,2007,life_exp_female,77.361
+MDV,Maldives,2006,life_exp_female,76.862
+MDV,Maldives,2005,life_exp_female,76.321
+MDV,Maldives,2004,life_exp_female,74.337
+MDV,Maldives,2003,life_exp_female,74.803
+MDV,Maldives,2002,life_exp_female,73.812
+MDV,Maldives,2001,life_exp_female,73.068
+MDV,Maldives,2000,life_exp_female,72.195
+MDV,Maldives,1999,life_exp_female,71.475
+MDV,Maldives,1998,life_exp_female,70.63
+MDV,Maldives,1997,life_exp_female,69.855
+MDV,Maldives,1996,life_exp_female,69.078
+MDV,Maldives,1995,life_exp_female,68.268
+MDV,Maldives,1994,life_exp_female,67.468
+MDV,Maldives,1993,life_exp_female,66.647
+MDV,Maldives,1992,life_exp_female,65.832
+MDV,Maldives,1991,life_exp_female,65.012
+MDV,Maldives,1990,life_exp_female,64.199
+MDV,Maldives,1989,life_exp_female,63.407
+MDV,Maldives,1988,life_exp_female,62.608
+MDV,Maldives,1987,life_exp_female,61.794
+MDV,Maldives,1986,life_exp_female,60.964
+MDV,Maldives,1985,life_exp_female,60.111
+MDV,Maldives,1984,life_exp_female,59.22
+MDV,Maldives,1983,life_exp_female,58.307
+MDV,Maldives,1982,life_exp_female,57.389
+MDV,Maldives,1981,life_exp_female,56.469
+MDV,Maldives,1980,life_exp_female,55.532
+MDV,Maldives,1979,life_exp_female,54.564
+MDV,Maldives,1978,life_exp_female,51.079
+MDV,Maldives,1977,life_exp_female,52.459
+MDV,Maldives,1976,life_exp_female,51.32
+MDV,Maldives,1975,life_exp_female,50.152
+MDV,Maldives,1974,life_exp_female,48.983
+MDV,Maldives,1973,life_exp_female,47.833
+MDV,Maldives,1972,life_exp_female,46.74
+MDV,Maldives,1971,life_exp_female,45.72
+MDV,Maldives,1970,life_exp_female,44.794
+MDV,Maldives,1969,life_exp_female,43.938
+MDV,Maldives,1968,life_exp_female,43.159
+MDV,Maldives,1967,life_exp_female,42.451
+MDV,Maldives,1966,life_exp_female,41.819
+MDV,Maldives,1965,life_exp_female,41.239
+MDV,Maldives,1964,life_exp_female,40.71
+MDV,Maldives,1963,life_exp_female,40.21
+MDV,Maldives,1962,life_exp_female,39.766
+MDV,Maldives,1961,life_exp_female,39.367
+MDV,Maldives,1960,life_exp_female,39.003
+MDV,Maldives,2025,adult_mortality_male,
+MDV,Maldives,2024,adult_mortality_male,43.778
+MDV,Maldives,2023,adult_mortality_male,44.231
+MDV,Maldives,2022,adult_mortality_male,46.776
+MDV,Maldives,2021,adult_mortality_male,67.627
+MDV,Maldives,2020,adult_mortality_male,68.843
+MDV,Maldives,2019,adult_mortality_male,54.894
+MDV,Maldives,2018,adult_mortality_male,53.68
+MDV,Maldives,2017,adult_mortality_male,52.08
+MDV,Maldives,2016,adult_mortality_male,53.557
+MDV,Maldives,2015,adult_mortality_male,57.169
+MDV,Maldives,2014,adult_mortality_male,62.94
+MDV,Maldives,2013,adult_mortality_male,67.805
+MDV,Maldives,2012,adult_mortality_male,70.975
+MDV,Maldives,2011,adult_mortality_male,74.815
+MDV,Maldives,2010,adult_mortality_male,78.046
+MDV,Maldives,2009,adult_mortality_male,81.385
+MDV,Maldives,2008,adult_mortality_male,84.733
+MDV,Maldives,2007,adult_mortality_male,85.627
+MDV,Maldives,2006,adult_mortality_male,87.964
+MDV,Maldives,2005,adult_mortality_male,90.016
+MDV,Maldives,2004,adult_mortality_male,108.073
+MDV,Maldives,2003,adult_mortality_male,108.518
+MDV,Maldives,2002,adult_mortality_male,119.821
+MDV,Maldives,2001,adult_mortality_male,128.129
+MDV,Maldives,2000,adult_mortality_male,133.561
+MDV,Maldives,1999,adult_mortality_male,140.124
+MDV,Maldives,1998,adult_mortality_male,148.18
+MDV,Maldives,1997,adult_mortality_male,156.376
+MDV,Maldives,1996,adult_mortality_male,164.415
+MDV,Maldives,1995,adult_mortality_male,171.979
+MDV,Maldives,1994,adult_mortality_male,179.593
+MDV,Maldives,1993,adult_mortality_male,187.233
+MDV,Maldives,1992,adult_mortality_male,195.34
+MDV,Maldives,1991,adult_mortality_male,202.944
+MDV,Maldives,1990,adult_mortality_male,210.584
+MDV,Maldives,1989,adult_mortality_male,219.002
+MDV,Maldives,1988,adult_mortality_male,227.673
+MDV,Maldives,1987,adult_mortality_male,236.433
+MDV,Maldives,1986,adult_mortality_male,244.479
+MDV,Maldives,1985,adult_mortality_male,252.486
+MDV,Maldives,1984,adult_mortality_male,260.492
+MDV,Maldives,1983,adult_mortality_male,268.306
+MDV,Maldives,1982,adult_mortality_male,275.992
+MDV,Maldives,1981,adult_mortality_male,283.64
+MDV,Maldives,1980,adult_mortality_male,291.353
+MDV,Maldives,1979,adult_mortality_male,299.337
+MDV,Maldives,1978,adult_mortality_male,350.16
+MDV,Maldives,1977,adult_mortality_male,315.911
+MDV,Maldives,1976,adult_mortality_male,324.311
+MDV,Maldives,1975,adult_mortality_male,332.662
+MDV,Maldives,1974,adult_mortality_male,340.861
+MDV,Maldives,1973,adult_mortality_male,347.767
+MDV,Maldives,1972,adult_mortality_male,354.329
+MDV,Maldives,1971,adult_mortality_male,360.523
+MDV,Maldives,1970,adult_mortality_male,367.181
+MDV,Maldives,1969,adult_mortality_male,373.111
+MDV,Maldives,1968,adult_mortality_male,378.363
+MDV,Maldives,1967,adult_mortality_male,382.843
+MDV,Maldives,1966,adult_mortality_male,387.065
+MDV,Maldives,1965,adult_mortality_male,390.404
+MDV,Maldives,1964,adult_mortality_male,393.442
+MDV,Maldives,1963,adult_mortality_male,395.379
+MDV,Maldives,1962,adult_mortality_male,396.695
+MDV,Maldives,1961,adult_mortality_male,397.277
+MDV,Maldives,1960,adult_mortality_male,397.372
+MDV,Maldives,2025,adult_mortality_female,
+MDV,Maldives,2024,adult_mortality_female,31.087
+MDV,Maldives,2023,adult_mortality_female,28.89
+MDV,Maldives,2022,adult_mortality_female,30.506
+MDV,Maldives,2021,adult_mortality_female,46.802
+MDV,Maldives,2020,adult_mortality_female,43.376
+MDV,Maldives,2019,adult_mortality_female,36.491
+MDV,Maldives,2018,adult_mortality_female,37.785
+MDV,Maldives,2017,adult_mortality_female,39.791
+MDV,Maldives,2016,adult_mortality_female,43.703
+MDV,Maldives,2015,adult_mortality_female,44.873
+MDV,Maldives,2014,adult_mortality_female,48.04
+MDV,Maldives,2013,adult_mortality_female,48.733
+MDV,Maldives,2012,adult_mortality_female,52.361
+MDV,Maldives,2011,adult_mortality_female,55.692
+MDV,Maldives,2010,adult_mortality_female,59.89
+MDV,Maldives,2009,adult_mortality_female,62.951
+MDV,Maldives,2008,adult_mortality_female,64.085
+MDV,Maldives,2007,adult_mortality_female,65.169
+MDV,Maldives,2006,adult_mortality_female,69.718
+MDV,Maldives,2005,adult_mortality_female,75.1
+MDV,Maldives,2004,adult_mortality_female,99.922
+MDV,Maldives,2003,adult_mortality_female,92.344
+MDV,Maldives,2002,adult_mortality_female,106.331
+MDV,Maldives,2001,adult_mortality_female,114.224
+MDV,Maldives,2000,adult_mortality_female,123.148
+MDV,Maldives,1999,adult_mortality_female,127.043
+MDV,Maldives,1998,adult_mortality_female,134.062
+MDV,Maldives,1997,adult_mortality_female,141.068
+MDV,Maldives,1996,adult_mortality_female,148.557
+MDV,Maldives,1995,adult_mortality_female,156.363
+MDV,Maldives,1994,adult_mortality_female,164.406
+MDV,Maldives,1993,adult_mortality_female,173.053
+MDV,Maldives,1992,adult_mortality_female,182.355
+MDV,Maldives,1991,adult_mortality_female,191.758
+MDV,Maldives,1990,adult_mortality_female,200.862
+MDV,Maldives,1989,adult_mortality_female,209.496
+MDV,Maldives,1988,adult_mortality_female,218.109
+MDV,Maldives,1987,adult_mortality_female,226.926
+MDV,Maldives,1986,adult_mortality_female,235.6
+MDV,Maldives,1985,adult_mortality_female,244.301
+MDV,Maldives,1984,adult_mortality_female,253.462
+MDV,Maldives,1983,adult_mortality_female,262.678
+MDV,Maldives,1982,adult_mortality_female,271.639
+MDV,Maldives,1981,adult_mortality_female,279.964
+MDV,Maldives,1980,adult_mortality_female,287.981
+MDV,Maldives,1979,adult_mortality_female,295.854
+MDV,Maldives,1978,adult_mortality_female,342.036
+MDV,Maldives,1977,adult_mortality_female,313.241
+MDV,Maldives,1976,adult_mortality_female,323.175
+MDV,Maldives,1975,adult_mortality_female,333.632
+MDV,Maldives,1974,adult_mortality_female,343.933
+MDV,Maldives,1973,adult_mortality_female,354.016
+MDV,Maldives,1972,adult_mortality_female,363.121
+MDV,Maldives,1971,adult_mortality_female,371.194
+MDV,Maldives,1970,adult_mortality_female,378.08
+MDV,Maldives,1969,adult_mortality_female,383.841
+MDV,Maldives,1968,adult_mortality_female,388.389
+MDV,Maldives,1967,adult_mortality_female,391.706
+MDV,Maldives,1966,adult_mortality_female,393.521
+MDV,Maldives,1965,adult_mortality_female,394.513
+MDV,Maldives,1964,adult_mortality_female,394.814
+MDV,Maldives,1963,adult_mortality_female,395.0
+MDV,Maldives,1962,adult_mortality_female,394.459
+MDV,Maldives,1961,adult_mortality_female,393.663
+MDV,Maldives,1960,adult_mortality_female,392.58
+MDV,Maldives,2025,infant_mortality,
+MDV,Maldives,2024,infant_mortality,4.7
+MDV,Maldives,2023,infant_mortality,5.0
+MDV,Maldives,2022,infant_mortality,5.3
+MDV,Maldives,2021,infant_mortality,5.6
+MDV,Maldives,2020,infant_mortality,6.0
+MDV,Maldives,2019,infant_mortality,6.4
+MDV,Maldives,2018,infant_mortality,6.9
+MDV,Maldives,2017,infant_mortality,7.4
+MDV,Maldives,2016,infant_mortality,8.0
+MDV,Maldives,2015,infant_mortality,8.5
+MDV,Maldives,2014,infant_mortality,9.1
+MDV,Maldives,2013,infant_mortality,9.8
+MDV,Maldives,2012,infant_mortality,10.4
+MDV,Maldives,2011,infant_mortality,11.1
+MDV,Maldives,2010,infant_mortality,11.9
+MDV,Maldives,2009,infant_mortality,12.8
+MDV,Maldives,2008,infant_mortality,13.9
+MDV,Maldives,2007,infant_mortality,15.2
+MDV,Maldives,2006,infant_mortality,16.7
+MDV,Maldives,2005,infant_mortality,18.6
+MDV,Maldives,2004,infant_mortality,21.9
+MDV,Maldives,2003,infant_mortality,23.6
+MDV,Maldives,2002,infant_mortality,26.7
+MDV,Maldives,2001,infant_mortality,30.1
+MDV,Maldives,2000,infant_mortality,33.8
+MDV,Maldives,1999,infant_mortality,37.7
+MDV,Maldives,1998,infant_mortality,41.7
+MDV,Maldives,1997,infant_mortality,45.7
+MDV,Maldives,1996,infant_mortality,49.6
+MDV,Maldives,1995,infant_mortality,53.6
+MDV,Maldives,1994,infant_mortality,57.6
+MDV,Maldives,1993,infant_mortality,61.4
+MDV,Maldives,1992,infant_mortality,65.2
+MDV,Maldives,1991,infant_mortality,69.0
+MDV,Maldives,1990,infant_mortality,72.8
+MDV,Maldives,1989,infant_mortality,76.8
+MDV,Maldives,1988,infant_mortality,80.9
+MDV,Maldives,1987,infant_mortality,85.2
+MDV,Maldives,1986,infant_mortality,89.8
+MDV,Maldives,1985,infant_mortality,94.5
+MDV,Maldives,1984,infant_mortality,99.4
+MDV,Maldives,1983,infant_mortality,104.5
+MDV,Maldives,1982,infant_mortality,109.9
+MDV,Maldives,1981,infant_mortality,115.7
+MDV,Maldives,1980,infant_mortality,121.6
+MDV,Maldives,1979,infant_mortality,128.0
+MDV,Maldives,1978,infant_mortality,134.9
+MDV,Maldives,1977,infant_mortality,142.1
+MDV,Maldives,1976,infant_mortality,149.8
+MDV,Maldives,1975,infant_mortality,158.0
+MDV,Maldives,1974,infant_mortality,166.3
+MDV,Maldives,1973,infant_mortality,174.5
+MDV,Maldives,1972,infant_mortality,182.4
+MDV,Maldives,1971,infant_mortality,189.9
+MDV,Maldives,1970,infant_mortality,196.5
+MDV,Maldives,1969,infant_mortality,202.8
+MDV,Maldives,1968,infant_mortality,208.7
+MDV,Maldives,1967,infant_mortality,214.6
+MDV,Maldives,1966,infant_mortality,220.1
+MDV,Maldives,1965,infant_mortality,225.3
+MDV,Maldives,1964,infant_mortality,230.4
+MDV,Maldives,1963,infant_mortality,235.2
+MDV,Maldives,1962,infant_mortality,240.0
+MDV,Maldives,1961,infant_mortality,
+MDV,Maldives,1960,infant_mortality,
+MDV,Maldives,2025,under5_mortality,
+MDV,Maldives,2024,under5_mortality,5.4
+MDV,Maldives,2023,under5_mortality,5.7
+MDV,Maldives,2022,under5_mortality,6.0
+MDV,Maldives,2021,under5_mortality,6.4
+MDV,Maldives,2020,under5_mortality,6.9
+MDV,Maldives,2019,under5_mortality,7.4
+MDV,Maldives,2018,under5_mortality,8.0
+MDV,Maldives,2017,under5_mortality,8.6
+MDV,Maldives,2016,under5_mortality,9.2
+MDV,Maldives,2015,under5_mortality,9.9
+MDV,Maldives,2014,under5_mortality,10.6
+MDV,Maldives,2013,under5_mortality,11.3
+MDV,Maldives,2012,under5_mortality,12.1
+MDV,Maldives,2011,under5_mortality,12.9
+MDV,Maldives,2010,under5_mortality,13.8
+MDV,Maldives,2009,under5_mortality,14.9
+MDV,Maldives,2008,under5_mortality,16.1
+MDV,Maldives,2007,under5_mortality,17.6
+MDV,Maldives,2006,under5_mortality,19.4
+MDV,Maldives,2005,under5_mortality,21.6
+MDV,Maldives,2004,under5_mortality,27.2
+MDV,Maldives,2003,under5_mortality,27.4
+MDV,Maldives,2002,under5_mortality,31.1
+MDV,Maldives,2001,under5_mortality,35.1
+MDV,Maldives,2000,under5_mortality,39.5
+MDV,Maldives,1999,under5_mortality,44.1
+MDV,Maldives,1998,under5_mortality,48.8
+MDV,Maldives,1997,under5_mortality,53.5
+MDV,Maldives,1996,under5_mortality,58.3
+MDV,Maldives,1995,under5_mortality,63.1
+MDV,Maldives,1994,under5_mortality,68.0
+MDV,Maldives,1993,under5_mortality,72.7
+MDV,Maldives,1992,under5_mortality,77.4
+MDV,Maldives,1991,under5_mortality,82.1
+MDV,Maldives,1990,under5_mortality,87.0
+MDV,Maldives,1989,under5_mortality,92.0
+MDV,Maldives,1988,under5_mortality,97.2
+MDV,Maldives,1987,under5_mortality,102.8
+MDV,Maldives,1986,under5_mortality,108.7
+MDV,Maldives,1985,under5_mortality,114.9
+MDV,Maldives,1984,under5_mortality,121.3
+MDV,Maldives,1983,under5_mortality,128.2
+MDV,Maldives,1982,under5_mortality,135.4
+MDV,Maldives,1981,under5_mortality,143.1
+MDV,Maldives,1980,under5_mortality,151.3
+MDV,Maldives,1979,under5_mortality,160.0
+MDV,Maldives,1978,under5_mortality,169.5
+MDV,Maldives,1977,under5_mortality,179.5
+MDV,Maldives,1976,under5_mortality,190.2
+MDV,Maldives,1975,under5_mortality,201.7
+MDV,Maldives,1974,under5_mortality,213.5
+MDV,Maldives,1973,under5_mortality,225.4
+MDV,Maldives,1972,under5_mortality,237.0
+MDV,Maldives,1971,under5_mortality,248.1
+MDV,Maldives,1970,under5_mortality,258.5
+MDV,Maldives,1969,under5_mortality,268.4
+MDV,Maldives,1968,under5_mortality,278.1
+MDV,Maldives,1967,under5_mortality,287.9
+MDV,Maldives,1966,under5_mortality,297.4
+MDV,Maldives,1965,under5_mortality,306.7
+MDV,Maldives,1964,under5_mortality,315.8
+MDV,Maldives,1963,under5_mortality,325.0
+MDV,Maldives,1962,under5_mortality,334.1
+MDV,Maldives,1961,under5_mortality,
+MDV,Maldives,1960,under5_mortality,
+MDV,Maldives,2025,crude_death_rate,
+MDV,Maldives,2024,crude_death_rate,2.364
+MDV,Maldives,2023,crude_death_rate,2.338
+MDV,Maldives,2022,crude_death_rate,2.329
+MDV,Maldives,2021,crude_death_rate,3.118
+MDV,Maldives,2020,crude_death_rate,2.963
+MDV,Maldives,2019,crude_death_rate,2.579
+MDV,Maldives,2018,crude_death_rate,2.642
+MDV,Maldives,2017,crude_death_rate,2.685
+MDV,Maldives,2016,crude_death_rate,2.763
+MDV,Maldives,2015,crude_death_rate,2.851
+MDV,Maldives,2014,crude_death_rate,2.958
+MDV,Maldives,2013,crude_death_rate,3.037
+MDV,Maldives,2012,crude_death_rate,3.112
+MDV,Maldives,2011,crude_death_rate,3.196
+MDV,Maldives,2010,crude_death_rate,3.288
+MDV,Maldives,2009,crude_death_rate,3.388
+MDV,Maldives,2008,crude_death_rate,3.485
+MDV,Maldives,2007,crude_death_rate,3.547
+MDV,Maldives,2006,crude_death_rate,3.635
+MDV,Maldives,2005,crude_death_rate,3.66
+MDV,Maldives,2004,crude_death_rate,4.103
+MDV,Maldives,2003,crude_death_rate,3.89
+MDV,Maldives,2002,crude_death_rate,4.069
+MDV,Maldives,2001,crude_death_rate,4.211
+MDV,Maldives,2000,crude_death_rate,4.412
+MDV,Maldives,1999,crude_death_rate,4.633
+MDV,Maldives,1998,crude_death_rate,4.944
+MDV,Maldives,1997,crude_death_rate,5.273
+MDV,Maldives,1996,crude_death_rate,5.672
+MDV,Maldives,1995,crude_death_rate,6.079
+MDV,Maldives,1994,crude_death_rate,6.421
+MDV,Maldives,1993,crude_death_rate,6.804
+MDV,Maldives,1992,crude_death_rate,7.227
+MDV,Maldives,1991,crude_death_rate,7.684
+MDV,Maldives,1990,crude_death_rate,8.136
+MDV,Maldives,1989,crude_death_rate,8.576
+MDV,Maldives,1988,crude_death_rate,9.051
+MDV,Maldives,1987,crude_death_rate,9.522
+MDV,Maldives,1986,crude_death_rate,9.978
+MDV,Maldives,1985,crude_death_rate,10.408
+MDV,Maldives,1984,crude_death_rate,10.847
+MDV,Maldives,1983,crude_death_rate,11.384
+MDV,Maldives,1982,crude_death_rate,11.907
+MDV,Maldives,1981,crude_death_rate,12.457
+MDV,Maldives,1980,crude_death_rate,13.044
+MDV,Maldives,1979,crude_death_rate,13.692
+MDV,Maldives,1978,crude_death_rate,15.794
+MDV,Maldives,1977,crude_death_rate,15.015
+MDV,Maldives,1976,crude_death_rate,15.668
+MDV,Maldives,1975,crude_death_rate,16.312
+MDV,Maldives,1974,crude_death_rate,17.082
+MDV,Maldives,1973,crude_death_rate,17.933
+MDV,Maldives,1972,crude_death_rate,18.724
+MDV,Maldives,1971,crude_death_rate,19.514
+MDV,Maldives,1970,crude_death_rate,20.285
+MDV,Maldives,1969,crude_death_rate,20.968
+MDV,Maldives,1968,crude_death_rate,21.585
+MDV,Maldives,1967,crude_death_rate,22.552
+MDV,Maldives,1966,crude_death_rate,23.763
+MDV,Maldives,1965,crude_death_rate,24.676
+MDV,Maldives,1964,crude_death_rate,25.485
+MDV,Maldives,1963,crude_death_rate,25.959
+MDV,Maldives,1962,crude_death_rate,26.321
+MDV,Maldives,1961,crude_death_rate,26.526
+MDV,Maldives,1960,crude_death_rate,26.63
+MDV,Maldives,2025,pop_65plus_pct,4.95821974187994
+MDV,Maldives,2024,pop_65plus_pct,4.64021341457638
+MDV,Maldives,2023,pop_65plus_pct,4.34510659817412
+MDV,Maldives,2022,pop_65plus_pct,4.08161318358005
+MDV,Maldives,2021,pop_65plus_pct,3.92790129292933
+MDV,Maldives,2020,pop_65plus_pct,3.86970406388133
+MDV,Maldives,2019,pop_65plus_pct,3.83285048520598
+MDV,Maldives,2018,pop_65plus_pct,3.83165450746515
+MDV,Maldives,2017,pop_65plus_pct,3.86766371291352
+MDV,Maldives,2016,pop_65plus_pct,3.93214198706091
+MDV,Maldives,2015,pop_65plus_pct,4.01479374243847
+MDV,Maldives,2014,pop_65plus_pct,4.09799403796266
+MDV,Maldives,2013,pop_65plus_pct,4.17576402159119
+MDV,Maldives,2012,pop_65plus_pct,4.2628574678531
+MDV,Maldives,2011,pop_65plus_pct,4.35566830981015
+MDV,Maldives,2010,pop_65plus_pct,4.44383467482649
+MDV,Maldives,2009,pop_65plus_pct,4.52630823343622
+MDV,Maldives,2008,pop_65plus_pct,4.59856620162418
+MDV,Maldives,2007,pop_65plus_pct,4.65654171764583
+MDV,Maldives,2006,pop_65plus_pct,4.67610426603707
+MDV,Maldives,2005,pop_65plus_pct,4.59404951881186
+MDV,Maldives,2004,pop_65plus_pct,4.43428855803923
+MDV,Maldives,2003,pop_65plus_pct,4.2667399684982
+MDV,Maldives,2002,pop_65plus_pct,4.09545429606057
+MDV,Maldives,2001,pop_65plus_pct,3.92565405772969
+MDV,Maldives,2000,pop_65plus_pct,3.76092348551602
+MDV,Maldives,1999,pop_65plus_pct,3.59393249030323
+MDV,Maldives,1998,pop_65plus_pct,3.4315100514259
+MDV,Maldives,1997,pop_65plus_pct,3.28773007853721
+MDV,Maldives,1996,pop_65plus_pct,3.16641699733559
+MDV,Maldives,1995,pop_65plus_pct,3.06975674949055
+MDV,Maldives,1994,pop_65plus_pct,2.99136439387295
+MDV,Maldives,1993,pop_65plus_pct,2.91995393737443
+MDV,Maldives,1992,pop_65plus_pct,2.8470757892707
+MDV,Maldives,1991,pop_65plus_pct,2.77521931480167
+MDV,Maldives,1990,pop_65plus_pct,2.70908783513227
+MDV,Maldives,1989,pop_65plus_pct,2.65869380013181
+MDV,Maldives,1988,pop_65plus_pct,2.62703043609179
+MDV,Maldives,1987,pop_65plus_pct,2.59507511866002
+MDV,Maldives,1986,pop_65plus_pct,2.55388185471893
+MDV,Maldives,1985,pop_65plus_pct,2.51460542990708
+MDV,Maldives,1984,pop_65plus_pct,2.50518463826969
+MDV,Maldives,1983,pop_65plus_pct,2.5205439685588
+MDV,Maldives,1982,pop_65plus_pct,2.53796624266846
+MDV,Maldives,1981,pop_65plus_pct,2.55437747924439
+MDV,Maldives,1980,pop_65plus_pct,2.5658992325659
+MDV,Maldives,1979,pop_65plus_pct,2.57639062110252
+MDV,Maldives,1978,pop_65plus_pct,2.59319857708674
+MDV,Maldives,1977,pop_65plus_pct,2.57289541236096
+MDV,Maldives,1976,pop_65plus_pct,2.51481947188791
+MDV,Maldives,1975,pop_65plus_pct,2.46615627488509
+MDV,Maldives,1974,pop_65plus_pct,2.41728037070482
+MDV,Maldives,1973,pop_65plus_pct,2.36749967581186
+MDV,Maldives,1972,pop_65plus_pct,2.31850528373343
+MDV,Maldives,1971,pop_65plus_pct,2.26669815405203
+MDV,Maldives,1970,pop_65plus_pct,2.21517061155589
+MDV,Maldives,1969,pop_65plus_pct,2.16328561810251
+MDV,Maldives,1968,pop_65plus_pct,2.11200565154276
+MDV,Maldives,1967,pop_65plus_pct,2.16924751727356
+MDV,Maldives,1966,pop_65plus_pct,2.46805490915291
+MDV,Maldives,1965,pop_65plus_pct,2.90196153772262
+MDV,Maldives,1964,pop_65plus_pct,3.13524468021696
+MDV,Maldives,1963,pop_65plus_pct,3.15815194152023
+MDV,Maldives,1962,pop_65plus_pct,3.17477714452725
+MDV,Maldives,1961,pop_65plus_pct,3.18674792267481
+MDV,Maldives,1960,pop_65plus_pct,3.2026713601895
+MDV,Maldives,2025,old_age_dependency,6.52339150781704
+MDV,Maldives,2024,old_age_dependency,6.12426575577455
+MDV,Maldives,2023,old_age_dependency,5.74705417896711
+MDV,Maldives,2022,old_age_dependency,5.40353482920718
+MDV,Maldives,2021,old_age_dependency,5.21602214635426
+MDV,Maldives,2020,old_age_dependency,5.16725085234375
+MDV,Maldives,2019,old_age_dependency,5.14498656920164
+MDV,Maldives,2018,old_age_dependency,5.17127273557133
+MDV,Maldives,2017,old_age_dependency,5.2500318408137
+MDV,Maldives,2016,old_age_dependency,5.37010964500159
+MDV,Maldives,2015,old_age_dependency,5.5168828167875
+MDV,Maldives,2014,old_age_dependency,5.66230607854404
+MDV,Maldives,2013,old_age_dependency,5.80186287516236
+MDV,Maldives,2012,old_age_dependency,5.96534384835221
+MDV,Maldives,2011,old_age_dependency,6.15375308613969
+MDV,Maldives,2010,old_age_dependency,6.35816373471233
+MDV,Maldives,2009,old_age_dependency,6.58116660821936
+MDV,Maldives,2008,old_age_dependency,6.82088933207437
+MDV,Maldives,2007,old_age_dependency,7.07383756858486
+MDV,Maldives,2006,old_age_dependency,7.29039372894996
+MDV,Maldives,2005,old_age_dependency,7.33066359768577
+MDV,Maldives,2004,old_age_dependency,7.22330306960657
+MDV,Maldives,2003,old_age_dependency,7.10047879117857
+MDV,Maldives,2002,old_age_dependency,6.96864314805522
+MDV,Maldives,2001,old_age_dependency,6.83709291449534
+MDV,Maldives,2000,old_age_dependency,6.71108242856781
+MDV,Maldives,1999,old_age_dependency,6.5622326071217
+MDV,Maldives,1998,old_age_dependency,6.39704173558803
+MDV,Maldives,1997,old_age_dependency,6.24277374644451
+MDV,Maldives,1996,old_age_dependency,6.11244784883336
+MDV,Maldives,1995,old_age_dependency,6.00991609458429
+MDV,Maldives,1994,old_age_dependency,5.91672581026733
+MDV,Maldives,1993,old_age_dependency,5.81187410586552
+MDV,Maldives,1992,old_age_dependency,5.68249320225894
+MDV,Maldives,1991,old_age_dependency,5.53390625134412
+MDV,Maldives,1990,old_age_dependency,5.38339802134262
+MDV,Maldives,1989,old_age_dependency,5.26119674276574
+MDV,Maldives,1988,old_age_dependency,5.17505511340283
+MDV,Maldives,1987,old_age_dependency,5.07781765146136
+MDV,Maldives,1986,old_age_dependency,4.95292310116609
+MDV,Maldives,1985,old_age_dependency,4.83518705763397
+MDV,Maldives,1984,old_age_dependency,4.80588994876494
+MDV,Maldives,1983,old_age_dependency,4.85556965564709
+MDV,Maldives,1982,old_age_dependency,4.91317285485877
+MDV,Maldives,1981,old_age_dependency,4.9570692615913
+MDV,Maldives,1980,old_age_dependency,4.9839171467958
+MDV,Maldives,1979,old_age_dependency,5.000181516754
+MDV,Maldives,1978,old_age_dependency,5.02306890906385
+MDV,Maldives,1977,old_age_dependency,4.97803247373448
+MDV,Maldives,1976,old_age_dependency,4.86168442295344
+MDV,Maldives,1975,old_age_dependency,4.75190480036615
+MDV,Maldives,1974,old_age_dependency,4.64643390693299
+MDV,Maldives,1973,old_age_dependency,4.55491560218978
+MDV,Maldives,1972,old_age_dependency,4.46516553174591
+MDV,Maldives,1971,old_age_dependency,4.36007329890506
+MDV,Maldives,1970,old_age_dependency,4.2484982414641
+MDV,Maldives,1969,old_age_dependency,4.1297511294159
+MDV,Maldives,1968,old_age_dependency,4.01020541672118
+MDV,Maldives,1967,old_age_dependency,4.08433029365013
+MDV,Maldives,1966,old_age_dependency,4.57199440024584
+MDV,Maldives,1965,old_age_dependency,5.24643117640929
+MDV,Maldives,1964,old_age_dependency,5.54121675006584
+MDV,Maldives,1963,old_age_dependency,5.49571256466586
+MDV,Maldives,1962,old_age_dependency,5.4603892839187
+MDV,Maldives,1961,old_age_dependency,5.43648910146409
+MDV,Maldives,1960,old_age_dependency,5.43458030895217
+MDV,Maldives,2025,population_total,529676.0
+MDV,Maldives,2024,population_total,527799.0
+MDV,Maldives,2023,population_total,525994.0
+MDV,Maldives,2022,population_total,524106.0
+MDV,Maldives,2021,population_total,516154.0
+MDV,Maldives,2020,population_total,502118.0
+MDV,Maldives,2019,population_total,487731.0
+MDV,Maldives,2018,population_total,473099.0
+MDV,Maldives,2017,population_total,458287.0
+MDV,Maldives,2016,population_total,443308.0
+MDV,Maldives,2015,population_total,428154.0
+MDV,Maldives,2014,population_total,413617.0
+MDV,Maldives,2013,population_total,400070.0
+MDV,Maldives,2012,population_total,386818.0
+MDV,Maldives,2011,population_total,373674.0
+MDV,Maldives,2010,population_total,360792.0
+MDV,Maldives,2009,population_total,348275.0
+MDV,Maldives,2008,population_total,336170.0
+MDV,Maldives,2007,population_total,324479.0
+MDV,Maldives,2006,population_total,313851.0
+MDV,Maldives,2005,population_total,306429.0
+MDV,Maldives,2004,population_total,301413.0
+MDV,Maldives,2003,population_total,296491.0
+MDV,Maldives,2002,population_total,291616.0
+MDV,Maldives,2001,population_total,286767.0
+MDV,Maldives,2000,population_total,282019.0
+MDV,Maldives,1999,population_total,277412.0
+MDV,Maldives,1998,population_total,272723.0
+MDV,Maldives,1997,population_total,267707.0
+MDV,Maldives,1996,population_total,262347.0
+MDV,Maldives,1995,population_total,256649.0
+MDV,Maldives,1994,population_total,250822.0
+MDV,Maldives,1993,population_total,244884.0
+MDV,Maldives,1992,population_total,238543.0
+MDV,Maldives,1991,population_total,231802.0
+MDV,Maldives,1990,population_total,224762.0
+MDV,Maldives,1989,population_total,217738.0
+MDV,Maldives,1988,population_total,210885.0
+MDV,Maldives,1987,population_total,203944.0
+MDV,Maldives,1986,population_total,196935.0
+MDV,Maldives,1985,population_total,190169.0
+MDV,Maldives,1984,population_total,184198.0
+MDV,Maldives,1983,population_total,179128.0
+MDV,Maldives,1982,population_total,174333.0
+MDV,Maldives,1981,population_total,169532.0
+MDV,Maldives,1980,population_total,164835.0
+MDV,Maldives,1979,population_total,160360.0
+MDV,Maldives,1978,population_total,156159.0
+MDV,Maldives,1977,population_total,151930.0
+MDV,Maldives,1976,population_total,147525.0
+MDV,Maldives,1975,population_total,143158.0
+MDV,Maldives,1974,population_total,138978.0
+MDV,Maldives,1973,population_total,134952.0
+MDV,Maldives,1972,population_total,130968.0
+MDV,Maldives,1971,population_total,127035.0
+MDV,Maldives,1970,population_total,123219.0
+MDV,Maldives,1969,population_total,119564.0
+MDV,Maldives,1968,population_total,116075.0
+MDV,Maldives,1967,population_total,112528.0
+MDV,Maldives,1966,population_total,108507.0
+MDV,Maldives,1965,population_total,104102.0
+MDV,Maldives,1964,population_total,100662.0
+MDV,Maldives,1963,population_total,98222.0
+MDV,Maldives,1962,population_total,95802.0
+MDV,Maldives,1961,population_total,93450.0
+MDV,Maldives,1960,population_total,91189.0
+NPL,Nepal,2025,life_exp_total,
+NPL,Nepal,2024,life_exp_total,70.636
+NPL,Nepal,2023,life_exp_total,70.354
+NPL,Nepal,2022,life_exp_total,70.087
+NPL,Nepal,2021,life_exp_total,68.385
+NPL,Nepal,2020,life_exp_total,69.106
+NPL,Nepal,2019,life_exp_total,69.299
+NPL,Nepal,2018,life_exp_total,69.036
+NPL,Nepal,2017,life_exp_total,68.74
+NPL,Nepal,2016,life_exp_total,68.444
+NPL,Nepal,2015,life_exp_total,67.374
+NPL,Nepal,2014,life_exp_total,67.812
+NPL,Nepal,2013,life_exp_total,67.598
+NPL,Nepal,2012,life_exp_total,67.364
+NPL,Nepal,2011,life_exp_total,67.123
+NPL,Nepal,2010,life_exp_total,66.772
+NPL,Nepal,2009,life_exp_total,66.6
+NPL,Nepal,2008,life_exp_total,66.442
+NPL,Nepal,2007,life_exp_total,66.169
+NPL,Nepal,2006,life_exp_total,65.891
+NPL,Nepal,2005,life_exp_total,65.275
+NPL,Nepal,2004,life_exp_total,64.744
+NPL,Nepal,2003,life_exp_total,64.229
+NPL,Nepal,2002,life_exp_total,63.507
+NPL,Nepal,2001,life_exp_total,63.288
+NPL,Nepal,2000,life_exp_total,62.642
+NPL,Nepal,1999,life_exp_total,62.035
+NPL,Nepal,1998,life_exp_total,61.532
+NPL,Nepal,1997,life_exp_total,60.823
+NPL,Nepal,1996,life_exp_total,60.044
+NPL,Nepal,1995,life_exp_total,59.323
+NPL,Nepal,1994,life_exp_total,58.631
+NPL,Nepal,1993,life_exp_total,57.597
+NPL,Nepal,1992,life_exp_total,56.686
+NPL,Nepal,1991,life_exp_total,55.65
+NPL,Nepal,1990,life_exp_total,54.771
+NPL,Nepal,1989,life_exp_total,54.013
+NPL,Nepal,1988,life_exp_total,53.109
+NPL,Nepal,1987,life_exp_total,52.382
+NPL,Nepal,1986,life_exp_total,51.594
+NPL,Nepal,1985,life_exp_total,50.922
+NPL,Nepal,1984,life_exp_total,50.227
+NPL,Nepal,1983,life_exp_total,49.676
+NPL,Nepal,1982,life_exp_total,49.181
+NPL,Nepal,1981,life_exp_total,48.662
+NPL,Nepal,1980,life_exp_total,48.333
+NPL,Nepal,1979,life_exp_total,47.766
+NPL,Nepal,1978,life_exp_total,47.202
+NPL,Nepal,1977,life_exp_total,46.628
+NPL,Nepal,1976,life_exp_total,45.991
+NPL,Nepal,1975,life_exp_total,45.499
+NPL,Nepal,1974,life_exp_total,44.919
+NPL,Nepal,1973,life_exp_total,44.485
+NPL,Nepal,1972,life_exp_total,44.068
+NPL,Nepal,1971,life_exp_total,43.616
+NPL,Nepal,1970,life_exp_total,43.151
+NPL,Nepal,1969,life_exp_total,42.722
+NPL,Nepal,1968,life_exp_total,42.173
+NPL,Nepal,1967,life_exp_total,41.71
+NPL,Nepal,1966,life_exp_total,41.239
+NPL,Nepal,1965,life_exp_total,40.688
+NPL,Nepal,1964,life_exp_total,40.229
+NPL,Nepal,1963,life_exp_total,39.608
+NPL,Nepal,1962,life_exp_total,39.333
+NPL,Nepal,1961,life_exp_total,38.966
+NPL,Nepal,1960,life_exp_total,38.652
+NPL,Nepal,2025,life_exp_male,
+NPL,Nepal,2024,life_exp_male,69.09
+NPL,Nepal,2023,life_exp_male,68.835
+NPL,Nepal,2022,life_exp_male,68.586
+NPL,Nepal,2021,life_exp_male,66.863
+NPL,Nepal,2020,life_exp_male,67.453
+NPL,Nepal,2019,life_exp_male,67.87
+NPL,Nepal,2018,life_exp_male,67.627
+NPL,Nepal,2017,life_exp_male,67.372
+NPL,Nepal,2016,life_exp_male,67.105
+NPL,Nepal,2015,life_exp_male,66.146
+NPL,Nepal,2014,life_exp_male,66.459
+NPL,Nepal,2013,life_exp_male,66.217
+NPL,Nepal,2012,life_exp_male,65.94
+NPL,Nepal,2011,life_exp_male,65.687
+NPL,Nepal,2010,life_exp_male,65.207
+NPL,Nepal,2009,life_exp_male,64.873
+NPL,Nepal,2008,life_exp_male,64.624
+NPL,Nepal,2007,life_exp_male,64.284
+NPL,Nepal,2006,life_exp_male,63.962
+NPL,Nepal,2005,life_exp_male,63.301
+NPL,Nepal,2004,life_exp_male,62.713
+NPL,Nepal,2003,life_exp_male,62.294
+NPL,Nepal,2002,life_exp_male,61.477
+NPL,Nepal,2001,life_exp_male,61.663
+NPL,Nepal,2000,life_exp_male,61.168
+NPL,Nepal,1999,life_exp_male,60.65
+NPL,Nepal,1998,life_exp_male,60.067
+NPL,Nepal,1997,life_exp_male,59.326
+NPL,Nepal,1996,life_exp_male,58.571
+NPL,Nepal,1995,life_exp_male,58.006
+NPL,Nepal,1994,life_exp_male,57.399
+NPL,Nepal,1993,life_exp_male,56.36
+NPL,Nepal,1992,life_exp_male,55.634
+NPL,Nepal,1991,life_exp_male,54.828
+NPL,Nepal,1990,life_exp_male,54.177
+NPL,Nepal,1989,life_exp_male,53.527
+NPL,Nepal,1988,life_exp_male,52.721
+NPL,Nepal,1987,life_exp_male,52.076
+NPL,Nepal,1986,life_exp_male,51.397
+NPL,Nepal,1985,life_exp_male,50.838
+NPL,Nepal,1984,life_exp_male,50.232
+NPL,Nepal,1983,life_exp_male,49.678
+NPL,Nepal,1982,life_exp_male,49.154
+NPL,Nepal,1981,life_exp_male,48.596
+NPL,Nepal,1980,life_exp_male,48.234
+NPL,Nepal,1979,life_exp_male,47.644
+NPL,Nepal,1978,life_exp_male,47.063
+NPL,Nepal,1977,life_exp_male,46.509
+NPL,Nepal,1976,life_exp_male,45.956
+NPL,Nepal,1975,life_exp_male,45.401
+NPL,Nepal,1974,life_exp_male,44.922
+NPL,Nepal,1973,life_exp_male,44.449
+NPL,Nepal,1972,life_exp_male,44.028
+NPL,Nepal,1971,life_exp_male,43.623
+NPL,Nepal,1970,life_exp_male,43.159
+NPL,Nepal,1969,life_exp_male,42.71
+NPL,Nepal,1968,life_exp_male,42.233
+NPL,Nepal,1967,life_exp_male,41.822
+NPL,Nepal,1966,life_exp_male,41.362
+NPL,Nepal,1965,life_exp_male,40.732
+NPL,Nepal,1964,life_exp_male,40.202
+NPL,Nepal,1963,life_exp_male,39.503
+NPL,Nepal,1962,life_exp_male,39.23
+NPL,Nepal,1961,life_exp_male,38.773
+NPL,Nepal,1960,life_exp_male,38.381
+NPL,Nepal,2025,life_exp_female,
+NPL,Nepal,2024,life_exp_female,72.138
+NPL,Nepal,2023,life_exp_female,71.837
+NPL,Nepal,2022,life_exp_female,71.56
+NPL,Nepal,2021,life_exp_female,69.89
+NPL,Nepal,2020,life_exp_female,70.772
+NPL,Nepal,2019,life_exp_female,70.7
+NPL,Nepal,2018,life_exp_female,70.422
+NPL,Nepal,2017,life_exp_female,70.092
+NPL,Nepal,2016,life_exp_female,69.771
+NPL,Nepal,2015,life_exp_female,68.593
+NPL,Nepal,2014,life_exp_female,69.158
+NPL,Nepal,2013,life_exp_female,68.975
+NPL,Nepal,2012,life_exp_female,68.787
+NPL,Nepal,2011,life_exp_female,68.563
+NPL,Nepal,2010,life_exp_female,68.35
+NPL,Nepal,2009,life_exp_female,68.354
+NPL,Nepal,2008,life_exp_female,68.299
+NPL,Nepal,2007,life_exp_female,68.103
+NPL,Nepal,2006,life_exp_female,67.877
+NPL,Nepal,2005,life_exp_female,67.317
+NPL,Nepal,2004,life_exp_female,66.856
+NPL,Nepal,2003,life_exp_female,66.239
+NPL,Nepal,2002,life_exp_female,65.63
+NPL,Nepal,2001,life_exp_female,64.964
+NPL,Nepal,2000,life_exp_female,64.157
+NPL,Nepal,1999,life_exp_female,63.456
+NPL,Nepal,1998,life_exp_female,63.047
+NPL,Nepal,1997,life_exp_female,62.379
+NPL,Nepal,1996,life_exp_female,61.58
+NPL,Nepal,1995,life_exp_female,60.688
+NPL,Nepal,1994,life_exp_female,59.903
+NPL,Nepal,1993,life_exp_female,58.881
+NPL,Nepal,1992,life_exp_female,57.763
+NPL,Nepal,1991,life_exp_female,56.472
+NPL,Nepal,1990,life_exp_female,55.343
+NPL,Nepal,1989,life_exp_female,54.474
+NPL,Nepal,1988,life_exp_female,53.46
+NPL,Nepal,1987,life_exp_female,52.645
+NPL,Nepal,1986,life_exp_female,51.74
+NPL,Nepal,1985,life_exp_female,50.947
+NPL,Nepal,1984,life_exp_female,50.158
+NPL,Nepal,1983,life_exp_female,49.61
+NPL,Nepal,1982,life_exp_female,49.143
+NPL,Nepal,1981,life_exp_female,48.663
+NPL,Nepal,1980,life_exp_female,48.365
+NPL,Nepal,1979,life_exp_female,47.822
+NPL,Nepal,1978,life_exp_female,47.275
+NPL,Nepal,1977,life_exp_female,46.678
+NPL,Nepal,1976,life_exp_female,45.953
+NPL,Nepal,1975,life_exp_female,45.525
+NPL,Nepal,1974,life_exp_female,44.841
+NPL,Nepal,1973,life_exp_female,44.446
+NPL,Nepal,1972,life_exp_female,44.032
+NPL,Nepal,1971,life_exp_female,43.531
+NPL,Nepal,1970,life_exp_female,43.063
+NPL,Nepal,1969,life_exp_female,42.655
+NPL,Nepal,1968,life_exp_female,42.032
+NPL,Nepal,1967,life_exp_female,41.517
+NPL,Nepal,1966,life_exp_female,41.035
+NPL,Nepal,1965,life_exp_female,40.563
+NPL,Nepal,1964,life_exp_female,40.175
+NPL,Nepal,1963,life_exp_female,39.633
+NPL,Nepal,1962,life_exp_female,39.355
+NPL,Nepal,1961,life_exp_female,39.082
+NPL,Nepal,1960,life_exp_female,38.848
+NPL,Nepal,2025,adult_mortality_male,
+NPL,Nepal,2024,adult_mortality_male,178.025
+NPL,Nepal,2023,adult_mortality_male,180.738
+NPL,Nepal,2022,adult_mortality_male,183.746
+NPL,Nepal,2021,adult_mortality_male,216.432
+NPL,Nepal,2020,adult_mortality_male,196.216
+NPL,Nepal,2019,adult_mortality_male,192.065
+NPL,Nepal,2018,adult_mortality_male,194.801
+NPL,Nepal,2017,adult_mortality_male,197.319
+NPL,Nepal,2016,adult_mortality_male,200.194
+NPL,Nepal,2015,adult_mortality_male,212.397
+NPL,Nepal,2014,adult_mortality_male,207.498
+NPL,Nepal,2013,adult_mortality_male,209.84
+NPL,Nepal,2012,adult_mortality_male,212.69
+NPL,Nepal,2011,adult_mortality_male,214.904
+NPL,Nepal,2010,adult_mortality_male,221.559
+NPL,Nepal,2009,adult_mortality_male,225.179
+NPL,Nepal,2008,adult_mortality_male,227.206
+NPL,Nepal,2007,adult_mortality_male,230.704
+NPL,Nepal,2006,adult_mortality_male,234.099
+NPL,Nepal,2005,adult_mortality_male,244.589
+NPL,Nepal,2004,adult_mortality_male,252.769
+NPL,Nepal,2003,adult_mortality_male,256.872
+NPL,Nepal,2002,adult_mortality_male,269.675
+NPL,Nepal,2001,adult_mortality_male,259.025
+NPL,Nepal,2000,adult_mortality_male,263.307
+NPL,Nepal,1999,adult_mortality_male,267.995
+NPL,Nepal,1998,adult_mortality_male,273.676
+NPL,Nepal,1997,adult_mortality_male,282.902
+NPL,Nepal,1996,adult_mortality_male,290.845
+NPL,Nepal,1995,adult_mortality_male,295.917
+NPL,Nepal,1994,adult_mortality_male,301.414
+NPL,Nepal,1993,adult_mortality_male,314.893
+NPL,Nepal,1992,adult_mortality_male,323.623
+NPL,Nepal,1991,adult_mortality_male,331.866
+NPL,Nepal,1990,adult_mortality_male,337.504
+NPL,Nepal,1989,adult_mortality_male,343.251
+NPL,Nepal,1988,adult_mortality_male,351.575
+NPL,Nepal,1987,adult_mortality_male,357.338
+NPL,Nepal,1986,adult_mortality_male,363.844
+NPL,Nepal,1985,adult_mortality_male,367.532
+NPL,Nepal,1984,adult_mortality_male,372.179
+NPL,Nepal,1983,adult_mortality_male,376.036
+NPL,Nepal,1982,adult_mortality_male,379.162
+NPL,Nepal,1981,adult_mortality_male,382.369
+NPL,Nepal,1980,adult_mortality_male,382.781
+NPL,Nepal,1979,adult_mortality_male,387.834
+NPL,Nepal,1978,adult_mortality_male,392.786
+NPL,Nepal,1977,adult_mortality_male,397.799
+NPL,Nepal,1976,adult_mortality_male,402.457
+NPL,Nepal,1975,adult_mortality_male,407.885
+NPL,Nepal,1974,adult_mortality_male,411.614
+NPL,Nepal,1973,adult_mortality_male,415.216
+NPL,Nepal,1972,adult_mortality_male,417.354
+NPL,Nepal,1971,adult_mortality_male,419.167
+NPL,Nepal,1970,adult_mortality_male,421.658
+NPL,Nepal,1969,adult_mortality_male,424.913
+NPL,Nepal,1968,adult_mortality_male,427.477
+NPL,Nepal,1967,adult_mortality_male,429.145
+NPL,Nepal,1966,adult_mortality_male,431.461
+NPL,Nepal,1965,adult_mortality_male,438.816
+NPL,Nepal,1964,adult_mortality_male,443.975
+NPL,Nepal,1963,adult_mortality_male,453.036
+NPL,Nepal,1962,adult_mortality_male,453.908
+NPL,Nepal,1961,adult_mortality_male,459.551
+NPL,Nepal,1960,adult_mortality_male,463.834
+NPL,Nepal,2025,adult_mortality_female,
+NPL,Nepal,2024,adult_mortality_female,136.332
+NPL,Nepal,2023,adult_mortality_female,139.231
+NPL,Nepal,2022,adult_mortality_female,142.255
+NPL,Nepal,2021,adult_mortality_female,168.898
+NPL,Nepal,2020,adult_mortality_female,150.932
+NPL,Nepal,2019,adult_mortality_female,151.986
+NPL,Nepal,2018,adult_mortality_female,155.154
+NPL,Nepal,2017,adult_mortality_female,158.76
+NPL,Nepal,2016,adult_mortality_female,162.368
+NPL,Nepal,2015,adult_mortality_female,176.825
+NPL,Nepal,2014,adult_mortality_female,168.29
+NPL,Nepal,2013,adult_mortality_female,169.427
+NPL,Nepal,2012,adult_mortality_female,170.415
+NPL,Nepal,2011,adult_mortality_female,171.75
+NPL,Nepal,2010,adult_mortality_female,172.823
+NPL,Nepal,2009,adult_mortality_female,169.864
+NPL,Nepal,2008,adult_mortality_female,168.044
+NPL,Nepal,2007,adult_mortality_female,168.262
+NPL,Nepal,2006,adult_mortality_female,169.083
+NPL,Nepal,2005,adult_mortality_female,175.724
+NPL,Nepal,2004,adult_mortality_female,180.237
+NPL,Nepal,2003,adult_mortality_female,186.614
+NPL,Nepal,2002,adult_mortality_female,192.96
+NPL,Nepal,2001,adult_mortality_female,199.983
+NPL,Nepal,2000,adult_mortality_female,209.128
+NPL,Nepal,1999,adult_mortality_female,216.849
+NPL,Nepal,1998,adult_mortality_female,217.917
+NPL,Nepal,1997,adult_mortality_female,224.075
+NPL,Nepal,1996,adult_mortality_female,231.118
+NPL,Nepal,1995,adult_mortality_female,240.635
+NPL,Nepal,1994,adult_mortality_female,248.261
+NPL,Nepal,1993,adult_mortality_female,258.621
+NPL,Nepal,1992,adult_mortality_female,273.778
+NPL,Nepal,1991,adult_mortality_female,290.316
+NPL,Nepal,1990,adult_mortality_female,304.254
+NPL,Nepal,1989,adult_mortality_female,313.058
+NPL,Nepal,1988,adult_mortality_female,324.059
+NPL,Nepal,1987,adult_mortality_female,332.051
+NPL,Nepal,1986,adult_mortality_female,341.754
+NPL,Nepal,1985,adult_mortality_female,349.027
+NPL,Nepal,1984,adult_mortality_female,356.406
+NPL,Nepal,1983,adult_mortality_female,359.175
+NPL,Nepal,1982,adult_mortality_female,360.474
+NPL,Nepal,1981,adult_mortality_female,361.304
+NPL,Nepal,1980,adult_mortality_female,360.155
+NPL,Nepal,1979,adult_mortality_female,363.733
+NPL,Nepal,1978,adult_mortality_female,367.512
+NPL,Nepal,1977,adult_mortality_female,373.368
+NPL,Nepal,1976,adult_mortality_female,382.16
+NPL,Nepal,1975,adult_mortality_female,385.566
+NPL,Nepal,1974,adult_mortality_female,394.148
+NPL,Nepal,1973,adult_mortality_female,395.789
+NPL,Nepal,1972,adult_mortality_female,397.774
+NPL,Nepal,1971,adult_mortality_female,401.774
+NPL,Nepal,1970,adult_mortality_female,404.123
+NPL,Nepal,1969,adult_mortality_female,406.028
+NPL,Nepal,1968,adult_mortality_female,410.922
+NPL,Nepal,1967,adult_mortality_female,415.069
+NPL,Nepal,1966,adult_mortality_female,417.732
+NPL,Nepal,1965,adult_mortality_female,420.165
+NPL,Nepal,1964,adult_mortality_female,421.432
+NPL,Nepal,1963,adult_mortality_female,426.026
+NPL,Nepal,1962,adult_mortality_female,426.426
+NPL,Nepal,1961,adult_mortality_female,426.887
+NPL,Nepal,1960,adult_mortality_female,427.383
+NPL,Nepal,2025,infant_mortality,
+NPL,Nepal,2024,infant_mortality,22.2
+NPL,Nepal,2023,infant_mortality,23.1
+NPL,Nepal,2022,infant_mortality,23.9
+NPL,Nepal,2021,infant_mortality,24.9
+NPL,Nepal,2020,infant_mortality,25.9
+NPL,Nepal,2019,infant_mortality,27.1
+NPL,Nepal,2018,infant_mortality,28.3
+NPL,Nepal,2017,infant_mortality,29.6
+NPL,Nepal,2016,infant_mortality,31.0
+NPL,Nepal,2015,infant_mortality,32.4
+NPL,Nepal,2014,infant_mortality,33.9
+NPL,Nepal,2013,infant_mortality,35.4
+NPL,Nepal,2012,infant_mortality,36.9
+NPL,Nepal,2011,infant_mortality,38.5
+NPL,Nepal,2010,infant_mortality,40.1
+NPL,Nepal,2009,infant_mortality,41.7
+NPL,Nepal,2008,infant_mortality,43.3
+NPL,Nepal,2007,infant_mortality,45.0
+NPL,Nepal,2006,infant_mortality,46.9
+NPL,Nepal,2005,infant_mortality,48.8
+NPL,Nepal,2004,infant_mortality,51.0
+NPL,Nepal,2003,infant_mortality,53.3
+NPL,Nepal,2002,infant_mortality,56.0
+NPL,Nepal,2001,infant_mortality,58.8
+NPL,Nepal,2000,infant_mortality,62.0
+NPL,Nepal,1999,infant_mortality,65.3
+NPL,Nepal,1998,infant_mortality,68.8
+NPL,Nepal,1997,infant_mortality,72.4
+NPL,Nepal,1996,infant_mortality,76.1
+NPL,Nepal,1995,infant_mortality,80.0
+NPL,Nepal,1994,infant_mortality,84.0
+NPL,Nepal,1993,infant_mortality,88.2
+NPL,Nepal,1992,infant_mortality,92.5
+NPL,Nepal,1991,infant_mortality,97.1
+NPL,Nepal,1990,infant_mortality,101.8
+NPL,Nepal,1989,infant_mortality,106.4
+NPL,Nepal,1988,infant_mortality,111.1
+NPL,Nepal,1987,infant_mortality,115.7
+NPL,Nepal,1986,infant_mortality,120.2
+NPL,Nepal,1985,infant_mortality,124.6
+NPL,Nepal,1984,infant_mortality,128.8
+NPL,Nepal,1983,infant_mortality,132.9
+NPL,Nepal,1982,infant_mortality,137.0
+NPL,Nepal,1981,infant_mortality,141.0
+NPL,Nepal,1980,infant_mortality,145.1
+NPL,Nepal,1979,infant_mortality,149.1
+NPL,Nepal,1978,infant_mortality,153.1
+NPL,Nepal,1977,infant_mortality,156.8
+NPL,Nepal,1976,infant_mortality,160.5
+NPL,Nepal,1975,infant_mortality,163.9
+NPL,Nepal,1974,infant_mortality,167.4
+NPL,Nepal,1973,infant_mortality,170.8
+NPL,Nepal,1972,infant_mortality,174.3
+NPL,Nepal,1971,infant_mortality,178.0
+NPL,Nepal,1970,infant_mortality,181.7
+NPL,Nepal,1969,infant_mortality,185.7
+NPL,Nepal,1968,infant_mortality,189.7
+NPL,Nepal,1967,infant_mortality,194.0
+NPL,Nepal,1966,infant_mortality,198.4
+NPL,Nepal,1965,infant_mortality,202.8
+NPL,Nepal,1964,infant_mortality,207.0
+NPL,Nepal,1963,infant_mortality,211.0
+NPL,Nepal,1962,infant_mortality,214.3
+NPL,Nepal,1961,infant_mortality,217.2
+NPL,Nepal,1960,infant_mortality,219.4
+NPL,Nepal,2025,under5_mortality,
+NPL,Nepal,2024,under5_mortality,25.1
+NPL,Nepal,2023,under5_mortality,26.1
+NPL,Nepal,2022,under5_mortality,27.1
+NPL,Nepal,2021,under5_mortality,28.3
+NPL,Nepal,2020,under5_mortality,29.6
+NPL,Nepal,2019,under5_mortality,31.0
+NPL,Nepal,2018,under5_mortality,32.6
+NPL,Nepal,2017,under5_mortality,34.2
+NPL,Nepal,2016,under5_mortality,36.0
+NPL,Nepal,2015,under5_mortality,37.8
+NPL,Nepal,2014,under5_mortality,39.7
+NPL,Nepal,2013,under5_mortality,41.7
+NPL,Nepal,2012,under5_mortality,43.7
+NPL,Nepal,2011,under5_mortality,45.8
+NPL,Nepal,2010,under5_mortality,47.9
+NPL,Nepal,2009,under5_mortality,50.1
+NPL,Nepal,2008,under5_mortality,52.4
+NPL,Nepal,2007,under5_mortality,54.7
+NPL,Nepal,2006,under5_mortality,57.3
+NPL,Nepal,2005,under5_mortality,60.0
+NPL,Nepal,2004,under5_mortality,63.1
+NPL,Nepal,2003,under5_mortality,66.5
+NPL,Nepal,2002,under5_mortality,70.2
+NPL,Nepal,2001,under5_mortality,74.3
+NPL,Nepal,2000,under5_mortality,78.7
+NPL,Nepal,1999,under5_mortality,83.6
+NPL,Nepal,1998,under5_mortality,88.7
+NPL,Nepal,1997,under5_mortality,94.0
+NPL,Nepal,1996,under5_mortality,99.5
+NPL,Nepal,1995,under5_mortality,105.3
+NPL,Nepal,1994,under5_mortality,111.4
+NPL,Nepal,1993,under5_mortality,117.7
+NPL,Nepal,1992,under5_mortality,124.3
+NPL,Nepal,1991,under5_mortality,131.3
+NPL,Nepal,1990,under5_mortality,138.4
+NPL,Nepal,1989,under5_mortality,145.7
+NPL,Nepal,1988,under5_mortality,153.0
+NPL,Nepal,1987,under5_mortality,160.2
+NPL,Nepal,1986,under5_mortality,167.4
+NPL,Nepal,1985,under5_mortality,174.5
+NPL,Nepal,1984,under5_mortality,181.3
+NPL,Nepal,1983,under5_mortality,188.0
+NPL,Nepal,1982,under5_mortality,194.7
+NPL,Nepal,1981,under5_mortality,201.4
+NPL,Nepal,1980,under5_mortality,208.1
+NPL,Nepal,1979,under5_mortality,214.7
+NPL,Nepal,1978,under5_mortality,221.2
+NPL,Nepal,1977,under5_mortality,227.3
+NPL,Nepal,1976,under5_mortality,233.3
+NPL,Nepal,1975,under5_mortality,239.0
+NPL,Nepal,1974,under5_mortality,244.7
+NPL,Nepal,1973,under5_mortality,250.3
+NPL,Nepal,1972,under5_mortality,256.0
+NPL,Nepal,1971,under5_mortality,261.8
+NPL,Nepal,1970,under5_mortality,267.8
+NPL,Nepal,1969,under5_mortality,274.1
+NPL,Nepal,1968,under5_mortality,280.6
+NPL,Nepal,1967,under5_mortality,287.4
+NPL,Nepal,1966,under5_mortality,294.3
+NPL,Nepal,1965,under5_mortality,301.3
+NPL,Nepal,1964,under5_mortality,308.2
+NPL,Nepal,1963,under5_mortality,314.7
+NPL,Nepal,1962,under5_mortality,320.4
+NPL,Nepal,1961,under5_mortality,325.4
+NPL,Nepal,1960,under5_mortality,329.5
+NPL,Nepal,2025,crude_death_rate,
+NPL,Nepal,2024,crude_death_rate,6.972
+NPL,Nepal,2023,crude_death_rate,6.932
+NPL,Nepal,2022,crude_death_rate,6.888
+NPL,Nepal,2021,crude_death_rate,7.761
+NPL,Nepal,2020,crude_death_rate,7.272
+NPL,Nepal,2019,crude_death_rate,7.024
+NPL,Nepal,2018,crude_death_rate,7.07
+NPL,Nepal,2017,crude_death_rate,7.07
+NPL,Nepal,2016,crude_death_rate,7.065
+NPL,Nepal,2015,crude_death_rate,7.385
+NPL,Nepal,2014,crude_death_rate,7.098
+NPL,Nepal,2013,crude_death_rate,7.061
+NPL,Nepal,2012,crude_death_rate,7.029
+NPL,Nepal,2011,crude_death_rate,6.998
+NPL,Nepal,2010,crude_death_rate,7.028
+NPL,Nepal,2009,crude_death_rate,6.996
+NPL,Nepal,2008,crude_death_rate,6.969
+NPL,Nepal,2007,crude_death_rate,7.001
+NPL,Nepal,2006,crude_death_rate,7.043
+NPL,Nepal,2005,crude_death_rate,7.247
+NPL,Nepal,2004,crude_death_rate,7.432
+NPL,Nepal,2003,crude_death_rate,7.623
+NPL,Nepal,2002,crude_death_rate,7.912
+NPL,Nepal,2001,crude_death_rate,8.046
+NPL,Nepal,2000,crude_death_rate,8.369
+NPL,Nepal,1999,crude_death_rate,8.669
+NPL,Nepal,1998,crude_death_rate,8.947
+NPL,Nepal,1997,crude_death_rate,9.344
+NPL,Nepal,1996,crude_death_rate,9.824
+NPL,Nepal,1995,crude_death_rate,10.268
+NPL,Nepal,1994,crude_death_rate,10.639
+NPL,Nepal,1993,crude_death_rate,11.197
+NPL,Nepal,1992,crude_death_rate,11.639
+NPL,Nepal,1991,crude_death_rate,12.242
+NPL,Nepal,1990,crude_death_rate,12.764
+NPL,Nepal,1989,crude_death_rate,13.232
+NPL,Nepal,1988,crude_death_rate,13.795
+NPL,Nepal,1987,crude_death_rate,14.256
+NPL,Nepal,1986,crude_death_rate,14.756
+NPL,Nepal,1985,crude_death_rate,15.208
+NPL,Nepal,1984,crude_death_rate,15.677
+NPL,Nepal,1983,crude_death_rate,16.047
+NPL,Nepal,1982,crude_death_rate,16.392
+NPL,Nepal,1981,crude_death_rate,16.763
+NPL,Nepal,1980,crude_death_rate,17.012
+NPL,Nepal,1979,crude_death_rate,17.438
+NPL,Nepal,1978,crude_death_rate,17.846
+NPL,Nepal,1977,crude_death_rate,18.251
+NPL,Nepal,1976,crude_death_rate,18.728
+NPL,Nepal,1975,crude_death_rate,19.076
+NPL,Nepal,1974,crude_death_rate,19.5
+NPL,Nepal,1973,crude_death_rate,19.824
+NPL,Nepal,1972,crude_death_rate,20.218
+NPL,Nepal,1971,crude_death_rate,20.597
+NPL,Nepal,1970,crude_death_rate,20.964
+NPL,Nepal,1969,crude_death_rate,21.318
+NPL,Nepal,1968,crude_death_rate,21.776
+NPL,Nepal,1967,crude_death_rate,22.136
+NPL,Nepal,1966,crude_death_rate,22.527
+NPL,Nepal,1965,crude_death_rate,22.99
+NPL,Nepal,1964,crude_death_rate,23.394
+NPL,Nepal,1963,crude_death_rate,23.922
+NPL,Nepal,1962,crude_death_rate,24.169
+NPL,Nepal,1961,crude_death_rate,24.473
+NPL,Nepal,1960,crude_death_rate,24.717
+NPL,Nepal,2025,pop_65plus_pct,6.62418872502616
+NPL,Nepal,2024,pop_65plus_pct,6.50345841831696
+NPL,Nepal,2023,pop_65plus_pct,6.36058770858938
+NPL,Nepal,2022,pop_65plus_pct,6.19751969986239
+NPL,Nepal,2021,pop_65plus_pct,6.11086985212219
+NPL,Nepal,2020,pop_65plus_pct,6.08852455094405
+NPL,Nepal,2019,pop_65plus_pct,6.04820039203474
+NPL,Nepal,2018,pop_65plus_pct,5.94674321357334
+NPL,Nepal,2017,pop_65plus_pct,5.78746945246086
+NPL,Nepal,2016,pop_65plus_pct,5.6258290419239
+NPL,Nepal,2015,pop_65plus_pct,5.482604371989
+NPL,Nepal,2014,pop_65plus_pct,5.3431636925779
+NPL,Nepal,2013,pop_65plus_pct,5.17974703584589
+NPL,Nepal,2012,pop_65plus_pct,5.01135195078685
+NPL,Nepal,2011,pop_65plus_pct,4.86103075483568
+NPL,Nepal,2010,pop_65plus_pct,4.73049428346421
+NPL,Nepal,2009,pop_65plus_pct,4.60729551570694
+NPL,Nepal,2008,pop_65plus_pct,4.47994198748227
+NPL,Nepal,2007,pop_65plus_pct,4.35271235125889
+NPL,Nepal,2006,pop_65plus_pct,4.23064197600155
+NPL,Nepal,2005,pop_65plus_pct,4.12050487699138
+NPL,Nepal,2004,pop_65plus_pct,4.03430978985155
+NPL,Nepal,2003,pop_65plus_pct,3.96713410653925
+NPL,Nepal,2002,pop_65plus_pct,3.90519658094418
+NPL,Nepal,2001,pop_65plus_pct,3.85457655643132
+NPL,Nepal,2000,pop_65plus_pct,3.81572385710734
+NPL,Nepal,1999,pop_65plus_pct,3.78111699721109
+NPL,Nepal,1998,pop_65plus_pct,3.75020950908806
+NPL,Nepal,1997,pop_65plus_pct,3.72324940768978
+NPL,Nepal,1996,pop_65plus_pct,3.70147132191726
+NPL,Nepal,1995,pop_65plus_pct,3.68567911831275
+NPL,Nepal,1994,pop_65plus_pct,3.67443900082599
+NPL,Nepal,1993,pop_65plus_pct,3.66514254366888
+NPL,Nepal,1992,pop_65plus_pct,3.65869587568615
+NPL,Nepal,1991,pop_65plus_pct,3.65293829628582
+NPL,Nepal,1990,pop_65plus_pct,3.6450989222658
+NPL,Nepal,1989,pop_65plus_pct,3.63565168763511
+NPL,Nepal,1988,pop_65plus_pct,3.62451465800038
+NPL,Nepal,1987,pop_65plus_pct,3.61265609875847
+NPL,Nepal,1986,pop_65plus_pct,3.60125942712285
+NPL,Nepal,1985,pop_65plus_pct,3.59078600283109
+NPL,Nepal,1984,pop_65plus_pct,3.58003123397374
+NPL,Nepal,1983,pop_65plus_pct,3.56790253577795
+NPL,Nepal,1982,pop_65plus_pct,3.55288344649915
+NPL,Nepal,1981,pop_65plus_pct,3.53457521931729
+NPL,Nepal,1980,pop_65plus_pct,3.51365198416483
+NPL,Nepal,1979,pop_65plus_pct,3.49161564796416
+NPL,Nepal,1978,pop_65plus_pct,3.4699229509123
+NPL,Nepal,1977,pop_65plus_pct,3.44832033546736
+NPL,Nepal,1976,pop_65plus_pct,3.42656587751023
+NPL,Nepal,1975,pop_65plus_pct,3.40432112450025
+NPL,Nepal,1974,pop_65plus_pct,3.38160959609564
+NPL,Nepal,1973,pop_65plus_pct,3.35734432512498
+NPL,Nepal,1972,pop_65plus_pct,3.33116266690872
+NPL,Nepal,1971,pop_65plus_pct,3.30418555819677
+NPL,Nepal,1970,pop_65plus_pct,3.27624872554411
+NPL,Nepal,1969,pop_65plus_pct,3.24693705188347
+NPL,Nepal,1968,pop_65plus_pct,3.216793442344
+NPL,Nepal,1967,pop_65plus_pct,3.18630866829673
+NPL,Nepal,1966,pop_65plus_pct,3.15491395806739
+NPL,Nepal,1965,pop_65plus_pct,3.12335239435836
+NPL,Nepal,1964,pop_65plus_pct,3.09242077206809
+NPL,Nepal,1963,pop_65plus_pct,3.06277780933573
+NPL,Nepal,1962,pop_65plus_pct,3.03435966298632
+NPL,Nepal,1961,pop_65plus_pct,3.00646064594054
+NPL,Nepal,1960,pop_65plus_pct,2.97857735916319
+NPL,Nepal,2025,old_age_dependency,10.1405376930747
+NPL,Nepal,2024,old_age_dependency,9.99496090894795
+NPL,Nepal,2023,old_age_dependency,9.79670541619395
+NPL,Nepal,2022,old_age_dependency,9.55445471613264
+NPL,Nepal,2021,old_age_dependency,9.47007775518599
+NPL,Nepal,2020,old_age_dependency,9.53783723315937
+NPL,Nepal,2019,old_age_dependency,9.59850743751118
+NPL,Nepal,2018,old_age_dependency,9.52542822661961
+NPL,Nepal,2017,old_age_dependency,9.31166608059848
+NPL,Nepal,2016,old_age_dependency,9.09264983434687
+NPL,Nepal,2015,old_age_dependency,8.91895448919035
+NPL,Nepal,2014,old_age_dependency,8.75600821533842
+NPL,Nepal,2013,old_age_dependency,8.54080403774135
+NPL,Nepal,2012,old_age_dependency,8.31306935122584
+NPL,Nepal,2011,old_age_dependency,8.12329148285856
+NPL,Nepal,2010,old_age_dependency,7.98143240722868
+NPL,Nepal,2009,old_age_dependency,7.8560449858478
+NPL,Nepal,2008,old_age_dependency,7.71492219792381
+NPL,Nepal,2007,old_age_dependency,7.56245812284907
+NPL,Nepal,2006,old_age_dependency,7.407707670635
+NPL,Nepal,2005,old_age_dependency,7.26678290405469
+NPL,Nepal,2004,old_age_dependency,7.16208529434484
+NPL,Nepal,2003,old_age_dependency,7.08585394174426
+NPL,Nepal,2002,old_age_dependency,7.01326124762762
+NPL,Nepal,2001,old_age_dependency,6.953927700604
+NPL,Nepal,2000,old_age_dependency,6.90816113090551
+NPL,Nepal,1999,old_age_dependency,6.86472893899834
+NPL,Nepal,1998,old_age_dependency,6.8246622723468
+NPL,Nepal,1997,old_age_dependency,6.78617183622395
+NPL,Nepal,1996,old_age_dependency,6.74882526539261
+NPL,Nepal,1995,old_age_dependency,6.71277124263917
+NPL,Nepal,1994,old_age_dependency,6.68516629560178
+NPL,Nepal,1993,old_age_dependency,6.66417595183351
+NPL,Nepal,1992,old_age_dependency,6.6582269516885
+NPL,Nepal,1991,old_age_dependency,6.65984171523629
+NPL,Nepal,1990,old_age_dependency,6.64916390050274
+NPL,Nepal,1989,old_age_dependency,6.62856293329611
+NPL,Nepal,1988,old_age_dependency,6.59547580474624
+NPL,Nepal,1987,old_age_dependency,6.55614012182388
+NPL,Nepal,1986,old_age_dependency,6.52044693593368
+NPL,Nepal,1985,old_age_dependency,6.49018231006051
+NPL,Nepal,1984,old_age_dependency,6.46079672706005
+NPL,Nepal,1983,old_age_dependency,6.43189974959434
+NPL,Nepal,1982,old_age_dependency,6.39946173825918
+NPL,Nepal,1981,old_age_dependency,6.35986011675319
+NPL,Nepal,1980,old_age_dependency,6.31633891320024
+NPL,Nepal,1979,old_age_dependency,6.2709164740887
+NPL,Nepal,1978,old_age_dependency,6.22470397279015
+NPL,Nepal,1977,old_age_dependency,6.17895052828026
+NPL,Nepal,1976,old_age_dependency,6.13097406067141
+NPL,Nepal,1975,old_age_dependency,6.08026751977008
+NPL,Nepal,1974,old_age_dependency,6.02897285489894
+NPL,Nepal,1973,old_age_dependency,5.97675115610599
+NPL,Nepal,1972,old_age_dependency,5.92262945212173
+NPL,Nepal,1971,old_age_dependency,5.86581551043395
+NPL,Nepal,1970,old_age_dependency,5.80916572435246
+NPL,Nepal,1969,old_age_dependency,5.75298020381594
+NPL,Nepal,1968,old_age_dependency,5.69634721363102
+NPL,Nepal,1967,old_age_dependency,5.64048451180426
+NPL,Nepal,1966,old_age_dependency,5.58440490523415
+NPL,Nepal,1965,old_age_dependency,5.5290813662266
+NPL,Nepal,1964,old_age_dependency,5.47591712973605
+NPL,Nepal,1963,old_age_dependency,5.42908488126324
+NPL,Nepal,1962,old_age_dependency,5.3855477477979
+NPL,Nepal,1961,old_age_dependency,5.33770808172766
+NPL,Nepal,1960,old_age_dependency,5.28683167053088
+NPL,Nepal,2025,population_total,29618118.0
+NPL,Nepal,2024,population_total,29651054.0
+NPL,Nepal,2023,population_total,29694614.0
+NPL,Nepal,2022,population_total,29715436.0
+NPL,Nepal,2021,population_total,29475010.0
+NPL,Nepal,2020,population_total,28966574.0
+NPL,Nepal,2019,population_total,28414064.0
+NPL,Nepal,2018,population_total,28079689.0
+NPL,Nepal,2017,population_total,28011258.0
+NPL,Nepal,2016,population_total,27955462.0
+NPL,Nepal,2015,population_total,27823629.0
+NPL,Nepal,2014,population_total,27672370.0
+NPL,Nepal,2013,population_total,27589996.0
+NPL,Nepal,2012,population_total,27534915.0
+NPL,Nepal,2011,population_total,27464494.0
+NPL,Nepal,2010,population_total,27341952.0
+NPL,Nepal,2009,population_total,27173035.0
+NPL,Nepal,2008,population_total,26990037.0
+NPL,Nepal,2007,population_total,26788492.0
+NPL,Nepal,2006,population_total,26565425.0
+NPL,Nepal,2005,population_total,26309458.0
+NPL,Nepal,2004,population_total,26016656.0
+NPL,Nepal,2003,population_total,25688758.0
+NPL,Nepal,2002,population_total,25328981.0
+NPL,Nepal,2001,population_total,24946748.0
+NPL,Nepal,2000,population_total,24546509.0
+NPL,Nepal,1999,population_total,24125199.0
+NPL,Nepal,1998,population_total,23680357.0
+NPL,Nepal,1997,population_total,23219463.0
+NPL,Nepal,1996,population_total,22741862.0
+NPL,Nepal,1995,population_total,22245439.0
+NPL,Nepal,1994,population_total,21717479.0
+NPL,Nepal,1993,population_total,21180159.0
+NPL,Nepal,1992,population_total,20609707.0
+NPL,Nepal,1991,population_total,20036500.0
+NPL,Nepal,1990,population_total,19524573.0
+NPL,Nepal,1989,population_total,19057807.0
+NPL,Nepal,1988,population_total,18638661.0
+NPL,Nepal,1987,population_total,18250505.0
+NPL,Nepal,1986,population_total,17868124.0
+NPL,Nepal,1985,population_total,17477692.0
+NPL,Nepal,1984,population_total,17085242.0
+NPL,Nepal,1983,population_total,16689119.0
+NPL,Nepal,1982,population_total,16297987.0
+NPL,Nepal,1981,population_total,15922423.0
+NPL,Nepal,1980,population_total,15553105.0
+NPL,Nepal,1979,population_total,15190590.0
+NPL,Nepal,1978,population_total,14839695.0
+NPL,Nepal,1977,population_total,14499175.0
+NPL,Nepal,1976,population_total,14177649.0
+NPL,Nepal,1975,population_total,13870695.0
+NPL,Nepal,1974,population_total,13568435.0
+NPL,Nepal,1973,population_total,13275239.0
+NPL,Nepal,1972,population_total,12989099.0
+NPL,Nepal,1971,population_total,12710061.0
+NPL,Nepal,1970,population_total,12436190.0
+NPL,Nepal,1969,population_total,12167036.0
+NPL,Nepal,1968,population_total,11906266.0
+NPL,Nepal,1967,population_total,11652716.0
+NPL,Nepal,1966,population_total,11408710.0
+NPL,Nepal,1965,population_total,11173411.0
+NPL,Nepal,1964,population_total,10946392.0
+NPL,Nepal,1963,population_total,10729818.0
+NPL,Nepal,1962,population_total,10521116.0
+NPL,Nepal,1961,population_total,10318396.0
+NPL,Nepal,1960,population_total,10123658.0
+PAK,Pakistan,2025,life_exp_total,
+PAK,Pakistan,2024,life_exp_total,67.799
+PAK,Pakistan,2023,life_exp_total,67.649
+PAK,Pakistan,2022,life_exp_total,67.417
+PAK,Pakistan,2021,life_exp_total,65.773
+PAK,Pakistan,2020,life_exp_total,65.701
+PAK,Pakistan,2019,life_exp_total,66.729
+PAK,Pakistan,2018,life_exp_total,66.481
+PAK,Pakistan,2017,life_exp_total,66.223
+PAK,Pakistan,2016,life_exp_total,65.943
+PAK,Pakistan,2015,life_exp_total,65.641
+PAK,Pakistan,2014,life_exp_total,65.374
+PAK,Pakistan,2013,life_exp_total,65.129
+PAK,Pakistan,2012,life_exp_total,64.883
+PAK,Pakistan,2011,life_exp_total,64.659
+PAK,Pakistan,2010,life_exp_total,64.378
+PAK,Pakistan,2009,life_exp_total,64.206
+PAK,Pakistan,2008,life_exp_total,64.002
+PAK,Pakistan,2007,life_exp_total,63.807
+PAK,Pakistan,2006,life_exp_total,63.624
+PAK,Pakistan,2005,life_exp_total,62.416
+PAK,Pakistan,2004,life_exp_total,63.097
+PAK,Pakistan,2003,life_exp_total,62.834
+PAK,Pakistan,2002,life_exp_total,62.556
+PAK,Pakistan,2001,life_exp_total,62.241
+PAK,Pakistan,2000,life_exp_total,61.903
+PAK,Pakistan,1999,life_exp_total,61.54
+PAK,Pakistan,1998,life_exp_total,61.134
+PAK,Pakistan,1997,life_exp_total,60.623
+PAK,Pakistan,1996,life_exp_total,60.466
+PAK,Pakistan,1995,life_exp_total,60.273
+PAK,Pakistan,1994,life_exp_total,60.197
+PAK,Pakistan,1993,life_exp_total,60.083
+PAK,Pakistan,1992,life_exp_total,59.983
+PAK,Pakistan,1991,life_exp_total,59.864
+PAK,Pakistan,1990,life_exp_total,59.728
+PAK,Pakistan,1989,life_exp_total,59.528
+PAK,Pakistan,1988,life_exp_total,59.36
+PAK,Pakistan,1987,life_exp_total,59.222
+PAK,Pakistan,1986,life_exp_total,59.167
+PAK,Pakistan,1985,life_exp_total,59.075
+PAK,Pakistan,1984,life_exp_total,58.921
+PAK,Pakistan,1983,life_exp_total,58.663
+PAK,Pakistan,1982,life_exp_total,58.291
+PAK,Pakistan,1981,life_exp_total,57.764
+PAK,Pakistan,1980,life_exp_total,57.199
+PAK,Pakistan,1979,life_exp_total,56.614
+PAK,Pakistan,1978,life_exp_total,56.072
+PAK,Pakistan,1977,life_exp_total,55.482
+PAK,Pakistan,1976,life_exp_total,55.069
+PAK,Pakistan,1975,life_exp_total,54.722
+PAK,Pakistan,1974,life_exp_total,54.266
+PAK,Pakistan,1973,life_exp_total,54.09
+PAK,Pakistan,1972,life_exp_total,53.824
+PAK,Pakistan,1971,life_exp_total,49.002
+PAK,Pakistan,1970,life_exp_total,52.943
+PAK,Pakistan,1969,life_exp_total,52.316
+PAK,Pakistan,1968,life_exp_total,51.624
+PAK,Pakistan,1967,life_exp_total,50.763
+PAK,Pakistan,1966,life_exp_total,49.797
+PAK,Pakistan,1965,life_exp_total,48.495
+PAK,Pakistan,1964,life_exp_total,47.831
+PAK,Pakistan,1963,life_exp_total,46.761
+PAK,Pakistan,1962,life_exp_total,45.85
+PAK,Pakistan,1961,life_exp_total,44.956
+PAK,Pakistan,1960,life_exp_total,44.101
+PAK,Pakistan,2025,life_exp_male,
+PAK,Pakistan,2024,life_exp_male,65.462
+PAK,Pakistan,2023,life_exp_male,65.332
+PAK,Pakistan,2022,life_exp_male,65.115
+PAK,Pakistan,2021,life_exp_male,63.486
+PAK,Pakistan,2020,life_exp_male,63.281
+PAK,Pakistan,2019,life_exp_male,64.493
+PAK,Pakistan,2018,life_exp_male,64.264
+PAK,Pakistan,2017,life_exp_male,64.021
+PAK,Pakistan,2016,life_exp_male,63.751
+PAK,Pakistan,2015,life_exp_male,63.463
+PAK,Pakistan,2014,life_exp_male,63.209
+PAK,Pakistan,2013,life_exp_male,63.004
+PAK,Pakistan,2012,life_exp_male,62.774
+PAK,Pakistan,2011,life_exp_male,62.581
+PAK,Pakistan,2010,life_exp_male,62.316
+PAK,Pakistan,2009,life_exp_male,62.221
+PAK,Pakistan,2008,life_exp_male,62.076
+PAK,Pakistan,2007,life_exp_male,62.028
+PAK,Pakistan,2006,life_exp_male,62.038
+PAK,Pakistan,2005,life_exp_male,61.115
+PAK,Pakistan,2004,life_exp_male,61.875
+PAK,Pakistan,2003,life_exp_male,61.741
+PAK,Pakistan,2002,life_exp_male,61.557
+PAK,Pakistan,2001,life_exp_male,61.311
+PAK,Pakistan,2000,life_exp_male,61.03
+PAK,Pakistan,1999,life_exp_male,60.731
+PAK,Pakistan,1998,life_exp_male,60.383
+PAK,Pakistan,1997,life_exp_male,59.854
+PAK,Pakistan,1996,life_exp_male,59.799
+PAK,Pakistan,1995,life_exp_male,59.659
+PAK,Pakistan,1994,life_exp_male,59.608
+PAK,Pakistan,1993,life_exp_male,59.49
+PAK,Pakistan,1992,life_exp_male,59.282
+PAK,Pakistan,1991,life_exp_male,59.031
+PAK,Pakistan,1990,life_exp_male,58.833
+PAK,Pakistan,1989,life_exp_male,58.636
+PAK,Pakistan,1988,life_exp_male,58.487
+PAK,Pakistan,1987,life_exp_male,58.393
+PAK,Pakistan,1986,life_exp_male,58.36
+PAK,Pakistan,1985,life_exp_male,58.241
+PAK,Pakistan,1984,life_exp_male,58.013
+PAK,Pakistan,1983,life_exp_male,57.713
+PAK,Pakistan,1982,life_exp_male,57.353
+PAK,Pakistan,1981,life_exp_male,56.894
+PAK,Pakistan,1980,life_exp_male,56.468
+PAK,Pakistan,1979,life_exp_male,56.053
+PAK,Pakistan,1978,life_exp_male,55.735
+PAK,Pakistan,1977,life_exp_male,55.31
+PAK,Pakistan,1976,life_exp_male,55.087
+PAK,Pakistan,1975,life_exp_male,54.891
+PAK,Pakistan,1974,life_exp_male,54.583
+PAK,Pakistan,1973,life_exp_male,54.551
+PAK,Pakistan,1972,life_exp_male,54.422
+PAK,Pakistan,1971,life_exp_male,48.21
+PAK,Pakistan,1970,life_exp_male,53.767
+PAK,Pakistan,1969,life_exp_male,53.247
+PAK,Pakistan,1968,life_exp_male,52.678
+PAK,Pakistan,1967,life_exp_male,51.932
+PAK,Pakistan,1966,life_exp_male,51.14
+PAK,Pakistan,1965,life_exp_male,50.0
+PAK,Pakistan,1964,life_exp_male,49.352
+PAK,Pakistan,1963,life_exp_male,48.538
+PAK,Pakistan,1962,life_exp_male,47.712
+PAK,Pakistan,1961,life_exp_male,46.845
+PAK,Pakistan,1960,life_exp_male,45.964
+PAK,Pakistan,2025,life_exp_female,
+PAK,Pakistan,2024,life_exp_female,70.322
+PAK,Pakistan,2023,life_exp_female,70.163
+PAK,Pakistan,2022,life_exp_female,69.928
+PAK,Pakistan,2021,life_exp_female,68.299
+PAK,Pakistan,2020,life_exp_female,68.447
+PAK,Pakistan,2019,life_exp_female,69.2
+PAK,Pakistan,2018,life_exp_female,68.938
+PAK,Pakistan,2017,life_exp_female,68.674
+PAK,Pakistan,2016,life_exp_female,68.396
+PAK,Pakistan,2015,life_exp_female,68.086
+PAK,Pakistan,2014,life_exp_female,67.817
+PAK,Pakistan,2013,life_exp_female,67.533
+PAK,Pakistan,2012,life_exp_female,67.283
+PAK,Pakistan,2011,life_exp_female,67.033
+PAK,Pakistan,2010,life_exp_female,66.746
+PAK,Pakistan,2009,life_exp_female,66.491
+PAK,Pakistan,2008,life_exp_female,66.227
+PAK,Pakistan,2007,life_exp_female,65.867
+PAK,Pakistan,2006,life_exp_female,65.459
+PAK,Pakistan,2005,life_exp_female,63.926
+PAK,Pakistan,2004,life_exp_female,64.514
+PAK,Pakistan,2003,life_exp_female,64.106
+PAK,Pakistan,2002,life_exp_female,63.726
+PAK,Pakistan,2001,life_exp_female,63.335
+PAK,Pakistan,2000,life_exp_female,62.936
+PAK,Pakistan,1999,life_exp_female,62.503
+PAK,Pakistan,1998,life_exp_female,62.035
+PAK,Pakistan,1997,life_exp_female,61.552
+PAK,Pakistan,1996,life_exp_female,61.278
+PAK,Pakistan,1995,life_exp_female,61.031
+PAK,Pakistan,1994,life_exp_female,60.933
+PAK,Pakistan,1993,life_exp_female,60.826
+PAK,Pakistan,1992,life_exp_female,60.854
+PAK,Pakistan,1991,life_exp_female,60.9
+PAK,Pakistan,1990,life_exp_female,60.845
+PAK,Pakistan,1989,life_exp_female,60.65
+PAK,Pakistan,1988,life_exp_female,60.462
+PAK,Pakistan,1987,life_exp_female,60.275
+PAK,Pakistan,1986,life_exp_female,60.198
+PAK,Pakistan,1985,life_exp_female,60.147
+PAK,Pakistan,1984,life_exp_female,60.096
+PAK,Pakistan,1983,life_exp_female,59.9
+PAK,Pakistan,1982,life_exp_female,59.524
+PAK,Pakistan,1981,life_exp_female,58.918
+PAK,Pakistan,1980,life_exp_female,58.184
+PAK,Pakistan,1979,life_exp_female,57.392
+PAK,Pakistan,1978,life_exp_female,56.573
+PAK,Pakistan,1977,life_exp_female,55.776
+PAK,Pakistan,1976,life_exp_female,55.129
+PAK,Pakistan,1975,life_exp_female,54.6
+PAK,Pakistan,1974,life_exp_female,53.966
+PAK,Pakistan,1973,life_exp_female,53.616
+PAK,Pakistan,1972,life_exp_female,53.187
+PAK,Pakistan,1971,life_exp_female,50.046
+PAK,Pakistan,1970,life_exp_female,52.033
+PAK,Pakistan,1969,life_exp_female,51.279
+PAK,Pakistan,1968,life_exp_female,50.443
+PAK,Pakistan,1967,life_exp_female,49.45
+PAK,Pakistan,1966,life_exp_female,48.284
+PAK,Pakistan,1965,life_exp_female,46.794
+PAK,Pakistan,1964,life_exp_female,46.108
+PAK,Pakistan,1963,life_exp_female,44.755
+PAK,Pakistan,1962,life_exp_female,43.743
+PAK,Pakistan,1961,life_exp_female,42.817
+PAK,Pakistan,1960,life_exp_female,41.986
+PAK,Pakistan,2025,adult_mortality_male,
+PAK,Pakistan,2024,adult_mortality_male,199.969
+PAK,Pakistan,2023,adult_mortality_male,201.044
+PAK,Pakistan,2022,adult_mortality_male,202.506
+PAK,Pakistan,2021,adult_mortality_male,235.665
+PAK,Pakistan,2020,adult_mortality_male,227.095
+PAK,Pakistan,2019,adult_mortality_male,206.59
+PAK,Pakistan,2018,adult_mortality_male,208.249
+PAK,Pakistan,2017,adult_mortality_male,210.159
+PAK,Pakistan,2016,adult_mortality_male,212.514
+PAK,Pakistan,2015,adult_mortality_male,215.344
+PAK,Pakistan,2014,adult_mortality_male,217.357
+PAK,Pakistan,2013,adult_mortality_male,218.52
+PAK,Pakistan,2012,adult_mortality_male,220.226
+PAK,Pakistan,2011,adult_mortality_male,221.176
+PAK,Pakistan,2010,adult_mortality_male,223.586
+PAK,Pakistan,2009,adult_mortality_male,222.93
+PAK,Pakistan,2008,adult_mortality_male,223.82
+PAK,Pakistan,2007,adult_mortality_male,221.757
+PAK,Pakistan,2006,adult_mortality_male,218.703
+PAK,Pakistan,2005,adult_mortality_male,229.714
+PAK,Pakistan,2004,adult_mortality_male,216.639
+PAK,Pakistan,2003,adult_mortality_male,216.392
+PAK,Pakistan,2002,adult_mortality_male,217.052
+PAK,Pakistan,2001,adult_mortality_male,218.651
+PAK,Pakistan,2000,adult_mortality_male,220.775
+PAK,Pakistan,1999,adult_mortality_male,223.03
+PAK,Pakistan,1998,adult_mortality_male,225.764
+PAK,Pakistan,1997,adult_mortality_male,232.838
+PAK,Pakistan,1996,adult_mortality_male,229.202
+PAK,Pakistan,1995,adult_mortality_male,227.306
+PAK,Pakistan,1994,adult_mortality_male,223.671
+PAK,Pakistan,1993,adult_mortality_male,221.429
+PAK,Pakistan,1992,adult_mortality_male,221.394
+PAK,Pakistan,1991,adult_mortality_male,222.94
+PAK,Pakistan,1990,adult_mortality_male,223.355
+PAK,Pakistan,1989,adult_mortality_male,223.602
+PAK,Pakistan,1988,adult_mortality_male,222.894
+PAK,Pakistan,1987,adult_mortality_male,221.107
+PAK,Pakistan,1986,adult_mortality_male,217.926
+PAK,Pakistan,1985,adult_mortality_male,216.818
+PAK,Pakistan,1984,adult_mortality_male,218.291
+PAK,Pakistan,1983,adult_mortality_male,221.567
+PAK,Pakistan,1982,adult_mortality_male,226.442
+PAK,Pakistan,1981,adult_mortality_male,233.704
+PAK,Pakistan,1980,adult_mortality_male,240.514
+PAK,Pakistan,1979,adult_mortality_male,246.955
+PAK,Pakistan,1978,adult_mortality_male,251.374
+PAK,Pakistan,1977,adult_mortality_male,258.406
+PAK,Pakistan,1976,adult_mortality_male,260.61
+PAK,Pakistan,1975,adult_mortality_male,261.949
+PAK,Pakistan,1974,adult_mortality_male,264.617
+PAK,Pakistan,1973,adult_mortality_male,261.596
+PAK,Pakistan,1972,adult_mortality_male,260.843
+PAK,Pakistan,1971,adult_mortality_male,388.925
+PAK,Pakistan,1970,adult_mortality_male,266.971
+PAK,Pakistan,1969,adult_mortality_male,273.866
+PAK,Pakistan,1968,adult_mortality_male,281.782
+PAK,Pakistan,1967,adult_mortality_male,292.985
+PAK,Pakistan,1966,adult_mortality_male,305.03
+PAK,Pakistan,1965,adult_mortality_male,320.025
+PAK,Pakistan,1964,adult_mortality_male,330.787
+PAK,Pakistan,1963,adult_mortality_male,341.058
+PAK,Pakistan,1962,adult_mortality_male,350.336
+PAK,Pakistan,1961,adult_mortality_male,359.306
+PAK,Pakistan,1960,adult_mortality_male,367.613
+PAK,Pakistan,2025,adult_mortality_female,
+PAK,Pakistan,2024,adult_mortality_female,128.873
+PAK,Pakistan,2023,adult_mortality_female,129.882
+PAK,Pakistan,2022,adult_mortality_female,131.421
+PAK,Pakistan,2021,adult_mortality_female,157.765
+PAK,Pakistan,2020,adult_mortality_female,148.036
+PAK,Pakistan,2019,adult_mortality_female,136.367
+PAK,Pakistan,2018,adult_mortality_female,138.14
+PAK,Pakistan,2017,adult_mortality_female,139.931
+PAK,Pakistan,2016,adult_mortality_female,141.936
+PAK,Pakistan,2015,adult_mortality_female,144.332
+PAK,Pakistan,2014,adult_mortality_female,146.233
+PAK,Pakistan,2013,adult_mortality_female,148.246
+PAK,Pakistan,2012,adult_mortality_female,149.937
+PAK,Pakistan,2011,adult_mortality_female,151.574
+PAK,Pakistan,2010,adult_mortality_female,153.645
+PAK,Pakistan,2009,adult_mortality_female,155.74
+PAK,Pakistan,2008,adult_mortality_female,158.372
+PAK,Pakistan,2007,adult_mortality_female,162.346
+PAK,Pakistan,2006,adult_mortality_female,167.359
+PAK,Pakistan,2005,adult_mortality_female,188.12
+PAK,Pakistan,2004,adult_mortality_female,179.631
+PAK,Pakistan,2003,adult_mortality_female,184.435
+PAK,Pakistan,2002,adult_mortality_female,188.574
+PAK,Pakistan,2001,adult_mortality_female,192.533
+PAK,Pakistan,2000,adult_mortality_female,196.509
+PAK,Pakistan,1999,adult_mortality_female,200.884
+PAK,Pakistan,1998,adult_mortality_female,205.612
+PAK,Pakistan,1997,adult_mortality_female,210.902
+PAK,Pakistan,1996,adult_mortality_female,211.827
+PAK,Pakistan,1995,adult_mortality_female,212.14
+PAK,Pakistan,1994,adult_mortality_female,209.723
+PAK,Pakistan,1993,adult_mortality_female,207.346
+PAK,Pakistan,1992,adult_mortality_female,202.35
+PAK,Pakistan,1991,adult_mortality_female,197.612
+PAK,Pakistan,1990,adult_mortality_female,194.644
+PAK,Pakistan,1989,adult_mortality_female,194.618
+PAK,Pakistan,1988,adult_mortality_female,194.389
+PAK,Pakistan,1987,adult_mortality_female,194.238
+PAK,Pakistan,1986,adult_mortality_female,191.958
+PAK,Pakistan,1985,adult_mortality_female,189.066
+PAK,Pakistan,1984,adult_mortality_female,186.211
+PAK,Pakistan,1983,adult_mortality_female,186.466
+PAK,Pakistan,1982,adult_mortality_female,190.427
+PAK,Pakistan,1981,adult_mortality_female,199.214
+PAK,Pakistan,1980,adult_mortality_female,210.918
+PAK,Pakistan,1979,adult_mortality_female,224.208
+PAK,Pakistan,1978,adult_mortality_female,237.761
+PAK,Pakistan,1977,adult_mortality_female,250.822
+PAK,Pakistan,1976,adult_mortality_female,261.121
+PAK,Pakistan,1975,adult_mortality_female,268.941
+PAK,Pakistan,1974,adult_mortality_female,277.799
+PAK,Pakistan,1973,adult_mortality_female,281.766
+PAK,Pakistan,1972,adult_mortality_female,286.942
+PAK,Pakistan,1971,adult_mortality_female,327.407
+PAK,Pakistan,1970,adult_mortality_female,302.471
+PAK,Pakistan,1969,adult_mortality_female,313.649
+PAK,Pakistan,1968,adult_mortality_female,326.416
+PAK,Pakistan,1967,adult_mortality_female,342.016
+PAK,Pakistan,1966,adult_mortality_female,360.704
+PAK,Pakistan,1965,adult_mortality_female,384.338
+PAK,Pakistan,1964,adult_mortality_female,395.5
+PAK,Pakistan,1963,adult_mortality_female,415.912
+PAK,Pakistan,1962,adult_mortality_female,432.045
+PAK,Pakistan,1961,adult_mortality_female,443.787
+PAK,Pakistan,1960,adult_mortality_female,452.733
+PAK,Pakistan,2025,infant_mortality,
+PAK,Pakistan,2024,infant_mortality,48.2
+PAK,Pakistan,2023,infant_mortality,49.7
+PAK,Pakistan,2022,infant_mortality,51.3
+PAK,Pakistan,2021,infant_mortality,53.0
+PAK,Pakistan,2020,infant_mortality,54.6
+PAK,Pakistan,2019,infant_mortality,56.3
+PAK,Pakistan,2018,infant_mortality,58.1
+PAK,Pakistan,2017,infant_mortality,59.8
+PAK,Pakistan,2016,infant_mortality,61.7
+PAK,Pakistan,2015,infant_mortality,63.6
+PAK,Pakistan,2014,infant_mortality,65.5
+PAK,Pakistan,2013,infant_mortality,67.4
+PAK,Pakistan,2012,infant_mortality,69.3
+PAK,Pakistan,2011,infant_mortality,71.1
+PAK,Pakistan,2010,infant_mortality,72.8
+PAK,Pakistan,2009,infant_mortality,74.4
+PAK,Pakistan,2008,infant_mortality,75.9
+PAK,Pakistan,2007,infant_mortality,77.3
+PAK,Pakistan,2006,infant_mortality,78.6
+PAK,Pakistan,2005,infant_mortality,80.0
+PAK,Pakistan,2004,infant_mortality,81.4
+PAK,Pakistan,2003,infant_mortality,83.0
+PAK,Pakistan,2002,infant_mortality,84.7
+PAK,Pakistan,2001,infant_mortality,86.6
+PAK,Pakistan,2000,infant_mortality,88.8
+PAK,Pakistan,1999,infant_mortality,91.2
+PAK,Pakistan,1998,infant_mortality,93.8
+PAK,Pakistan,1997,infant_mortality,96.4
+PAK,Pakistan,1996,infant_mortality,99.1
+PAK,Pakistan,1995,infant_mortality,101.8
+PAK,Pakistan,1994,infant_mortality,104.3
+PAK,Pakistan,1993,infant_mortality,106.7
+PAK,Pakistan,1992,infant_mortality,108.9
+PAK,Pakistan,1991,infant_mortality,111.0
+PAK,Pakistan,1990,infant_mortality,113.0
+PAK,Pakistan,1989,infant_mortality,114.8
+PAK,Pakistan,1988,infant_mortality,116.6
+PAK,Pakistan,1987,infant_mortality,118.4
+PAK,Pakistan,1986,infant_mortality,120.1
+PAK,Pakistan,1985,infant_mortality,121.7
+PAK,Pakistan,1984,infant_mortality,123.2
+PAK,Pakistan,1983,infant_mortality,124.5
+PAK,Pakistan,1982,infant_mortality,125.7
+PAK,Pakistan,1981,infant_mortality,126.6
+PAK,Pakistan,1980,infant_mortality,127.4
+PAK,Pakistan,1979,infant_mortality,128.1
+PAK,Pakistan,1978,infant_mortality,128.8
+PAK,Pakistan,1977,infant_mortality,129.3
+PAK,Pakistan,1976,infant_mortality,129.9
+PAK,Pakistan,1975,infant_mortality,130.6
+PAK,Pakistan,1974,infant_mortality,131.4
+PAK,Pakistan,1973,infant_mortality,132.2
+PAK,Pakistan,1972,infant_mortality,133.2
+PAK,Pakistan,1971,infant_mortality,134.4
+PAK,Pakistan,1970,infant_mortality,135.7
+PAK,Pakistan,1969,infant_mortality,137.2
+PAK,Pakistan,1968,infant_mortality,138.8
+PAK,Pakistan,1967,infant_mortality,140.8
+PAK,Pakistan,1966,infant_mortality,143.2
+PAK,Pakistan,1965,infant_mortality,146.2
+PAK,Pakistan,1964,infant_mortality,149.7
+PAK,Pakistan,1963,infant_mortality,153.7
+PAK,Pakistan,1962,infant_mortality,158.3
+PAK,Pakistan,1961,infant_mortality,163.1
+PAK,Pakistan,1960,infant_mortality,168.3
+PAK,Pakistan,2025,under5_mortality,
+PAK,Pakistan,2024,under5_mortality,56.0
+PAK,Pakistan,2023,under5_mortality,57.8
+PAK,Pakistan,2022,under5_mortality,59.7
+PAK,Pakistan,2021,under5_mortality,61.7
+PAK,Pakistan,2020,under5_mortality,63.7
+PAK,Pakistan,2019,under5_mortality,65.8
+PAK,Pakistan,2018,under5_mortality,67.9
+PAK,Pakistan,2017,under5_mortality,70.1
+PAK,Pakistan,2016,under5_mortality,72.4
+PAK,Pakistan,2015,under5_mortality,74.8
+PAK,Pakistan,2014,under5_mortality,77.2
+PAK,Pakistan,2013,under5_mortality,79.6
+PAK,Pakistan,2012,under5_mortality,82.0
+PAK,Pakistan,2011,under5_mortality,84.3
+PAK,Pakistan,2010,under5_mortality,86.5
+PAK,Pakistan,2009,under5_mortality,88.5
+PAK,Pakistan,2008,under5_mortality,90.5
+PAK,Pakistan,2007,under5_mortality,92.3
+PAK,Pakistan,2006,under5_mortality,94.2
+PAK,Pakistan,2005,under5_mortality,96.0
+PAK,Pakistan,2004,under5_mortality,98.0
+PAK,Pakistan,2003,under5_mortality,100.1
+PAK,Pakistan,2002,under5_mortality,102.5
+PAK,Pakistan,2001,under5_mortality,105.1
+PAK,Pakistan,2000,under5_mortality,107.9
+PAK,Pakistan,1999,under5_mortality,111.1
+PAK,Pakistan,1998,under5_mortality,114.5
+PAK,Pakistan,1997,under5_mortality,117.9
+PAK,Pakistan,1996,under5_mortality,121.5
+PAK,Pakistan,1995,under5_mortality,125.0
+PAK,Pakistan,1994,under5_mortality,128.3
+PAK,Pakistan,1993,under5_mortality,131.5
+PAK,Pakistan,1992,under5_mortality,134.6
+PAK,Pakistan,1991,under5_mortality,137.6
+PAK,Pakistan,1990,under5_mortality,140.4
+PAK,Pakistan,1989,under5_mortality,143.1
+PAK,Pakistan,1988,under5_mortality,145.8
+PAK,Pakistan,1987,under5_mortality,148.5
+PAK,Pakistan,1986,under5_mortality,151.3
+PAK,Pakistan,1985,under5_mortality,153.9
+PAK,Pakistan,1984,under5_mortality,156.6
+PAK,Pakistan,1983,under5_mortality,159.1
+PAK,Pakistan,1982,under5_mortality,161.4
+PAK,Pakistan,1981,under5_mortality,163.6
+PAK,Pakistan,1980,under5_mortality,165.7
+PAK,Pakistan,1979,under5_mortality,167.8
+PAK,Pakistan,1978,under5_mortality,169.9
+PAK,Pakistan,1977,under5_mortality,171.9
+PAK,Pakistan,1976,under5_mortality,174.1
+PAK,Pakistan,1975,under5_mortality,176.4
+PAK,Pakistan,1974,under5_mortality,178.9
+PAK,Pakistan,1973,under5_mortality,181.5
+PAK,Pakistan,1972,under5_mortality,184.4
+PAK,Pakistan,1971,under5_mortality,187.5
+PAK,Pakistan,1970,under5_mortality,190.8
+PAK,Pakistan,1969,under5_mortality,194.3
+PAK,Pakistan,1968,under5_mortality,198.1
+PAK,Pakistan,1967,under5_mortality,202.4
+PAK,Pakistan,1966,under5_mortality,207.3
+PAK,Pakistan,1965,under5_mortality,213.1
+PAK,Pakistan,1964,under5_mortality,219.5
+PAK,Pakistan,1963,under5_mortality,226.8
+PAK,Pakistan,1962,under5_mortality,235.0
+PAK,Pakistan,1961,under5_mortality,243.5
+PAK,Pakistan,1960,under5_mortality,252.8
+PAK,Pakistan,2025,crude_death_rate,
+PAK,Pakistan,2024,crude_death_rate,6.445
+PAK,Pakistan,2023,crude_death_rate,6.466
+PAK,Pakistan,2022,crude_death_rate,6.513
+PAK,Pakistan,2021,crude_death_rate,7.23
+PAK,Pakistan,2020,crude_death_rate,7.301
+PAK,Pakistan,2019,crude_death_rate,6.772
+PAK,Pakistan,2018,crude_death_rate,6.852
+PAK,Pakistan,2017,crude_death_rate,6.94
+PAK,Pakistan,2016,crude_death_rate,7.039
+PAK,Pakistan,2015,crude_death_rate,7.164
+PAK,Pakistan,2014,crude_death_rate,7.272
+PAK,Pakistan,2013,crude_death_rate,7.377
+PAK,Pakistan,2012,crude_death_rate,7.482
+PAK,Pakistan,2011,crude_death_rate,7.575
+PAK,Pakistan,2010,crude_death_rate,7.691
+PAK,Pakistan,2009,crude_death_rate,7.741
+PAK,Pakistan,2008,crude_death_rate,7.8
+PAK,Pakistan,2007,crude_death_rate,7.84
+PAK,Pakistan,2006,crude_death_rate,7.904
+PAK,Pakistan,2005,crude_death_rate,8.411
+PAK,Pakistan,2004,crude_death_rate,8.137
+PAK,Pakistan,2003,crude_death_rate,8.32
+PAK,Pakistan,2002,crude_death_rate,8.492
+PAK,Pakistan,2001,crude_death_rate,8.685
+PAK,Pakistan,2000,crude_death_rate,8.899
+PAK,Pakistan,1999,crude_death_rate,9.122
+PAK,Pakistan,1998,crude_death_rate,9.348
+PAK,Pakistan,1997,crude_death_rate,9.658
+PAK,Pakistan,1996,crude_death_rate,9.834
+PAK,Pakistan,1995,crude_death_rate,10.029
+PAK,Pakistan,1994,crude_death_rate,10.187
+PAK,Pakistan,1993,crude_death_rate,10.351
+PAK,Pakistan,1992,crude_death_rate,10.513
+PAK,Pakistan,1991,crude_death_rate,10.625
+PAK,Pakistan,1990,crude_death_rate,10.763
+PAK,Pakistan,1989,crude_death_rate,10.942
+PAK,Pakistan,1988,crude_death_rate,11.079
+PAK,Pakistan,1987,crude_death_rate,11.188
+PAK,Pakistan,1986,crude_death_rate,11.259
+PAK,Pakistan,1985,crude_death_rate,11.344
+PAK,Pakistan,1984,crude_death_rate,11.459
+PAK,Pakistan,1983,crude_death_rate,11.571
+PAK,Pakistan,1982,crude_death_rate,11.707
+PAK,Pakistan,1981,crude_death_rate,11.883
+PAK,Pakistan,1980,crude_death_rate,12.066
+PAK,Pakistan,1979,crude_death_rate,12.351
+PAK,Pakistan,1978,crude_death_rate,12.616
+PAK,Pakistan,1977,crude_death_rate,12.887
+PAK,Pakistan,1976,crude_death_rate,13.084
+PAK,Pakistan,1975,crude_death_rate,13.263
+PAK,Pakistan,1974,crude_death_rate,13.507
+PAK,Pakistan,1973,crude_death_rate,13.61
+PAK,Pakistan,1972,crude_death_rate,13.75
+PAK,Pakistan,1971,crude_death_rate,16.533
+PAK,Pakistan,1970,crude_death_rate,14.273
+PAK,Pakistan,1969,crude_death_rate,14.65
+PAK,Pakistan,1968,crude_death_rate,15.084
+PAK,Pakistan,1967,crude_death_rate,15.618
+PAK,Pakistan,1966,crude_death_rate,16.223
+PAK,Pakistan,1965,crude_death_rate,17.066
+PAK,Pakistan,1964,crude_death_rate,17.506
+PAK,Pakistan,1963,crude_death_rate,18.234
+PAK,Pakistan,1962,crude_death_rate,18.857
+PAK,Pakistan,1961,crude_death_rate,19.483
+PAK,Pakistan,1960,crude_death_rate,20.065
+PAK,Pakistan,2025,pop_65plus_pct,4.36186248416949
+PAK,Pakistan,2024,pop_65plus_pct,4.28062891951199
+PAK,Pakistan,2023,pop_65plus_pct,4.19627145721884
+PAK,Pakistan,2022,pop_65plus_pct,4.11167709278366
+PAK,Pakistan,2021,pop_65plus_pct,4.05217393000066
+PAK,Pakistan,2020,pop_65plus_pct,4.02265777208311
+PAK,Pakistan,2019,pop_65plus_pct,3.98447495645256
+PAK,Pakistan,2018,pop_65plus_pct,3.93281543027845
+PAK,Pakistan,2017,pop_65plus_pct,3.88886536895529
+PAK,Pakistan,2016,pop_65plus_pct,3.85041862791259
+PAK,Pakistan,2015,pop_65plus_pct,3.82091940742152
+PAK,Pakistan,2014,pop_65plus_pct,3.80534429416474
+PAK,Pakistan,2013,pop_65plus_pct,3.78994632917293
+PAK,Pakistan,2012,pop_65plus_pct,3.76068938152991
+PAK,Pakistan,2011,pop_65plus_pct,3.72474850919145
+PAK,Pakistan,2010,pop_65plus_pct,3.69129626483307
+PAK,Pakistan,2009,pop_65plus_pct,3.66199682313504
+PAK,Pakistan,2008,pop_65plus_pct,3.634947357247
+PAK,Pakistan,2007,pop_65plus_pct,3.61212575764399
+PAK,Pakistan,2006,pop_65plus_pct,3.59034640454236
+PAK,Pakistan,2005,pop_65plus_pct,3.56645421924093
+PAK,Pakistan,2004,pop_65plus_pct,3.54463674789533
+PAK,Pakistan,2003,pop_65plus_pct,3.524728477454
+PAK,Pakistan,2002,pop_65plus_pct,3.50469191758336
+PAK,Pakistan,2001,pop_65plus_pct,3.48784853720962
+PAK,Pakistan,2000,pop_65plus_pct,3.47834412663736
+PAK,Pakistan,1999,pop_65plus_pct,3.47018225843515
+PAK,Pakistan,1998,pop_65plus_pct,3.4606057094134
+PAK,Pakistan,1997,pop_65plus_pct,3.45263082476666
+PAK,Pakistan,1996,pop_65plus_pct,3.44648075988229
+PAK,Pakistan,1995,pop_65plus_pct,3.44136384757952
+PAK,Pakistan,1994,pop_65plus_pct,3.43541059795118
+PAK,Pakistan,1993,pop_65plus_pct,3.42877342582189
+PAK,Pakistan,1992,pop_65plus_pct,3.41922481333063
+PAK,Pakistan,1991,pop_65plus_pct,3.40983519825081
+PAK,Pakistan,1990,pop_65plus_pct,3.40581841718903
+PAK,Pakistan,1989,pop_65plus_pct,3.40043630559911
+PAK,Pakistan,1988,pop_65plus_pct,3.39174691699307
+PAK,Pakistan,1987,pop_65plus_pct,3.38213711602481
+PAK,Pakistan,1986,pop_65plus_pct,3.37023428873298
+PAK,Pakistan,1985,pop_65plus_pct,3.35450826423857
+PAK,Pakistan,1984,pop_65plus_pct,3.33264974822239
+PAK,Pakistan,1983,pop_65plus_pct,3.30798354086875
+PAK,Pakistan,1982,pop_65plus_pct,3.28666045330915
+PAK,Pakistan,1981,pop_65plus_pct,3.26865443930917
+PAK,Pakistan,1980,pop_65plus_pct,3.2556466374638
+PAK,Pakistan,1979,pop_65plus_pct,3.23623646681089
+PAK,Pakistan,1978,pop_65plus_pct,3.2034870231653
+PAK,Pakistan,1977,pop_65plus_pct,3.16674577499454
+PAK,Pakistan,1976,pop_65plus_pct,3.12820167373184
+PAK,Pakistan,1975,pop_65plus_pct,3.08826979180622
+PAK,Pakistan,1974,pop_65plus_pct,3.04784640953495
+PAK,Pakistan,1973,pop_65plus_pct,3.00661625185485
+PAK,Pakistan,1972,pop_65plus_pct,2.96293228865687
+PAK,Pakistan,1971,pop_65plus_pct,2.92289554635562
+PAK,Pakistan,1970,pop_65plus_pct,2.87736894147935
+PAK,Pakistan,1969,pop_65plus_pct,2.81642841898246
+PAK,Pakistan,1968,pop_65plus_pct,2.7490143438694
+PAK,Pakistan,1967,pop_65plus_pct,2.6799822587321
+PAK,Pakistan,1966,pop_65plus_pct,2.61554371311046
+PAK,Pakistan,1965,pop_65plus_pct,2.56255005182583
+PAK,Pakistan,1964,pop_65plus_pct,2.52070967047943
+PAK,Pakistan,1963,pop_65plus_pct,2.48602993273176
+PAK,Pakistan,1962,pop_65plus_pct,2.4578938578481
+PAK,Pakistan,1961,pop_65plus_pct,2.43429542635849
+PAK,Pakistan,1960,pop_65plus_pct,2.41216179386827
+PAK,Pakistan,2025,old_age_dependency,7.34394020038659
+PAK,Pakistan,2024,old_age_dependency,7.25107077816052
+PAK,Pakistan,2023,old_age_dependency,7.14068512944463
+PAK,Pakistan,2022,old_age_dependency,7.0190839152709
+PAK,Pakistan,2021,old_age_dependency,6.94315486331907
+PAK,Pakistan,2020,old_age_dependency,6.92159286498641
+PAK,Pakistan,2019,old_age_dependency,6.87845721571853
+PAK,Pakistan,2018,old_age_dependency,6.80779819172731
+PAK,Pakistan,2017,old_age_dependency,6.75016900447542
+PAK,Pakistan,2016,old_age_dependency,6.69641235487885
+PAK,Pakistan,2015,old_age_dependency,6.65458281911498
+PAK,Pakistan,2014,old_age_dependency,6.63749563395922
+PAK,Pakistan,2013,old_age_dependency,6.61801333718819
+PAK,Pakistan,2012,old_age_dependency,6.57142311648024
+PAK,Pakistan,2011,old_age_dependency,6.51868419629694
+PAK,Pakistan,2010,old_age_dependency,6.47956988190071
+PAK,Pakistan,2009,old_age_dependency,6.45699331270779
+PAK,Pakistan,2008,old_age_dependency,6.4449766599296
+PAK,Pakistan,2007,old_age_dependency,6.45184906839616
+PAK,Pakistan,2006,old_age_dependency,6.46621477151715
+PAK,Pakistan,2005,old_age_dependency,6.47307549751466
+PAK,Pakistan,2004,old_age_dependency,6.48681813266159
+PAK,Pakistan,2003,old_age_dependency,6.50101276340935
+PAK,Pakistan,2002,old_age_dependency,6.5027784587605
+PAK,Pakistan,2001,old_age_dependency,6.50753579882232
+PAK,Pakistan,2000,old_age_dependency,6.5332543183133
+PAK,Pakistan,1999,old_age_dependency,6.55684086769726
+PAK,Pakistan,1998,old_age_dependency,6.57082155689237
+PAK,Pakistan,1997,old_age_dependency,6.58641878307357
+PAK,Pakistan,1996,old_age_dependency,6.60005928983198
+PAK,Pakistan,1995,old_age_dependency,6.60759386977291
+PAK,Pakistan,1994,old_age_dependency,6.59995226359149
+PAK,Pakistan,1993,old_age_dependency,6.58102690827223
+PAK,Pakistan,1992,old_age_dependency,6.54178714070526
+PAK,Pakistan,1991,old_age_dependency,6.49933474828017
+PAK,Pakistan,1990,old_age_dependency,6.48305955794592
+PAK,Pakistan,1989,old_age_dependency,6.46205047375659
+PAK,Pakistan,1988,old_age_dependency,6.42798799928833
+PAK,Pakistan,1987,old_age_dependency,6.39428256997121
+PAK,Pakistan,1986,old_age_dependency,6.35719668089263
+PAK,Pakistan,1985,old_age_dependency,6.3113409244282
+PAK,Pakistan,1984,old_age_dependency,6.24464954133975
+PAK,Pakistan,1983,old_age_dependency,6.17181883267974
+PAK,Pakistan,1982,old_age_dependency,6.12069056339616
+PAK,Pakistan,1981,old_age_dependency,6.09140557426731
+PAK,Pakistan,1980,old_age_dependency,6.09588673767883
+PAK,Pakistan,1979,old_age_dependency,6.09360217190367
+PAK,Pakistan,1978,old_age_dependency,6.04624999836136
+PAK,Pakistan,1977,old_age_dependency,5.983511997549
+PAK,Pakistan,1976,old_age_dependency,5.91623793320248
+PAK,Pakistan,1975,old_age_dependency,5.84356406336732
+PAK,Pakistan,1974,old_age_dependency,5.76609573725798
+PAK,Pakistan,1973,old_age_dependency,5.68327111929794
+PAK,Pakistan,1972,old_age_dependency,5.5921498371906
+PAK,Pakistan,1971,old_age_dependency,5.50417309569055
+PAK,Pakistan,1970,old_age_dependency,5.40254485552602
+PAK,Pakistan,1969,old_age_dependency,5.26868312473029
+PAK,Pakistan,1968,old_age_dependency,5.11859519277887
+PAK,Pakistan,1967,old_age_dependency,4.96161049332742
+PAK,Pakistan,1966,old_age_dependency,4.81012911494952
+PAK,Pakistan,1965,old_age_dependency,4.6775321079892
+PAK,Pakistan,1964,old_age_dependency,4.56313274393047
+PAK,Pakistan,1963,old_age_dependency,4.46597712674746
+PAK,Pakistan,1962,old_age_dependency,4.39189666796004
+PAK,Pakistan,1961,old_age_dependency,4.3347187938649
+PAK,Pakistan,1960,old_age_dependency,4.28658147903881
+PAK,Pakistan,2025,population_total,255219554.0
+PAK,Pakistan,2024,population_total,251269164.0
+PAK,Pakistan,2023,population_total,247504495.0
+PAK,Pakistan,2022,population_total,243700667.0
+PAK,Pakistan,2021,population_total,239477801.0
+PAK,Pakistan,2020,population_total,235001746.0
+PAK,Pakistan,2019,population_total,230800899.0
+PAK,Pakistan,2018,population_total,226928892.0
+PAK,Pakistan,2017,population_total,223273967.0
+PAK,Pakistan,2016,population_total,220138869.0
+PAK,Pakistan,2015,population_total,217290883.0
+PAK,Pakistan,2014,population_total,214264647.0
+PAK,Pakistan,2013,population_total,211073978.0
+PAK,Pakistan,2012,population_total,207667125.0
+PAK,Pakistan,2011,population_total,203746065.0
+PAK,Pakistan,2010,population_total,199239047.0
+PAK,Pakistan,2009,population_total,194376534.0
+PAK,Pakistan,2008,population_total,189499113.0
+PAK,Pakistan,2007,population_total,184493231.0
+PAK,Pakistan,2006,population_total,179682690.0
+PAK,Pakistan,2005,population_total,175453212.0
+PAK,Pakistan,2004,population_total,171286000.0
+PAK,Pakistan,2003,population_total,167110248.0
+PAK,Pakistan,2002,population_total,163222549.0
+PAK,Pakistan,2001,population_total,159270907.0
+PAK,Pakistan,2000,population_total,154879127.0
+PAK,Pakistan,1999,population_total,150565377.0
+PAK,Pakistan,1998,population_total,146522356.0
+PAK,Pakistan,1997,population_total,142531804.0
+PAK,Pakistan,1996,population_total,138557092.0
+PAK,Pakistan,1995,population_total,134582253.0
+PAK,Pakistan,1994,population_total,130748083.0
+PAK,Pakistan,1993,population_total,127020117.0
+PAK,Pakistan,1992,population_total,123546848.0
+PAK,Pakistan,1991,population_total,120060406.0
+PAK,Pakistan,1990,population_total,116155576.0
+PAK,Pakistan,1989,population_total,112336629.0
+PAK,Pakistan,1988,population_total,108724739.0
+PAK,Pakistan,1987,population_total,105130717.0
+PAK,Pakistan,1986,population_total,101606764.0
+PAK,Pakistan,1985,population_total,98229285.0
+PAK,Pakistan,1984,population_total,95164936.0
+PAK,Pakistan,1983,population_total,92227711.0
+PAK,Pakistan,1982,population_total,89089246.0
+PAK,Pakistan,1981,population_total,85802049.0
+PAK,Pakistan,1980,population_total,82291010.0
+PAK,Pakistan,1979,population_total,78997039.0
+PAK,Pakistan,1978,population_total,76307379.0
+PAK,Pakistan,1977,population_total,73901827.0
+PAK,Pakistan,1976,population_total,71620254.0
+PAK,Pakistan,1975,population_total,69461175.0
+PAK,Pakistan,1974,population_total,67415487.0
+PAK,Pakistan,1973,population_total,65461912.0
+PAK,Pakistan,1972,population_total,63583194.0
+PAK,Pakistan,1971,population_total,61847899.0
+PAK,Pakistan,1970,population_total,60166719.0
+PAK,Pakistan,1969,population_total,58460939.0
+PAK,Pakistan,1968,population_total,56810507.0
+PAK,Pakistan,1967,population_total,55214768.0
+PAK,Pakistan,1966,population_total,53678667.0
+PAK,Pakistan,1965,population_total,52209010.0
+PAK,Pakistan,1964,population_total,50799999.0
+PAK,Pakistan,1963,population_total,49447776.0
+PAK,Pakistan,1962,population_total,48156128.0
+PAK,Pakistan,1961,population_total,46921277.0
+PAK,Pakistan,1960,population_total,45709310.0
