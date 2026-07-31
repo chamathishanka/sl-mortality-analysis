@@ -2,3 +2,7 @@
 __pycache__/
 *.pbix.bak
 .ipynb_checkpoints/
+
+# Private working document — names target employers and application strategy.
+# Must never be published to a public repo.
+BUILD-GUIDE.md
